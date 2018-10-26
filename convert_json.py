@@ -25,5 +25,7 @@ with open(path) as json_data:
 bids = data["data"]['bids']
 for b in bids:
     pprint(b)
+    if b == "name":
+        pprint("sdfkskdfjkjsdf", "name")
 
 
