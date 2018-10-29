@@ -34,13 +34,23 @@ with open(path) as json_data:
 
 bids = data["data"]['bids']
 for b in bids:
-    pprint(b)
+    # pprint(b)
 
-    print("Функції та методи для b: ", dir(b))
+    amount = b["value"]["amount"]
+    currency = b["value"]["currency"]
 
-    print(Colors.WARNING + "This is name: " + Colors.ENDC + Colors.OKBLUE + str(b["tenderers"][0]["name"]) + Colors.ENDC)
-    print(Colors.WARNING + "This is amount: " + Colors.ENDC + Colors.OKBLUE + str(b["value"]["amount"]) + Colors.ENDC)
-    print(Colors.WARNING + "This is currency: "+ Colors.ENDC + Colors.OKBLUE + str(b["value"]["currency"]) + Colors.ENDC)
+    for tenderer in b["tenderers"]:
+        print(str(tenderer["name"]), end=' ')
+    print(str(amount) + str(currency))
+
+
+
+
+    # print(Colors.WARNING + "This is name: " + Colors.ENDC + Colors.OKBLUE + str(name) + Colors.ENDC)
+    # print(Colors.WARNING + "This is amount: " + Colors.ENDC + Colors.OKBLUE + str(amount) + Colors.ENDC)
+    # print(Colors.WARNING + "This is currency: " + Colors.ENDC + Colors.OKBLUE + str(currency) + Colors.ENDC)
+
+
 
 
 
