@@ -16,3 +16,13 @@ class bcolors:
     UNDERLINE = '\033[4m'
 
 print (bcolors.WARNING + "Warning: No active frommets remain. Continue?" + bcolors.ENDC)
+
+
+
+
+"""
+Приклади як оформити кольорами вивід
+"""
+# print(Colors.WARNING + "This is name: " + Colors.ENDC + Colors.OKBLUE + str(name) + Colors.ENDC)
+# print(Colors.WARNING + "This is amount: " + Colors.ENDC + Colors.OKBLUE + str(amount) + Colors.ENDC)
+# print(Colors.WARNING + "This is currency: " + Colors.ENDC + Colors.OKBLUE + str(currency) + Colors.ENDC)

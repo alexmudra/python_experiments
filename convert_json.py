@@ -31,48 +31,31 @@ with open(path) as json_data:
 '''
 Вивести з json нейм і амоунт + карренсі
 '''
-
+"""
+Часткове рішення 1
+"""
 bids = data["data"]['bids']
 
 for b in bids:
-<<<<<<< HEAD
     pprint(b)
 print("---------------------------------------\n")
 print("Info from NAME" + str(b['tenderers'][0]))
 
-#TODO
-nothin to do
 
 
+'''
+Вивести з json нейм і амоунт + карренсі
+'''
+'''
+Моє рішення 2
+'''
 
+amount = b["value"]["amount"]
+currency = b["value"]["currency"]
+valueAdded = b["value"]["valueAddedTaxIncluded"]
 
-#TODO
-
-
-
-
-skdfkjsdfkjsdf
-skdjfkjsdfk
-
-=======
-    # pprint(b)
-
-    amount = b["value"]["amount"]
-    currency = b["value"]["currency"]
-
-    for tenderer in b["tenderers"]:
-        print(str(tenderer["name"]), end=' ')
-    print(str(amount) + str(currency))
-
-
-
-
-    # print(Colors.WARNING + "This is name: " + Colors.ENDC + Colors.OKBLUE + str(name) + Colors.ENDC)
-    # print(Colors.WARNING + "This is amount: " + Colors.ENDC + Colors.OKBLUE + str(amount) + Colors.ENDC)
-    # print(Colors.WARNING + "This is currency: " + Colors.ENDC + Colors.OKBLUE + str(currency) + Colors.ENDC)
-
-
-
->>>>>>> cf3051ed53ced326030c85a205aea9a695c3933d
+for tenderer in b["tenderers"]:
+    print(str(tenderer["name"]), end=' ')
+    print(str(amount) + " " + str(currency) + " " +str(valueAdded))
 
 
