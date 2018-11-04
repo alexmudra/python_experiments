@@ -23,9 +23,25 @@ with open(path) as json_data:
 
 
 bids = data["data"]['bids']
+
 for b in bids:
     pprint(b)
-    if b == "name":
-        pprint("sdfkskdfjkjsdf", "name")
+print("---------------------------------------\n")
+print("Info from NAME" + str(b['tenderers'][0]))
+
+#TODO
+sdkfj
+
+
+
+
+#TODO
+
+
+
+
+skdfkjsdfkjsdf
+skdjfkjsdfk
+
 
 
