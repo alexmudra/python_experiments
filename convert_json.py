@@ -41,7 +41,7 @@ print("---------------------------------------\n")
 print("Info from NAME" + str(b['tenderers'][0]))
 
 #TODO
-sdkfj
+nothin to do
 
 
 
