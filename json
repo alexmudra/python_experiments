@@ -1,0 +1,408 @@
+{
+    "data": {
+        "procurementMethod": "open",
+        "auctionID": "UA-PS-2018-10-24-000046-1",
+        "minNumberOfQualifiedBids": 1,
+        "awardPeriod": {
+            "startDate": "2018-10-24T12:40:39.912604+03:00",
+            "endDate": "2018-10-24T12:52:05.089501+03:00"
+        },
+        "merchandisingObject": "4690c9dc8e514e168e44c9fe0919e3d3",
+        "enquiryPeriod": {
+            "startDate": "2018-10-24T12:16:17.905025+03:00",
+            "endDate": "2018-10-24T12:35:36.859277+03:00"
+        },
+        "registrationFee": {
+            "currency": "UAH",
+            "amount": 744.6
+        },
+        "submissionMethod": "electronicAuction",
+        "awardCriteria": "highestCost",
+        "owner": "25h8.business",
+        "id": "637618467b9645d2ae88b6423327d5f2",
+        "guarantee": {
+            "currency": "UAH",
+            "amount": 500
+        },
+        "documents": [
+            {
+                "description": "Перелік та реквізити авторизованих електронних майданчиків (найменування установи банку, її адреса та номери рахунків, відкритих для внесення гарантійного внеску, реєстраційного внеску)",
+                "title": "Перелік та реквізити авторизованих електронних майданчиків",
+                "url": "https://prozorro.sale/info/elektronni-majdanchiki-ets-prozorroprodazhi-cbd2",
+                "documentOf": "lot",
+                "relatedItem": "4690c9dc8e514e168e44c9fe0919e3d3",
+                "documentType": "x_PlatformLegalDetails",
+                "id": "27b2a2b2402c40a583cbf4a5257f90b0",
+                "datePublished": "2018-10-24T11:44:16.201735+03:00",
+                "dateModified": "2018-10-24T11:44:16.201761+03:00"
+            }
+        ],
+        "title": "[ТЕСТУВАННЯ] лотлдот",
+        "tenderAttempts": 2,
+        "procurementMethodDetails": "quick, accelerator=1440",
+        "auctionParameters": {
+            "type": "english"
+        },
+        "dateModified": "2018-10-24T13:34:07.338956+03:00",
+        "status": "complete",
+        "tenderPeriod": {
+            "startDate": "2018-10-24T12:16:17.905025+03:00",
+            "endDate": "2018-10-24T12:35:36.859277+03:00"
+        },
+        "description": "лдотлдот",
+        "contracts": [
+            {
+                "status": "active",
+                "documents": [
+                    {
+                        "hash": "md5:60381db0f76b669e7217d94f7eb19969",
+                        "format": "image/png",
+                        "url": "https://public.docs-sandbox.ea2.openprocurement.net/get/dd39434983a14a5384e0744a522f7abd?KeyID=3b361293&Signature=y0Fv0GfSGolJdPkH6RIeQCfJ27UEUn0%2FG344fs5JEv3KkEDNbFQBGFeEEzdr56Wg4lyijWn99TttQmg%2FCy5dCA%253D%253D",
+                        "title": "Selection_021.png",
+                        "documentOf": "auction",
+                        "datePublished": "2018-10-24T12:56:04.871455+03:00",
+                        "documentType": "contractSigned",
+                        "id": "0afa46320cd544b886bdc0ccef08b2ea",
+                        "dateModified": "2018-10-24T12:56:04.871479+03:00"
+                    }
+                ],
+                "signingPeriod": {
+                    "startDate": "2018-10-24T12:40:39.912604+03:00",
+                    "endDate": "2018-10-24T13:20:53.218220+03:00"
+                },
+                "items": [
+                    {
+                        "registrationDetails": {
+                            "status": "unknown",
+                            "registrationID": ""
+                        },
+                        "description": "лдотлод",
+                        "classification": {
+                            "scheme": "CAV-PS",
+                            "description": "Квартира в будинку малоповерхового житлового будівництва",
+                            "id": "04110000-2"
+                        },
+                        "additionalClassifications": [
+                            {
+                                "scheme": "dk018",
+                                "description": "Будівлі промислові та склади",
+                                "id": "125"
+                            }
+                        ],
+                        "address": {
+                            "postalCode": "35435",
+                            "countryName": "Україна",
+                            "streetAddress": "джьлдль",
+                            "region": "Донецька",
+                            "locality": "лдждльлд"
+                        },
+                        "id": "99c857f0b27a7190cb8b6fb5d2037da7",
+                        "unit": {
+                            "code": "E48",
+                            "name": "послуга"
+                        },
+                        "quantity": 10
+                    }
+                ],
+                "suppliers": [
+                    {
+                        "contactPoint": {
+                            "telephone": "+38(444)444-44-44",
+                            "faxNumber": "+38(444)444-44-44",
+                            "name": "Прізвище Ім'я По-батьковi",
+                            "email": "ustudiotesti.ng@gmail.com"
+                        },
+                        "identifier": {
+                            "scheme": "UA-EDR",
+                            "id": "2342344344"
+                        },
+                        "name": "User1(FOP)",
+                        "address": {
+                            "postalCode": "02217",
+                            "countryName": "Україна",
+                            "streetAddress": "Закревського 39, 40",
+                            "region": "місто Київ",
+                            "locality": "Київ"
+                        }
+                    }
+                ],
+                "contractNumber": "3251321",
+                "dateSigned": "2018-10-24T12:52:06+03:00",
+                "value": {
+                    "currency": "UAH",
+                    "amount": 12000,
+                    "valueAddedTaxIncluded": false
+                },
+                "date": "2018-10-24T13:34:07.338956+03:00",
+                "awardID": "df365f61c7de46ee97271797fe57ab4b",
+                "id": "c156eb0abd98434e98b8a222e7919760",
+                "contractID": "UA-PS-2018-10-24-000046-1-21"
+            }
+        ],
+        "procurementMethodType": "sellout.english",
+        "bankAccount": {
+            "accountIdentification": [
+                {
+                    "scheme": "UA-EDR",
+                    "id": "212154",
+                    "description": "ЄДПРОУ отримуцвача"
+                },
+                {
+                    "scheme": "UA-MFO",
+                    "id": "5564654",
+                    "description": "МФО банку"
+                },
+                {
+                    "scheme": "accountNumber",
+                    "id": "6565654",
+                    "description": "Розрахунковий рахунок"
+                }
+            ],
+            "bankName": "lkmklm"
+        },
+        "title_en": "[TESTING] ",
+        "awards": [
+            {
+                "status": "active",
+                "documents": [
+                    {
+                        "hash": "md5:61dc232b2d7eca2f25885478c8956d7d",
+                        "author": "auction_owner",
+                        "url": "https://public.docs-sandbox.ea2.openprocurement.net/get/f1ada07941e6458eb6a0cde5c9b6bcdf?KeyID=3b361293&Signature=xiX6DvFEl%252BdEOGnm7nXUK7C%252BlDaxK3Rcnpgyb43%2Fmmv73lMhG%2FodAqjeaV5sl8ydsVieLE%2Fbn4m1XeiAGO%252BDCA%253D%253D",
+                        "format": "image/png",
+                        "title": "Screenshot from 2018-10-16 18-21-53.png",
+                        "documentOf": "auction",
+                        "datePublished": "2018-10-24T12:52:03.912873+03:00",
+                        "documentType": "auctionProtocol",
+                        "id": "9dfa0e4ef3994586b4a49ecd693e3188",
+                        "dateModified": "2018-10-24T12:52:03.912897+03:00"
+                    }
+                ],
+                "verificationPeriod": {
+                    "startDate": "2018-10-24T12:40:39.912604+03:00",
+                    "endDate": "2018-10-24T12:52:05.089501+03:00"
+                },
+                "complaintPeriod": {
+                    "startDate": "2018-10-24T12:40:39.912604+03:00",
+                    "endDate": "2018-10-24T12:52:05.089501+03:00"
+                },
+                "suppliers": [
+                    {
+                        "contactPoint": {
+                            "telephone": "+38(444)444-44-44",
+                            "faxNumber": "+38(444)444-44-44",
+                            "name": "Прізвище Ім'я По-батьковi",
+                            "email": "ustudiotesti.ng@gmail.com"
+                        },
+                        "identifier": {
+                            "scheme": "UA-EDR",
+                            "id": "2342344344"
+                        },
+                        "name": "User1(FOP)",
+                        "address": {
+                            "postalCode": "02217",
+                            "countryName": "Україна",
+                            "streetAddress": "Закревського 39, 40",
+                            "region": "місто Київ",
+                            "locality": "Київ"
+                        }
+                    }
+                ],
+                "signingPeriod": {
+                    "startDate": "2018-10-24T12:40:39.912604+03:00",
+                    "endDate": "2018-10-24T13:20:53.218220+03:00"
+                },
+                "bid_id": "e40d34985eca48ee8a4d6d648b829436",
+                "value": {
+                    "currency": "UAH",
+                    "amount": 12000,
+                    "valueAddedTaxIncluded": false
+                },
+                "date": "2018-10-24T12:52:05.105455+03:00",
+                "id": "df365f61c7de46ee97271797fe57ab4b"
+            },
+            {
+                "status": "pending.waiting",
+                "complaintPeriod": {
+                    "startDate": "2018-10-24T12:40:39.912604+03:00"
+                },
+                "suppliers": [
+                    {
+                        "contactPoint": {
+                            "telephone": "+38(222)222-22-22",
+                            "faxNumber": "+38(222)222-22-22",
+                            "name": "Прізвище Ім'я По-батьковi",
+                            "email": "ustudiotesti.n.g@gmail.com"
+                        },
+                        "identifier": {
+                            "scheme": "UA-EDR",
+                            "id": "23133454"
+                        },
+                        "name": "User2(UR.OSOBA)",
+                        "address": {
+                            "postalCode": "12345",
+                            "countryName": "Україна",
+                            "streetAddress": "Залізнична,14",
+                            "region": "місто Київ",
+                            "locality": "Одеса"
+                        }
+                    }
+                ],
+                "bid_id": "c834d7624ae24c9faa7f21ff45cd887d",
+                "value": {
+                    "currency": "UAH",
+                    "amount": 11000,
+                    "valueAddedTaxIncluded": false
+                },
+                "date": "2018-10-24T12:40:39.912604+03:00",
+                "id": "6321b6e4f103402984e592129e507ba9"
+            }
+        ],
+        "date": "2018-10-24T13:34:07.338956+03:00",
+        "auctionPeriod": {
+            "startDate": "2018-10-24T12:40:39.891079+03:00",
+            "endDate": "2018-10-24T12:40:39.891079+03:00"
+        },
+        "contractTerms": {
+            "type": "yoke"
+        },
+        "submissionMethodDetails": "quick(mode:no-auction)",
+        "items": [
+            {
+                "registrationDetails": {
+                    "status": "unknown",
+                    "registrationID": ""
+                },
+                "description": "лдотлод",
+                "classification": {
+                    "scheme": "CAV-PS",
+                    "description": "Квартира в будинку малоповерхового житлового будівництва",
+                    "id": "04110000-2"
+                },
+                "additionalClassifications": [
+                    {
+                        "scheme": "dk018",
+                        "description": "Будівлі промислові та склади",
+                        "id": "125"
+                    }
+                ],
+                "address": {
+                    "postalCode": "35435",
+                    "countryName": "Україна",
+                    "streetAddress": "джьлдль",
+                    "region": "Донецька",
+                    "locality": "лдждльлд"
+                },
+                "id": "99c857f0b27a7190cb8b6fb5d2037da7",
+                "unit": {
+                    "code": "E48",
+                    "name": "послуга"
+                },
+                "quantity": 10
+            }
+        ],
+        "bids": [
+            {
+                "status": "active",
+                "value": {
+                    "currency": "UAH",
+                    "amount": 11000,
+                    "valueAddedTaxIncluded": false
+                },
+                "owner": "25h8.business",
+                "qualified": true,
+                "tenderers": [
+                    {
+                        "contactPoint": {
+                            "telephone": "+38(222)222-22-22",
+                            "faxNumber": "+38(222)222-22-22",
+                            "name": "Прізвище Ім'я По-батьковi",
+                            "email": "ustudiotesti.n.g@gmail.com"
+                        },
+                        "identifier": {
+                            "scheme": "UA-EDR",
+                            "id": "23133454"
+                        },
+                        "name": "User2(UR.OSOBA)",
+                        "address": {
+                            "postalCode": "12345",
+                            "countryName": "Україна",
+                            "streetAddress": "Залізнична,14",
+                            "region": "місто Київ",
+                            "locality": "Одеса"
+                        }
+                    }
+                ],
+                "date": "2018-10-24T12:28:02.984297+03:00",
+                "id": "c834d7624ae24c9faa7f21ff45cd887d"
+            },
+            {
+                "status": "active",
+                "value": {
+                    "currency": "UAH",
+                    "amount": 12000,
+                    "valueAddedTaxIncluded": false
+                },
+                "owner": "25h8.business",
+                "qualified": true,
+                "tenderers": [
+                    {
+                        "contactPoint": {
+                            "telephone": "+38(444)444-44-44",
+                            "faxNumber": "+38(444)444-44-44",
+                            "name": "Прізвище Ім'я По-батьковi",
+                            "email": "ustudiotesti.ng@gmail.com"
+                        },
+                        "identifier": {
+                            "scheme": "UA-EDR",
+                            "id": "2342344344"
+                        },
+                        "name": "User1(FOP)",
+                        "address": {
+                            "postalCode": "02217",
+                            "countryName": "Україна",
+                            "streetAddress": "Закревського 39, 40",
+                            "region": "місто Київ",
+                            "locality": "Київ"
+                        }
+                    }
+                ],
+                "date": "2018-10-24T12:32:22.223491+03:00",
+                "id": "e40d34985eca48ee8a4d6d648b829436"
+            }
+        ],
+        "value": {
+            "currency": "UAH",
+            "amount": 10000,
+            "valueAddedTaxIncluded": false
+        },
+        "numberOfBids": 2,
+        "minimalStep": {
+            "currency": "UAH",
+            "amount": 2.5,
+            "valueAddedTaxIncluded": false
+        },
+        "mode": "test",
+        "title_ru": "[ТЕСТИРОВАНИЕ] ",
+        "procuringEntity": {
+            "contactPoint": {
+                "telephone": "+38(654)654-65-46",
+                "name": "prizvyshche imia ",
+                "email": "ust.u.dio.testing@gmail.com"
+            },
+            "identifier": {
+                "scheme": "UA-EDR",
+                "id": "45665412",
+                "legalName": "PIB"
+            },
+            "name": "PIB",
+            "address": {
+                "postalCode": "11100",
+                "countryName": "Україна",
+                "streetAddress": "D",
+                "region": "Донецька область",
+                "locality": "D"
+            }
+        }
+    }
+}
