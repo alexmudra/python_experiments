@@ -1,6 +1,6 @@
 i = 1
-a= []
+a = []
 while len(a) < 50:
     a.append(i)
-    i = i *2
-    print(i)
+    i = i*2
+print(i)

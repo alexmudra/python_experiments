@@ -14,3 +14,7 @@ pprint(data)
 
 
 
+x = int(input("Input the text 1: "))
+while x == 1:
+    print("sdkfj")
+
