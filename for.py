@@ -95,14 +95,14 @@
 
 
 
-# В циклі можна використовувати замість "і" просто знак "_"
+#В циклі можна використовувати замість "і" просто знак "_"
 
-# def print_numbers(limit): #
-#     for _ in range(limit):
-#         print(_)
-#
-# print_numbers(10)
-#
+def print_numbers(limit): #
+    for _ in range(limit):
+        print(_)
+
+print_numbers(10)
+
 # output:
 # 0
 # 1
