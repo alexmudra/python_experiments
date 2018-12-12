@@ -81,14 +81,36 @@
 # 9
 
 
-#Цикл while...else можна легко замінити на for...else
+# # Цикл while...else можна легко замінити на for...else
+#
+# for attems_left in range (3, 0, -1):
+#     attems_left -= 1
+#     password = input("Enter your password ("
+#                      "you have {} attems_left):".format(attems_left))
+#     if password == "9348sdfkj":
+#         print("Access granted")
+#         break #нестандартне завершення цикла і секція else не буде виконуватися
+# else:
+#     print("Access denided")
 
-for attems_left in range (3, 0, -1):
-    attems_left -= 1
-    password = input("Enter your password ("
-                     "you have {} attems_left):".format(attems_left))
-    if password == "9348sdfkj":
-        print("Access granted")
-        break #нестандартне завершення цикла і секція else не буде виконуватися
-else:
-    print("Access denided")
+
+
+# В циклі можна використовувати замість "і" просто знак "_"
+
+# def print_numbers(limit): #
+#     for _ in range(limit):
+#         print(_)
+#
+# print_numbers(10)
+#
+# output:
+# 0
+# 1
+# 2
+# 3
+# 4
+# 5
+# 6
+# 7
+# 8
+# 9

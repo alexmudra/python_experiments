@@ -19,3 +19,5 @@ def add_numbers(a,b): # приклад функції для підрахува�
     b = int(input("Input b: "))
     return a+b
 print(add_numbers(1,2))
+
+add_numbers
