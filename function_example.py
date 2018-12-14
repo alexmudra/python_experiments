@@ -62,9 +62,44 @@
 # #Приклад використання ф-ії в тілі іншої функції
 #
 # def add_numbers(first, second):
-#     return first + second
+#     print("Результат ф-ії: ", first, second)
+#     return first * second
 #
 # inside_fuction_result = add_numbers(2, add_numbers(5,10))
-# print(inside_fuction_result)
-# # #output: 17
+# inside_function_result = add_numbers(2, 5) + add_numbers(5,4)
+# inside_function_result = add_numbers(5, 5) / add_numbers(5,4)
+#
+# print(inside_function_result)
+# # output:
+# Результат ф-ії:  5 10
+# Результат ф-ії:  2 50
+# Результат ф-ії:  2 5
+# Результат ф-ії:  5 4
+# Результат ф-ії:  5 5
+# Результат ф-ії:  5 4
+# 1.25
 
+
+
+#Функція з умовою if ... else
+
+def function_if_else(x):
+    if x > 0:
+        return x * 5
+    else:
+        return x * 1
+
+
+def function_range(): #ф-ія для виводу значень ф-ії function_if_else в проміжку значень
+    for i in range (-3, 4):
+        y = function_if_else(i)
+        print('Value of function(',i,') = ', y, sep='')
+function_range()
+# output:
+# Value of function(-3) = -3
+# Value of function(-2) = -2
+# Value of function(-1) = -1
+# Value of function(0) = 0
+# Value of function(1) = 5
+# Value of function(2) = 10
+# Value of function(3) = 15
