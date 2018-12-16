@@ -83,18 +83,18 @@
 
 #Функція з умовою if ... else
 
-def function_if_else(x):
-    if x > 0:
-        return x * 5
-    else:
-        return x * 1
-
-
-def function_range(): #ф-ія для виводу значень ф-ії function_if_else в проміжку значень
-    for i in range (-3, 4):
-        y = function_if_else(i)
-        print('Value of function(',i,') = ', y, sep='')
-function_range()
+# def function_if_else(x):
+#     if x > 0:
+#         return x * 5
+#     else:
+#         return x * 1
+#
+#
+# def function_range(): #ф-ія для виводу значень ф-ії function_if_else в проміжку значень
+#     for i in range (-3, 4):
+#         y = function_if_else(i)
+#         print('Value of function(',i,') = ', y, sep='')
+# function_range()
 # output:
 # Value of function(-3) = -3
 # Value of function(-2) = -2
@@ -103,3 +103,56 @@ function_range()
 # Value of function(1) = 5
 # Value of function(2) = 10
 # Value of function(3) = 15
+
+
+#--------------------------------------------------------
+
+#Ф-ія з іменованими параметрами. Ф-ія повертає інфо про об'єкт
+
+def print_info(object_name, color, price):
+    print("Oblect name is: ", object_name, sep="\t")
+    print("Object colour: ", color, sep="\t")
+    print("Object price: ", price, sep="\t")
+    print()
+
+print_info("skdfj", "red", 3223)
+# output:
+# Oblect name is: 	skdfj
+# Object colour: 	red
+# Object price: 	3223
+
+#Заміним параметри функції напряму.
+print_info(object_name="cool", color="purpe", price=1000)
+# Oblect name is: 	cool
+# Object colour: 	purpe
+# Object price: 	1000
+
+
+#Заміним рандомно параметри функції
+print_info(price=2349, color="purpe", object_name="super",)
+# Oblect name is: 	super
+# Object colour: 	purpe
+# Object price: 	2349
+
+#Передамо одночасно позиційний параметр(Coffee) і іменовані аргументи(з =)
+#Завжди треба передавати першим позиційний аргумент, а вже потів іменовані аргументи
+print_info("Coffee", price=3000, color="orange")
+# Oblect name is: 	Coffee
+# Object colour: 	orange
+# Object price: 	3000
+
+
+#-----------------------------------------------------
+
+
+#Ф-ія для показу як працюють в ф-ії значення по замовчуванню
+
+def hello_you(name="Alex"): #у ф-ії параметр по замовчуванню це Alex
+    print('Hello ', name, sep='')
+# hello_you("Igor")
+# Hello Igor
+
+#------------------------------------------------------------------------
+
+#ПРИКЛАД ВИКОРИСТАННЯ ФУНКЦІЇ ВСЕРЕДИНІ ФУНКЦІЇ
+

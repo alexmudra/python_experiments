@@ -15,9 +15,5 @@ pprint(data)
 
 print(type(data))
 
-
-
-x = int(input("Input the text 1: "))
-while x == 1:
-    print("sdkfj")
-
+for x in range(data):
+    print(x)
