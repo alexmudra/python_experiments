@@ -109,34 +109,34 @@
 
 #Ф-ія з іменованими параметрами. Ф-ія повертає інфо про об'єкт
 
-# def print_info(object_name, color, price):
-#     print("Oblect name is: ", object_name, sep="\t")
-#     print("Object colour: ", color, sep="\t")
-#     print("Object price: ", price, sep="\t")
-#     print()
+def print_info(object_name, color, price):
+    print("Oblect name is: ", object_name, sep="\t")
+    print("Object colour: ", color, sep="\t")
+    print("Object price: ", price, sep="\t")
+    print()
 
-# print_info("skdfj", "red", 3223)
+print_info("skdfj", "red", 3223)
 # output:
 # Oblect name is: 	skdfj
 # Object colour: 	red
 # Object price: 	3223
 
 #Заміним параметри функції напряму.
-# print_info(object_name="cool", color="purpe", price=1000)
+print_info(object_name="cool", color="purpe", price=1000)
 # Oblect name is: 	cool
 # Object colour: 	purpe
 # Object price: 	1000
 
 
 #Заміним рандомно параметри функції
-# print_info(price=2349, color="purpe", object_name="super",)
+print_info(price=2349, color="purpe", object_name="super",)
 # Oblect name is: 	super
 # Object colour: 	purpe
 # Object price: 	2349
 
 #Передамо одночасно позиційний параметр(Coffee) і іменовані аргументи(з =)
 #Завжди треба передавати першим позиційний аргумент, а вже потів іменовані аргументи
-#print_info("Coffee", price=3000, color="orange")
+print_info("Coffee", price=3000, color="orange")
 # Oblect name is: 	Coffee
 # Object colour: 	orange
 # Object price: 	3000
@@ -147,50 +147,12 @@
 
 #Ф-ія для показу як працюють в ф-ії значення по замовчуванню
 
-# def hello_you(name="Alex"): #у ф-ії параметр по замовчуванню це Alex
-#     print('Hello ', name, sep='')
+def hello_you(name="Alex"): #у ф-ії параметр по замовчуванню це Alex
+    print('Hello ', name, sep='')
 # hello_you("Igor")
 # Hello Igor
 
 #------------------------------------------------------------------------
 
-#ПРИКЛАД ВИКОРИСТАННЯ ГЛОБАЛЬНОЇ ФУНКЦІЇ(outer_function) і ЛОКАЛЬНОЇ ФУНКЦІЇ(inner_function)
-
-# def outer_function():
-#     def inner_function():
-#         print("This is inner function inside outer function")
-#
-#     print("This is outer function. It's contains inner function")
-#     inner_function()
-#
-# outer_function()
-#
-# This is outer function. It's contains inner function
-# This is inner function inside outer function
-
-
-#-------------------------------------------------------
-
-#Приклад глобальної перемінної за межами ф-ії
-
-# global_variable = "Cool glogal variable!"
-#
-# def show_glob_var():
-#     print(global_variable)
-#
-# show_glob_var()
-#
-# Cool glogal variable
-
-#-------------------------------------------------------
-
-#Приклад локальної перемінної за в тілі ф-ії
-
-def show_local_var():
-    print(local_variable)
-
-local_variable = "Local variable!"
-show_local_var()
-
-Local variable!
+#ПРИКЛАД ВИКОРИСТАННЯ ФУНКЦІЇ ВСЕРЕДИНІ ФУНКЦІЇ
 
