@@ -154,5 +154,26 @@ def hello_you(name="Alex"): #у ф-ії параметр по замовчува
 
 #------------------------------------------------------------------------
 
-#ПРИКЛАД ВИКОРИСТАННЯ ФУНКЦІЇ ВСЕРЕДИНІ ФУНКЦІЇ
+#Приклад функції (на прикладі Факторіалу) без рекурсії
+
+def no_factorial(n):
+    result = 1
+    for multiplier in range(2, n + 1):
+        result *=multiplier
+    return result
+
+print("The", no_factorial(5),"is the factorial")
+
+#The 120 is the factorial
+
+#Переробимо ф-ію no_factorial на рекурсію
+
+def recursive_factorial(n):
+    if n == 0:
+        return 1
+    else:
+        return n * recursive_factorial(n - 1)
+print("Recursion resulr is:", recursive_factorial(5))
+
+
 
