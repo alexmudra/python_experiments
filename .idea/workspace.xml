@@ -2,45 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed596d89-71b2-429a-b04c-09a902a2a0f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/list_devinitions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/is_substring_in_main_string.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/homework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/homework.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1 exersice.py" beforeDir="false" afterPath="$PROJECT_DIR$/1 exersice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2 exersice (copy).py" beforeDir="false" afterPath="$PROJECT_DIR$/2 exersice (copy).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW2.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW2_Create Cat.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW2_Create Cat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork2.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/abcd.py" beforeDir="false" afterPath="$PROJECT_DIR$/abcd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cheks.py" beforeDir="false" afterPath="$PROJECT_DIR$/cheks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/convert_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/convert_dict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/convert_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/convert_json.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/enterAndList.py" beforeDir="false" afterPath="$PROJECT_DIR$/enterAndList.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exit.py" beforeDir="false" afterPath="$PROJECT_DIR$/exit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exit2.py" beforeDir="false" afterPath="$PROJECT_DIR$/exit2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/find_name_amount_in_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/find_name_amount_in_json.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/for.py" beforeDir="false" afterPath="$PROJECT_DIR$/for.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/for_while.py" beforeDir="false" afterPath="$PROJECT_DIR$/for_while.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/function_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/function_example.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/if else.py" beforeDir="false" afterPath="$PROJECT_DIR$/if else.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/input numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input10Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/input10Numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input3Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/input3Numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json" beforeDir="false" afterPath="$PROJECT_DIR$/json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/loops.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my.json" beforeDir="false" afterPath="$PROJECT_DIR$/my.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nested_loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/nested_loops.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/num_count_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/num_count_10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pong.py" beforeDir="false" afterPath="$PROJECT_DIR$/pong.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/regular expression.py" beforeDir="false" afterPath="$PROJECT_DIR$/regular expression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shahmati.py" beforeDir="false" afterPath="$PROJECT_DIR$/shahmati.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/upperLower.py" beforeDir="false" afterPath="$PROJECT_DIR$/upperLower.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/while.py" beforeDir="false" afterPath="$PROJECT_DIR$/while.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/with re.py" beforeDir="false" afterPath="$PROJECT_DIR$/with re.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/list_devinitions.py" beforeDir="false" afterPath="$PROJECT_DIR$/list_definitions.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,40 +31,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/function_example.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="607">
+            <state relative-caret-position="448">
               <caret line="194" column="1" selection-start-line="194" selection-start-column="1" selection-end-line="194" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/list_definitions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="96" column="14" selection-start-line="91" selection-end-line="102" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/list_devinitions.py">
+        <entry file="file://$PROJECT_DIR$/is_substring_in_main_string.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="39" column="7" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/find_name_amount_in_json.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/find_data_type_in_json.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="270">
+              <caret line="18" column="66" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
             </state>
           </provider>
         </entry>
@@ -121,7 +73,7 @@
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/if else.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/HW_2.py" />
-        <option value="$PROJECT_DIR$/../../Python/Code/shahmati.py" />
+        <option value="$USER_HOME$/Python/Code/shahmati.py" />
         <option value="$PROJECT_DIR$/input numbers.py" />
         <option value="$PROJECT_DIR$/shahmati.py" />
         <option value="$PROJECT_DIR$/HomeWork2.py" />
@@ -148,6 +100,8 @@
         <option value="$PROJECT_DIR$/functions_build_in.py" />
         <option value="$PROJECT_DIR$/function_example.py" />
         <option value="$PROJECT_DIR$/list_devinitions.py" />
+        <option value="$PROJECT_DIR$/list_definitions.py" />
+        <option value="$PROJECT_DIR$/is_substring_in_main_string.py" />
       </list>
     </option>
   </component>
@@ -185,8 +139,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="homework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="homework_py_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework_py_code" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -198,7 +152,7 @@
   <component name="PropertiesComponent">
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -231,7 +185,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.list_devinitions">
+  <component name="RunManager" selected="Python.is_substring_in_main_string">
     <configuration name="find_data_type_in_json" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -316,6 +270,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="is_substring_in_main_string" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/is_substring_in_main_string.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="list_devinitions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -328,28 +303,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list_devinitions.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="nested_loops" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="homework" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nested_loops.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list_definitions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -363,16 +317,16 @@
       <item itemvalue="Python.find_data_type_in_json" />
       <item itemvalue="Python.function_example" />
       <item itemvalue="Python.functions_build_in" />
-      <item itemvalue="Python.nested_loops" />
       <item itemvalue="Python.list_devinitions" />
+      <item itemvalue="Python.is_substring_in_main_string" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.is_substring_in_main_string" />
         <item itemvalue="Python.list_devinitions" />
         <item itemvalue="Python.function_example" />
         <item itemvalue="Python.functions_build_in" />
         <item itemvalue="Python.find_data_type_in_json" />
-        <item itemvalue="Python.nested_loops" />
       </list>
     </recent_temporary>
   </component>
@@ -505,15 +459,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1535" height="904" extended-state="6" />
+    <frame x="64" y="-11" width="1537" height="912" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.37603307" side_tool="true" weight="0.15736382" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.62396693" visible="true" weight="0.20833333" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.62396693" visible="true" weight="0.21423775" />
       <window_info id="Structure" order="2" sideWeight="0.3768116" side_tool="true" weight="0.15736382" />
-      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49966374" weight="0.32573727" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49966374" weight="0.32561132" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5026455" side_tool="true" weight="0.31788933" />
-      <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.49966374" weight="0.32573727" />
+      <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.49966374" weight="0.32561132" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" weight="0.32818532" />
@@ -584,13 +538,13 @@
   <component name="editorHistoryManager">
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/HW_2.py" />
-    <entry file="file://$PROJECT_DIR$/../../checkio_python/compare_3_num.py" />
-    <entry file="file://$PROJECT_DIR$/../../checkio_python/weight.py" />
+    <entry file="file://$USER_HOME$/checkio_python/compare_3_num.py" />
+    <entry file="file://$USER_HOME$/checkio_python/weight.py" />
     <entry file="file://$PROJECT_DIR$/../MyCode/Weight.py" />
-    <entry file="file://$PROJECT_DIR$/../../Python/Code/shahmati.py" />
+    <entry file="file://$USER_HOME$/Python/Code/shahmati.py" />
     <entry file="file://$PROJECT_DIR$/Weight.py" />
-    <entry file="file://$PROJECT_DIR$/../../checkio_python/say-history.py" />
-    <entry file="file://$PROJECT_DIR$/../../checkio_python/correct-sentence.py" />
+    <entry file="file://$USER_HOME$/checkio_python/say-history.py" />
+    <entry file="file://$USER_HOME$/checkio_python/correct-sentence.py" />
     <entry file="file://$PROJECT_DIR$/pong.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -598,9 +552,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../checkio_python/first-word.py" />
-    <entry file="file://$PROJECT_DIR$/../../Monitoring_2/monitoring_for_public_purchases/monitoring/test_data.py" />
-    <entry file="file://$PROJECT_DIR$/../../Monitoring_2/monitoring_for_public_purchases/monitoring/json_experiment.py" />
+    <entry file="file://$USER_HOME$/checkio_python/first-word.py" />
+    <entry file="file://$USER_HOME$/Monitoring_2/monitoring_for_public_purchases/monitoring/test_data.py" />
+    <entry file="file://$USER_HOME$/Monitoring_2/monitoring_for_public_purchases/monitoring/json_experiment.py" />
     <entry file="file://$PROJECT_DIR$/if else.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -737,19 +691,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/functions_build_in.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/for.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="945">
           <caret line="63" selection-start-line="63" selection-end-line="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/find_name_amount_in_json.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -763,24 +715,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/functions_build_in.py">
+    <entry file="file://$PROJECT_DIR$/find_name_amount_in_json.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        <state>
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/function_example.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="607">
+        <state relative-caret-position="448">
           <caret line="194" column="1" selection-start-line="194" selection-start-column="1" selection-end-line="194" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/list_devinitions.py">
+    <entry file="file://$PROJECT_DIR$/list_definitions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="39" column="7" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
+        <state relative-caret-position="283">
+          <caret line="96" column="14" selection-start-line="91" selection-end-line="102" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/is_substring_in_main_string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="66" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
         </state>
       </provider>
     </entry>
