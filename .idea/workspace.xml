@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed596d89-71b2-429a-b04c-09a902a2a0f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/is_substring_in_main_string.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/homework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/homework.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/list_devinitions.py" beforeDir="false" afterPath="$PROJECT_DIR$/list_definitions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/find_data_type_in_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/find_data_type_in_json.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/find_name_amount_in_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/find_name_amount_in_json.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +20,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/for.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="945">
-              <caret line="63" selection-start-line="63" selection-end-line="63" />
+            <state relative-caret-position="748">
+              <caret line="105" column="9" lean-forward="true" selection-start-line="105" selection-start-column="9" selection-end-line="105" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -40,13 +38,37 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/list_definitions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="96" column="14" selection-start-line="91" selection-end-line="102" selection-end-column="21" />
+            <state relative-caret-position="373">
+              <caret line="144" lean-forward="true" selection-start-line="144" selection-end-line="144" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/find_name_amount_in_json.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="358">
+              <caret line="42" column="19" lean-forward="true" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/find_data_type_in_json.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/is_substring_in_main_string.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
@@ -94,14 +116,15 @@
         <option value="$PROJECT_DIR$/convert_json.py" />
         <option value="$PROJECT_DIR$/for_while.py" />
         <option value="$PROJECT_DIR$/while.py" />
-        <option value="$PROJECT_DIR$/for.py" />
         <option value="$PROJECT_DIR$/nested_loops.py" />
-        <option value="$PROJECT_DIR$/find_data_type_in_json.py" />
         <option value="$PROJECT_DIR$/functions_build_in.py" />
         <option value="$PROJECT_DIR$/function_example.py" />
         <option value="$PROJECT_DIR$/list_devinitions.py" />
-        <option value="$PROJECT_DIR$/list_definitions.py" />
         <option value="$PROJECT_DIR$/is_substring_in_main_string.py" />
+        <option value="$PROJECT_DIR$/list_definitions.py" />
+        <option value="$PROJECT_DIR$/for.py" />
+        <option value="$PROJECT_DIR$/find_name_amount_in_json.py" />
+        <option value="$PROJECT_DIR$/find_data_type_in_json.py" />
       </list>
     </option>
   </component>
@@ -185,7 +208,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.is_substring_in_main_string">
+  <component name="RunManager" selected="Python.find_data_type_in_json">
     <configuration name="find_data_type_in_json" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -207,7 +230,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="function_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="find_name_amount_in_json" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -219,7 +242,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function_example.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/find_name_amount_in_json.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -228,7 +251,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="functions_build_in" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="for" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -240,7 +263,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions_build_in.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/for.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -314,19 +337,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.if else" />
-      <item itemvalue="Python.find_data_type_in_json" />
-      <item itemvalue="Python.function_example" />
-      <item itemvalue="Python.functions_build_in" />
       <item itemvalue="Python.list_devinitions" />
       <item itemvalue="Python.is_substring_in_main_string" />
+      <item itemvalue="Python.for" />
+      <item itemvalue="Python.find_data_type_in_json" />
+      <item itemvalue="Python.find_name_amount_in_json" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.is_substring_in_main_string" />
-        <item itemvalue="Python.list_devinitions" />
-        <item itemvalue="Python.function_example" />
-        <item itemvalue="Python.functions_build_in" />
         <item itemvalue="Python.find_data_type_in_json" />
+        <item itemvalue="Python.find_name_amount_in_json" />
+        <item itemvalue="Python.for" />
+        <item itemvalue="Python.list_devinitions" />
+        <item itemvalue="Python.is_substring_in_main_string" />
       </list>
     </recent_temporary>
   </component>
@@ -414,7 +437,21 @@
       <option name="project" value="LOCAL" />
       <updated>1545003220120</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="added code with IN in lists and strings">
+      <created>1545420315345</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1545420315345</updated>
+    </task>
+    <task id="LOCAL-00012" summary="added append, del(index), fibonachi's numbers. Finish Python Starter">
+      <created>1545425364523</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1545425364523</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -471,11 +508,11 @@
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" weight="0.32818532" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49801588" visible="true" weight="0.31788933" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.3994638" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49801588" weight="0.31788933" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.3989704" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" weight="0.32777777" />
+      <window_info active="true" anchor="bottom" id="TODO" order="10" visible="true" weight="0.32689834" />
       <window_info anchor="right" id="R Graphics" order="0" weight="0.32952252" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="R Packages" order="2" weight="0.32952252" />
@@ -533,7 +570,20 @@
     <MESSAGE value="added function with if...else conditions" />
     <MESSAGE value="added code for build in functions complex functions" />
     <MESSAGE value="added local and global varables in functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="added local and global varables in functions" />
+    <MESSAGE value="added code with IN in lists and strings" />
+    <MESSAGE value="added append, del(index), fibonachi's numbers. Finish Python Starter" />
+    <option name="LAST_COMMIT_MESSAGE" value="added append, del(index), fibonachi's numbers. Finish Python Starter" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
@@ -698,32 +748,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/for.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="63" selection-start-line="63" selection-end-line="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/find_data_type_in_json.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/find_name_amount_in_json.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/function_example.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="448">
@@ -733,8 +757,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/list_definitions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="96" column="14" selection-start-line="91" selection-end-line="102" selection-end-column="21" />
+        <state relative-caret-position="373">
+          <caret line="144" lean-forward="true" selection-start-line="144" selection-end-line="144" />
         </state>
       </provider>
     </entry>
@@ -742,6 +766,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="66" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/for.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="105" column="9" lean-forward="true" selection-start-line="105" selection-start-column="9" selection-end-line="105" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/find_name_amount_in_json.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="42" column="19" lean-forward="true" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/find_data_type_in_json.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

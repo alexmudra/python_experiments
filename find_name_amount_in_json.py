@@ -20,6 +20,10 @@ print(dir(Colors))
 Відкрити файл json і перевести всі поля json в стрінгу
 '''
 path = 'my.json'
+# print(type(data))
+#
+# for x in range(data):
+#     print(x)
 
 # with open(path, 'r') as f:
 #     data = json.loads(f.read())
