@@ -114,3 +114,14 @@ print_numbers(10)
 # 7
 # 8
 # 9
+
+#Підрахунок чисел Фібоначі за допомогою FOR
+
+numbers_for_fib = 100 #будем проходитись по цим числам
+fibs = [1 , 2]
+
+for i in range (numbers_for_fib - 2):#проходимось циклом і з кожною ітерацією мінусюємо 2
+    fibs.append(fibs[i] + fibs[i + 1])
+
+
+print("Fibonnachi's numbers: ", fibs)

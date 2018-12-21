@@ -90,7 +90,7 @@ print(my_string[2:4] + " " + my_string[-4:]) #is ring - конкатенація
 
 
 #ПЕРЕГЛЯНЕМО ЧИ ВХОДИТЬ ЕЛЕМЕНТ в СТРІНГУ ЗА ДОПОМОГОЮ (in)
-
+'''
 user_input = input("Enter some text: ")
 
 if "sasha" in user_input:
@@ -101,3 +101,45 @@ elif "girl" in user_input:
         print("You guessed Girl")
 else:
     print("Try more")
+'''
+
+
+#РОЗГЛЯНЕМО ОПЕРАЦІЇ ІЗ СПИСКАМИ append, index, del value
+
+
+#APPEND
+some_list = []
+
+some_list.append("sa") #додали 1й елемент в пустий список
+some_list.append('sha')
+print(some_list[0] + some_list[1]) #sasha
+
+
+#DEL
+some_list_for_del = [1,2,3,4,5]
+
+print("Before del: ", some_list_for_del) #Before del:  [1, 2, 3, 4, 5]
+del some_list_for_del[1]# видалили 2й елемент в ліст
+print("After using del: ", some_list_for_del) #After using del:  [1, 3, 4, 5]
+
+
+#Для проходження по спискам використовуємо цикл FOR
+
+some_list_for_for = [3,4,5,6,7,8,9,-2]
+
+print("List before FOR loop: ", some_list_for_for)
+
+for x in some_list_for_for: #пройдемось циклом по лісту і знайдемо квадрат для кожного числа
+    print("List after FOR loop: ","{} ^ 2 = {}".format(x, x ** 2))
+'''
+List before FOR loop:  [3, 4, 5, 6, 7, 8, 9, -2]
+List after FOR loop:  3 ^ 2 = 9
+List after FOR loop:  4 ^ 2 = 16
+List after FOR loop:  5 ^ 2 = 25
+List after FOR loop:  6 ^ 2 = 36
+List after FOR loop:  7 ^ 2 = 49
+List after FOR loop:  8 ^ 2 = 64
+List after FOR loop:  9 ^ 2 = 81
+List after FOR loop:  -2 ^ 2 = 4
+'''
+
