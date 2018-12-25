@@ -11,28 +11,28 @@ from pprint import pprint
 '''
 
 data = [1, 4, {'3': 3}, 4, (5,), True, 6, None, {7, 8}, frozenset({9, 10})]
+print('Elenments of data:',  data)
+print("The len elements in list DATA is", len(data))
+
 data_s = [1, 2]
-pprint(data)
-pprint(data_s)
+print('Elements of data_s:', data_s)
+print("The elements in list DATA_S is", len(data_s))
+
 
 #TODO: доробити цикл із умовою(21-12-2018)
 
-print("The elements in list DATA is", len(data))
-print("The elements in list data_s is", len(data_s))
-
-for x in data:
-
-    integer = type(int)
-    stringa = type(str)
 
 
-    if x is integer:
+
+for x in data_s:
+
+    if type(x) is int:
         print("Integer")
-    elif x is bool(x):
+    elif type(x) is bool:
         print("Boolean")
-    elif x is stringa:
+    elif type(x) is str:
         print("String")
-    elif x is dict(x):
+    elif type(x) is dict:
        print("Dictionary")
-    elif x is set(x):
+    elif type(x) is set:
         print("Set")
