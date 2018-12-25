@@ -47,8 +47,19 @@ for b in bids:
         print("The user name is: " + str(tenderer["name"]), end=' ')
     print(str(amount) +' '+ str(currency))
 
+#-----------------------------------Спроба зробити іншим способом те саме
 
-
+if bids == []:
+    print
+    'No Data!'
+else:
+    for tenderer in bids:
+        print
+        'Team ID:' + tenderer['team_id']
+        print
+        'Team Name:' + tenderer['team_name']
+        print
+        'Team URL:' + tenderer['team_icon_url']
 
     # print(Colors.WARNING + "This is name: " + Colors.ENDC + Colors.OKBLUE + str(name) + Colors.ENDC)
     # print(Colors.WARNING + "This is amount: " + Colors.ENDC + Colors.OKBLUE + str(amount) + Colors.ENDC)
