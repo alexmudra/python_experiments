@@ -142,4 +142,14 @@ List after FOR loop:  8 ^ 2 = 64
 List after FOR loop:  9 ^ 2 = 81
 List after FOR loop:  -2 ^ 2 = 4
 '''
+#-----------------------------------------------------------
+
+'''
+Аналогично, может возникнуть задача проверки, что все элементы удовлетворяют условию. Без Python 2.5 придется писать так:
+'''
+numbers = [1,2,3,4,5,6,7,8,9]
+if len(numbers) == len([number for number in numbers if number < 10]):
+    print('Success!')
+# Результат: "Success!"
+
 
