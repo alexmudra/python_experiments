@@ -10,7 +10,7 @@ your_visits = [[1, 10], [30, 54], [60, 89], [120, 150]] # двомірний с�
 total_time_us = 0
 
 for visit in your_visits:
-    total_time_us += visit[1] - visit[0] + 1
+    total_time_us += visit[1] - visit[0] + 1 #в першій ітерації від 10 відняли 1 (і додали 1) в лісті your_visits
 
 overstay_days = total_time_us - residence_limit
 print("Ви перевищили час перебування в шенгені на", overstay_days, "днів")
