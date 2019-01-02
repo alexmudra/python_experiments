@@ -1,5 +1,5 @@
 
-#Цикл for з кінцевим значенням
+#Цикл for з кінцевим значенням.Вивести числа починаючи з 0
 
 # for i in range(5):
 #     print("i has value: ", i)
@@ -10,6 +10,29 @@
 # i has value:  2
 # i has value:  3
 # i has value:  4
+
+
+#Цикл for з кінцевим значенням. Вивести числа починаючи з 1
+
+# for i in range(5):
+#     print("i has value: ", i+1)
+#
+# i has value:  1
+# i has value:  2
+# i has value:  3
+# i has value:  4
+# i has value:  5
+
+
+#Виведем елементи в інтервалі між 2 і 5
+
+# for i in range(2, 5):
+#      print("i has value: ", i+1)
+#
+#
+# i has value:  3
+# i has value:  4
+# i has value:  5
 
 
 # #Цикл із початковим значенням(1), максимальним значенням(20) і кроком в (3)
@@ -62,7 +85,7 @@
 # 8
 
 
-# #Цикл for...continue
+# #Цикл for...continue(інструція continue пропускає все що нижче неї(ітерацію)
 #
 # for i in range(10):
 #     if i == 8:
@@ -92,6 +115,12 @@
 #         break #нестандартне завершення цикла і секція else не буде виконуватися
 # else:
 #     print("Access denided")
+
+
+
+
+
+
 
 
 
