@@ -36,8 +36,10 @@ for i in countries:
     if i ['is_schengen']:
         if i ['temperature'] >= 25:
             print("Such country has over 25 degree and schengen zone:", i['name'])
-        elif i ['temperature'] < 25:
+        elif i ['temperature'] <= 25:
             print("Such country has less 25 degree and schengen zone:", i['name'])
+    else:
+        print("Country is not in schengen zone", i['name'])
 
 
 
