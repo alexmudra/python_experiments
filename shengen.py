@@ -19,3 +19,35 @@ overstay_days = total_time_us - residence_limit #віднімаємо від к-
 print("Ви перевищили час перебування в шенгені на", overstay_days, "днів")
 
 #assert (overstay_days == 10 + 25 + 30 + 40 - residence_limit)
+
+
+
+#----------------------------------------------------------------
+# Новий варіант коду по підрахунку перебування в Шенгенській зоні
+
+
+residence_limit = 90  # 45, 60
+schengen_constraint = 180
+
+# Мы тратим в день
+cost_per_day = 15
+
+first_of_january = 1  # первое января текущего года
+
+first_time_arriving = 1
+first_time_leave = 11
+
+second_time_arriving = 16
+second_time_leave = 27
+
+third_time_arriving = 45
+third_time_leave = 46
+
+total_time_in_es = (first_time_leave - first_time_arriving)
+total_time_in_es = total_time_in_es + (second_time_leave - second_time_arriving)
+total_time_in_es = total_time_in_es + (third_time_leave - third_time_arriving)
+
+if total_time_in_es > residence_limit:
+    print('Вы не можете прибывать в ЕС так долго')
+
+print('Вы пробудете в ЕС дней:', total_time_in_es)
