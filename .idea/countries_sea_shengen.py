@@ -1,6 +1,10 @@
 
 
-#Приклад використання лістів і дікшінарі + умова
+"""
+Приклад використання лістів і дікшінарі + умова.
+Де ми маємо список країн де кожна країна представлена дікшінарі
+І має багато властивостей
+"""
 
 # countries = [ #робимо ліст із дікшінарі всередині
 #     #дікшінарі із key and value
@@ -107,6 +111,58 @@ We will have 4000.0 local money
 '''
 
 
+#Приклад з підстановкою даних черех %.2f.Де за допомогою %.2f - ми обрізаємо 2 символи після коми
+
+our_money = 10000
+
+for country in countries:
+    print('We will have %.2f local money' % (our_money / country['currency']))
 
 
+
+sea_schengen_countries = schengen_countries & sea_countries
+
+
+
+#Знайдемо інформацію по всім країнам але вже використовуючи чистий дікшінарі з 4ма дікшінарі
+
+#Створимо дікшінарі(а не ліст з дікшінарі) із 4 дікшінарі. Щоб отримувати інфо по імені країни
+
+countries = {
+    'Thailand':{'sea': True,
+                'is_schengen':False,
+                'temperature': 30,
+                'currency':1.8},
+    'Germany':{'sea': True,
+               'is_schengen':True,
+               'temperature': 22,
+               'currency':2},
+    'Ukraine':{'sea': True,
+               'is_schengen': False,
+               'temperature': 25,
+               'currency':1.4},
+    'Japan':{'sea': True,
+             'is_schengen': True,
+             'temperature': 34,
+             'currency':2.5}
+}
+
+#Перепишемо цикл FOR для дікшінарі
+#properties - це перемінна-ітератор value внутрішніх дікшінарі
+for country_name, properties in countries.items():
+
+#Напишемо умови які будуть перевіряти чи входить країна в шенгензону і чи має море
+    if properties['is_schengen']:
+        schengen_countries.add(country_name)
+    if properties['sea']:
+        sea_countries.add(country_name)
+
+#в циклі переберемо всі країни з шенгеном і морем і видерем детальну інфо по цим країнам
+for country_name in sea_schengen_countries:
+    print(country_name,"has the schengen zone and bordered with sea. Detailed info:", countries[country_name])
+'''
+Germany has the schengen zone and bordered with sea. Detailed info: {'temperature': 22, 'sea': True, 'currency': 2, 'is_schengen': True}
+Japan has the schengen zone and bordered with sea. Detailed info: {'temperature': 34, 'sea': True, 'currency': 2.5, 'is_schengen': True}
+
+'''
 
