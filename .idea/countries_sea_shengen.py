@@ -85,7 +85,7 @@ Countries with schengen zone OR sea {'Thailand', 'Germany', 'Ukraine', 'Japan'}
 our_money = 10000 #об'явим і ініціалізуєм перемінну
 
 for country in countries:
-    print("We have:",our_money,'.If we are going to exchange out money, we got', our_money/ country['currency'])
+    print('We have', our_money, 'So we exchange', our_money / country['currency'])
 '''
 We have: 10000 .If we are going to exchange out money, we got 5555.555555555556
 We have: 10000 .If we are going to exchange out money, we got 5000.0
@@ -93,7 +93,18 @@ We have: 10000 .If we are going to exchange out money, we got 7142.857142857143
 We have: 10000 .If we are going to exchange out money, we got 4000.0
 '''
 
+#Приклад з підстановкою даних черех %s. Де s - це стрінга
 
+our_money = 10000 #об'явим і ініціалізуєм перемінну
+
+for country in countries:
+    print('We will have %s local money' % (our_money / country['currency']))
+'''
+We will have 5555.555555555556 local money
+We will have 5000.0 local money
+We will have 7142.857142857143 local money
+We will have 4000.0 local money
+'''
 
 
 
