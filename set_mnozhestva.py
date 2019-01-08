@@ -64,6 +64,7 @@ for elements in friends and classmates:
 '''
 
 #Перетворити SET в LIST
+
 friends_list = list(friends)
 print(type(friends_list))
 '''

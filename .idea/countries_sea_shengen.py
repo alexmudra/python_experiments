@@ -54,10 +54,10 @@ Such country has over 25 degree and schengen zone: Japan
 
 countries = [ #робимо ліст із dictionaries(словарями) всередині
     #дікшінарі із key and value
-    {"name":'Thailand', 'sea': True, 'is_schengen':False, 'temperature': 30},
-    {"name":'Germany', 'sea': True, 'is_schengen':True, 'temperature': 22},
-    {"name": 'Ukraine', 'sea': True, 'is_schengen': False, 'temperature': 25},
-    {"name": 'Japan', 'sea': True, 'is_schengen': True, 'temperature': 34}]
+    {"name":'Thailand', 'sea': True, 'is_schengen':False, 'temperature': 30, 'currency':1.8},
+    {"name":'Germany', 'sea': True, 'is_schengen':True, 'temperature': 22, 'currency':2},
+    {"name": 'Ukraine', 'sea': True, 'is_schengen': False, 'temperature': 25, 'currency':1.4},
+    {"name": 'Japan', 'sea': True, 'is_schengen': True, 'temperature': 34, 'currency':2.5}]
 
 schengen_countries = set() #ініціалізуємо set(множество) для країн в шенген зоні
 sea_countries = set()#ініціалізуємо set(множество) для країн з морем
@@ -78,6 +78,21 @@ Countries with sea {'Thailand', 'Germany', 'Japan', 'Ukraine'}
 Countries with schengen zone AND sea {'Germany', 'Japan'}
 Countries with schengen zone OR sea {'Thailand', 'Germany', 'Ukraine', 'Japan'}
 '''
+#---------------------------------------------------------------------
+
+#Приклад арифметичних(ділення) операцій із частиною дікшінарі. Конвертуємо наші гроші в місцеву валюту
+
+our_money = 10000 #об'явим і ініціалізуєм перемінну
+
+for country in countries:
+    print("We have:",our_money,'.If we are going to exchange out money, we got', our_money/ country['currency'])
+'''
+We have: 10000 .If we are going to exchange out money, we got 5555.555555555556
+We have: 10000 .If we are going to exchange out money, we got 5000.0
+We have: 10000 .If we are going to exchange out money, we got 7142.857142857143
+We have: 10000 .If we are going to exchange out money, we got 4000.0
+'''
+
 
 
 
