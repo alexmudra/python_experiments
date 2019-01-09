@@ -163,6 +163,5 @@ for country_name in sea_schengen_countries:
 '''
 Germany has the schengen zone and bordered with sea. Detailed info: {'temperature': 22, 'sea': True, 'currency': 2, 'is_schengen': True}
 Japan has the schengen zone and bordered with sea. Detailed info: {'temperature': 34, 'sea': True, 'currency': 2.5, 'is_schengen': True}
-
 '''
 
