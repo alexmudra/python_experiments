@@ -1,1 +1,1 @@
- Several experiments with Python
+ Some experiments with Python
