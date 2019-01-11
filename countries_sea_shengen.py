@@ -165,3 +165,4 @@ Germany has the schengen zone and bordered with sea. Detailed info: {'temperatur
 Japan has the schengen zone and bordered with sea. Detailed info: {'temperature': 34, 'sea': True, 'currency': 2.5, 'is_schengen': True}
 '''
 
+print(type(list(countries.items())))
