@@ -1,5 +1,5 @@
 
-#Цикл for з кінцевим значенням
+#Цикл for з кінцевим значенням.Вивести числа починаючи з 0
 
 # for i in range(5):
 #     print("i has value: ", i)
@@ -10,6 +10,29 @@
 # i has value:  2
 # i has value:  3
 # i has value:  4
+
+
+#Цикл for з кінцевим значенням. Вивести числа починаючи з 1
+
+# for i in range(5):
+#     print("i has value: ", i+1)
+#
+# i has value:  1
+# i has value:  2
+# i has value:  3
+# i has value:  4
+# i has value:  5
+
+
+#Виведем елементи в інтервалі між 2 і 5
+
+# for i in range(2, 5):
+#      print("i has value: ", i+1)
+#
+#
+# i has value:  3
+# i has value:  4
+# i has value:  5
 
 
 # #Цикл із початковим значенням(1), максимальним значенням(20) і кроком в (3)
@@ -62,7 +85,7 @@
 # 8
 
 
-# #Цикл for...continue
+# #Цикл for...continue(інструція continue пропускає все що нижче неї(ітерацію)
 #
 # for i in range(10):
 #     if i == 8:
@@ -95,6 +118,12 @@
 
 
 
+
+
+
+
+
+
 #В циклі можна використовувати замість "і" просто знак "_"
 
 def print_numbers(limit): #
@@ -114,6 +143,8 @@ print_numbers(10)
 # 7
 # 8
 # 9
+#
+#---------------------------------------------------------------
 
 #Підрахунок чисел Фібоначі за допомогою FOR
 
@@ -123,5 +154,34 @@ fibs = [1 , 2]
 for i in range (numbers_for_fib - 2):#проходимось циклом і з кожною ітерацією мінусюємо 2
     fibs.append(fibs[i] + fibs[i + 1])
 
-
 print("Fibonnachi's numbers: ", fibs)
+
+#---------------------------------------------------------------
+
+#Приклад перебору значень в dict через цикл for
+
+countries_population = {} #ініціалізували новий дікшінарі
+
+countries_population = {
+    'Ukraine': 52000000,
+    'France': 62000000,
+    'Japan': 126693000
+}
+
+#Отримати значення із словаря countries_population
+
+population_in_ukraine = countries_population['Ukraine']
+print("Ukraine has: ", population_in_ukraine)
+'''
+Ukraine has:  52000000
+'''
+
+#обійти всі елементи словаря в циклі
+
+for i in countries_population:
+    print(i, countries_population[i])
+'''
+Ukraine 52000000
+Japan 126693000
+France 62000000
+'''
