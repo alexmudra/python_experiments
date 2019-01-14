@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed596d89-71b2-429a-b04c-09a902a2a0f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/5_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schengen_homework_lesson4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/find_data_type_in_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/find_data_type_in_json.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_dict.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,19 +18,49 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/for.py">
+        <entry file="file://$PROJECT_DIR$/5_dict.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="97" column="3" lean-forward="true" selection-start-line="97" selection-start-column="3" selection-end-line="97" selection-end-column="3" />
+            <state relative-caret-position="255">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/format.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Info__Dict_List_Tuple_Set/convert_dict.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-927" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/countries_sea_shengen.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="347">
+              <caret line="78" lean-forward="true" selection-start-line="58" selection-end-line="83" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/5_dict.py">
+        <entry file="file://$PROJECT_DIR$/schengen_homework_lesson4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="35" column="7" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+            <state relative-caret-position="135">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Info__Dict_List_Tuple_Set/set_mnozhestva.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -38,59 +68,6 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Info__Dict_List_Tuple_Set/dictionary.py">
           <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/function_example.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2670">
-              <caret line="178" selection-start-line="178" selection-end-line="178" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/find_data_type_in_json.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="434">
-              <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exit.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2 exersice (copy).py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cheks.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/is_substring_in_main_string.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="66" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
-            </state>
-          </provider>
         </entry>
       </file>
     </leaf>
@@ -142,14 +119,15 @@
         <option value="$PROJECT_DIR$/list_definitions.py" />
         <option value="$PROJECT_DIR$/find_data_type_in_json.py" />
         <option value="$PROJECT_DIR$/5_dict.py" />
+        <option value="$PROJECT_DIR$/schengen_homework_lesson4.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="83" />
-    <option name="y" value="195" />
-    <option name="width" value="1515" />
-    <option name="height" value="646" />
+    <option name="y" value="167" />
+    <option name="width" value="1513" />
+    <option name="height" value="638" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -230,7 +208,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.5_dict">
+  <component name="RunManager" selected="Python.countries_sea_shengen">
     <configuration name="5_dict" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -244,6 +222,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_dict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="countries_sea_shengen" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/countries_sea_shengen.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -294,27 +293,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="for" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="homework" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/for.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="if else" type="PythonConfigurationType" factoryName="Python">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -336,7 +314,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="list_devinitions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="shengen" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -348,7 +326,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list_definitions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shengen.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -359,19 +337,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.if else" />
-      <item itemvalue="Python.list_devinitions" />
-      <item itemvalue="Python.for" />
       <item itemvalue="Python.find_data_type_in_json" />
       <item itemvalue="Python.find_name_amount_in_json" />
       <item itemvalue="Python.5_dict" />
+      <item itemvalue="Python.shengen" />
+      <item itemvalue="Python.countries_sea_shengen" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.countries_sea_shengen" />
+        <item itemvalue="Python.shengen" />
         <item itemvalue="Python.5_dict" />
         <item itemvalue="Python.find_data_type_in_json" />
         <item itemvalue="Python.find_name_amount_in_json" />
-        <item itemvalue="Python.list_devinitions" />
-        <item itemvalue="Python.for" />
       </list>
     </recent_temporary>
   </component>
@@ -501,7 +479,14 @@
       <option name="project" value="LOCAL" />
       <updated>1545859857011</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="added dict examples(phones)">
+      <created>1547247714937</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1547247714938</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -546,11 +531,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="44" y="-11" width="1557" height="912" extended-state="6" />
+    <frame x="45" y="-4" width="1555" height="904" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.37603307" side_tool="true" weight="0.15736382" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.62396693" visible="true" weight="0.2223693" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.62396693" visible="true" weight="0.2276638" />
       <window_info id="Structure" order="2" sideWeight="0.3768116" side_tool="true" weight="0.15736382" />
       <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49966374" weight="0.32561132" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5026455" side_tool="true" weight="0.31788933" />
@@ -558,7 +543,7 @@
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" weight="0.32736573" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49801588" visible="true" weight="0.32225063" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49801588" visible="true" weight="0.32225063" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.3979975" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -626,7 +611,8 @@
     <MESSAGE value="added second solution to find_name_aamount_in_json" />
     <MESSAGE value="added type(x) to recognize the type in list" />
     <MESSAGE value="added counter to list(needs to be debag)" />
-    <option name="LAST_COMMIT_MESSAGE" value="added counter to list(needs to be debag)" />
+    <MESSAGE value="added dict examples(phones)" />
+    <option name="LAST_COMMIT_MESSAGE" value="added dict examples(phones)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -640,8 +626,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/HW_2.py" />
     <entry file="file://$USER_HOME$/checkio_python/compare_3_num.py" />
     <entry file="file://$USER_HOME$/checkio_python/weight.py" />
     <entry file="file://$PROJECT_DIR$/../MyCode/Weight.py" />
@@ -747,9 +731,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/convert_dict.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/convert_dict.py" />
     <entry file="file://$PROJECT_DIR$/for_while.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -798,24 +780,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/function_example.py">
+    <entry file="file://$PROJECT_DIR$/list_definitions.py" />
+    <entry file="file://$PROJECT_DIR$/for.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2670">
-          <caret line="178" selection-start-line="178" selection-end-line="178" />
+        <state relative-caret-position="1455">
+          <caret line="97" column="3" selection-start-line="97" selection-start-column="3" selection-end-line="97" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/list_definitions.py">
+    <entry file="file://$PROJECT_DIR$/find_data_type_in_json.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2295">
-          <caret line="153" selection-start-line="153" selection-end-line="153" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        <state relative-caret-position="420">
+          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -836,30 +815,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/find_data_type_in_json.py">
+    <entry file="file://$PROJECT_DIR$/exit.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="45">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/for.py">
+    <entry file="file://$PROJECT_DIR$/function_example.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="97" column="3" lean-forward="true" selection-start-line="97" selection-start-column="3" selection-end-line="97" selection-end-column="3" />
+        <state relative-caret-position="704">
+          <caret line="178" selection-start-line="178" selection-end-line="178" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/format.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_dict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Info__Dict_List_Tuple_Set/set_mnozhestva.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Info__Dict_List_Tuple_Set/dictionary.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/5_dict.py">
+    <entry file="file://$PROJECT_DIR$/Info__Dict_List_Tuple_Set/list.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shengen.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="35" column="7" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+        <state relative-caret-position="135">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Info__Dict_List_Tuple_Set/convert_dict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-927" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/countries_sea_shengen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="78" lean-forward="true" selection-start-line="58" selection-end-line="83" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schengen_homework_lesson4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
