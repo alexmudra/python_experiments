@@ -50,17 +50,23 @@ print("Worm and schengen countries", worm_countries & schengen_countries)
 
 
 
+
+
 #Приклад арифметичних(ділення) операцій із частиною дікшінарі. Конвертуємо наші гроші в місцеву валюту
+
+
 
 our_money = 1200
 
-for country in countries:
+def money(our_money):
+    for country in countries:
         if (our_money/country['currency'])/31 >= country['live_rate_24']:
-                print("We can live in", country['name'])
-        else:
-            print("We can't live")
+            we_can_live_countries.add(country['name'])
+        print("We can live in", country['name'],worm_countries & sea_countries)
+    else:
+        print("We can't live", country['name'])
 
-
+money(400)
 
 
 
