@@ -1,6 +1,6 @@
 RESIDENCE_LIMIT = 90  # 45, 60 (КОНСТАНТА)
 SCHENGEN_CONSTRAINT = 180 #(КОНСТАНТА)
-visits = [[1, 10], [61, 90], [101, 140], [141, 160], [271, 290]]
+visits = [[1, 10], [61, 90], [101, 140], [141, 160], [271, 290]] #список візитів
 
 
 def get_visit_length(visit):
@@ -37,11 +37,12 @@ def predict_visit_days(day_in_future):
     print('Я смогу пробыть в шенеге {0} дней, если въеду {1} числа'.format(days_we_can_stay_in_es, day_in_future))
 
 
-def predict_visit():
+def predict_visit(): #ф-ія нічого не повертає (в код), а просто друкує дані
     print('Планировние поездки в Шенген')
     print('Введите день поездки')
     day_of_visit = int(input())
     predict_visit_days(day_of_visit)
+
 
 
 while True:
