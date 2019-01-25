@@ -54,3 +54,12 @@ while True:
         predict_visit()
     if user_input == 'e':
         break
+
+# # робим безкінечний цикл
+#
+# while True:
+#     user_input = input()
+#     if user_input == 'v':
+#         start = int(input())
+#         end = int(input())
+#         visits.append([start, end])
