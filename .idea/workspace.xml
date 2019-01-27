@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed596d89-71b2-429a-b04c-09a902a2a0f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/schengen_homework_lesson4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/work_with_file.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_dict.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +21,7 @@
         <entry file="file://$PROJECT_DIR$/5_dict.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -33,25 +33,48 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Info__Dict_List_Tuple_Set/convert_dict.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-927" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/countries_sea_shengen.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="78" lean-forward="true" selection-start-line="58" selection-end-line="83" selection-end-column="3" />
+            <state relative-caret-position="1485">
+              <caret line="99" column="57" lean-forward="true" selection-start-line="86" selection-end-line="110" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/schengen_homework_lesson4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/schengen_calculator_via_functions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-316" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/work_with_file.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/schengen_homework_lesson4.py">
+        <entry file="file://$PROJECT_DIR$/recursia.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="90">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -120,6 +143,8 @@
         <option value="$PROJECT_DIR$/find_data_type_in_json.py" />
         <option value="$PROJECT_DIR$/5_dict.py" />
         <option value="$PROJECT_DIR$/schengen_homework_lesson4.py" />
+        <option value="$PROJECT_DIR$/work_with_file.py" />
+        <option value="$PROJECT_DIR$/recursia.py" />
       </list>
     </option>
   </component>
@@ -159,11 +184,6 @@
             <path>
               <item name="homework_py_code" type="b2602c69:ProjectViewProjectNode" />
               <item name="homework_py_code" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="homework_py_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="homework_py_code" type="462c0819:PsiDirectoryNode" />
-              <item name="Info__Dict_List_Tuple_Set" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -208,28 +228,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.countries_sea_shengen">
-    <configuration name="5_dict" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="homework" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_dict.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.recursia">
     <configuration name="countries_sea_shengen" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -243,48 +242,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/countries_sea_shengen.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="find_data_type_in_json" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="homework" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/find_data_type_in_json.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="find_name_amount_in_json" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="homework" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/find_name_amount_in_json.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -314,6 +271,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="recursia" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/recursia.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="schengen_homework_lesson4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/schengen_homework_lesson4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="shengen" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -335,21 +334,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="work_with_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/work_with_file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.if else" />
-      <item itemvalue="Python.find_data_type_in_json" />
-      <item itemvalue="Python.find_name_amount_in_json" />
-      <item itemvalue="Python.5_dict" />
       <item itemvalue="Python.shengen" />
       <item itemvalue="Python.countries_sea_shengen" />
+      <item itemvalue="Python.schengen_homework_lesson4" />
+      <item itemvalue="Python.work_with_file" />
+      <item itemvalue="Python.recursia" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.recursia" />
+        <item itemvalue="Python.work_with_file" />
+        <item itemvalue="Python.schengen_homework_lesson4" />
         <item itemvalue="Python.countries_sea_shengen" />
         <item itemvalue="Python.shengen" />
-        <item itemvalue="Python.5_dict" />
-        <item itemvalue="Python.find_data_type_in_json" />
-        <item itemvalue="Python.find_name_amount_in_json" />
       </list>
     </recent_temporary>
   </component>
@@ -486,7 +506,21 @@
       <option name="project" value="LOCAL" />
       <updated>1547247714938</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="added homework 4, start to add more countries in SET">
+      <created>1547494428822</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1547494428822</updated>
+    </task>
+    <task id="LOCAL-00019" summary="added homework 4,added worm countries, live_24_rate loop">
+      <created>1547503803120</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1547503803120</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -531,11 +565,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="45" y="-4" width="1555" height="904" extended-state="6" />
+    <frame x="44" y="-11" width="1557" height="912" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.37603307" side_tool="true" weight="0.15736382" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.62396693" visible="true" weight="0.2276638" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.62396693" visible="true" weight="0.23097287" />
       <window_info id="Structure" order="2" sideWeight="0.3768116" side_tool="true" weight="0.15736382" />
       <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49966374" weight="0.32561132" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5026455" side_tool="true" weight="0.31788933" />
@@ -543,7 +577,7 @@
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" weight="0.32736573" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49801588" visible="true" weight="0.32225063" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49801588" visible="true" weight="0.32225063" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.3979975" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -612,7 +646,9 @@
     <MESSAGE value="added type(x) to recognize the type in list" />
     <MESSAGE value="added counter to list(needs to be debag)" />
     <MESSAGE value="added dict examples(phones)" />
-    <option name="LAST_COMMIT_MESSAGE" value="added dict examples(phones)" />
+    <MESSAGE value="added homework 4, start to add more countries in SET" />
+    <MESSAGE value="added homework 4,added worm countries, live_24_rate loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="added homework 4,added worm countries, live_24_rate loop" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -626,10 +662,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/checkio_python/compare_3_num.py" />
-    <entry file="file://$USER_HOME$/checkio_python/weight.py" />
-    <entry file="file://$PROJECT_DIR$/../MyCode/Weight.py" />
-    <entry file="file://$USER_HOME$/Python/Code/shahmati.py" />
     <entry file="file://$PROJECT_DIR$/Weight.py" />
     <entry file="file://$USER_HOME$/checkio_python/say-history.py" />
     <entry file="file://$USER_HOME$/checkio_python/correct-sentence.py" />
@@ -829,13 +861,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/format.py">
+    <entry file="file://$PROJECT_DIR$/Info__Dict_List_Tuple_Set/list.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shengen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/5_dict.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/format.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Info__Dict_List_Tuple_Set/convert_dict.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/countries_sea_shengen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1485">
+          <caret line="99" column="57" lean-forward="true" selection-start-line="86" selection-end-line="110" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -849,32 +901,32 @@
     <entry file="file://$PROJECT_DIR$/Info__Dict_List_Tuple_Set/dictionary.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Info__Dict_List_Tuple_Set/list.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shengen.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Info__Dict_List_Tuple_Set/convert_dict.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-927" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/countries_sea_shengen.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="78" lean-forward="true" selection-start-line="58" selection-end-line="83" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/schengen_homework_lesson4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="104">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schengen_calculator_via_functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-316" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pict.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work_with_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recursia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
