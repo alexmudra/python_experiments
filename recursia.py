@@ -7,3 +7,11 @@ def recursia(a):
 
 
 recursia(5)
+
+'''
+Result of recurs. func is: 5
+Result of recurs. func is: 4
+Result of recurs. func is: 3
+Result of recurs. func is: 2
+Result of recurs. func is: 1
+'''
