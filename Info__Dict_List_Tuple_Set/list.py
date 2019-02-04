@@ -159,3 +159,41 @@ if len(numbers) == len([number for number in numbers if number < 10]):
 # Результат: "Success!"
 
 
+#----------------------------------------------------------------
+'''
+Как записать файли в список
+'''
+temperature = []
+
+with open('temperature.txt') as doc:
+    for line in doc:
+        temperature.append(int(line))
+
+print("Info from txt file", temperature)
+avg_temperature = sum(temperature) / len(temperature)
+
+
+
+#запишемо температуру в список
+temperature_deviation = [] #об'явимо список
+for i in temperature: # цикл з ітератором
+    temperature_deviation.append(i - avg_temperature) #вичисляємо різницю температур
+
+with open('average_temperature.txt', 'w') as t_average_file:
+    t_average_file.write(round(avg_temperature))
+
+with open('temperature_deviation.txt', 'w') as t_deviation_file:
+    for t in temperature_deviation:
+        t_deviation_file('%.2f\n' %t)
+
+
+
+
+
+#використаємо ф-ію round щоб округлити флоат число
+print("Average winter temper.in Kyiv:", round(avg_temperature, 4))
+
+#створимо файл і запишем в файл середню температуру(із флагом w)
+with open('average_temp_file.txt', 'w') as avg:
+    avg.write(str("%2.f" %avg_temperature))
+
