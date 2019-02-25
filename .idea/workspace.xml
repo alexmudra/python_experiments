@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed596d89-71b2-429a-b04c-09a902a2a0f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/week_temp.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_temper_by_city.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ed596d89-71b2-429a-b04c-09a902a2a0f0" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -503,7 +499,14 @@
       <option name="project" value="LOCAL" />
       <updated>1549315065273</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="added code for read txt file by lives via loop">
+      <created>1549316577049</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1549316577049</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -548,19 +551,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="44" y="-11" width="1557" height="912" extended-state="6" />
+    <frame x="44" y="-11" width="1557" height="912" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.37603307" side_tool="true" weight="0.15736382" />
       <window_info content_ui="combo" id="Project" order="1" sideWeight="0.62396693" visible="true" weight="0.23428193" />
       <window_info id="Structure" order="2" sideWeight="0.3768116" side_tool="true" weight="0.15736382" />
       <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49966374" weight="0.32561132" />
-      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50231636" side_tool="true" weight="0.32225063" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="1" sideWeight="0.50231636" side_tool="true" visible="true" weight="0.32225063" />
       <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.49966374" weight="0.32561132" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" weight="0.32736573" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49768364" visible="true" weight="0.32225063" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49768364" visible="true" weight="0.32225063" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39769822" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -635,7 +638,8 @@
     <MESSAGE value="added view about round, .strip func. Added calculation average temperature in Kiev" />
     <MESSAGE value="added file for avg temperature, write in file avg.temperature" />
     <MESSAGE value="added loop for read and write to list" />
-    <option name="LAST_COMMIT_MESSAGE" value="added loop for read and write to list" />
+    <MESSAGE value="added code for read txt file by lives via loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="added code for read txt file by lives via loop" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
