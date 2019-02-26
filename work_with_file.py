@@ -46,6 +46,7 @@ with open('temperature.txt') as doc:
 print("Info from txt file and .strip", temperature)
 '''
 Info from txt file and .strip [-8, -2, -10, -5, 6, 12, -20, '-8', '-2', '-10', '-5', '6', '12', '-20']
+<<<<<<< Updated upstream
 
 
 '''
@@ -79,3 +80,12 @@ with open('average_temperature.txt', 'w') as t_average_file:
 with open('temperature_deviation.txt', 'w') as t_deviation_file:
     for t in temperature_deviation:
         t_deviation_file("%.2f\n" % t)
+=======
+'''
+#-----------------------------------------------------------------
+# Запишем результати в файл
+
+with open (avg_temperature.txt, 'w') as write_doc:
+    a
+
+>>>>>>> Stashed changes
