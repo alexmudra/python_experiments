@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed596d89-71b2-429a-b04c-09a902a2a0f0" name="Default Changelist" comment="added first code with selenium">
-      <change afterPath="$PROJECT_DIR$/itvdn.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/bin/gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/docopt-0.6.2-py3.5.egg-info/PKG-INFO" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/docopt-0.6.2-py3.5.egg-info/SOURCES.txt" afterDir="false" />
@@ -183,6 +182,8 @@
       <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Zephir.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/gitignore.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/if else.py" beforeDir="false" afterPath="$PROJECT_DIR$/if else.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itvdn.py" beforeDir="false" afterPath="$PROJECT_DIR$/itvdn.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/selenium/auth_test_.py" beforeDir="false" afterPath="$PROJECT_DIR$/selenium/auth_test_.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -208,11 +209,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/itvdn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+            <state relative-caret-position="347">
+              <caret line="69" column="7" lean-forward="true" selection-start-line="59" selection-end-line="69" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/if else.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="452">
+              <caret line="133" column="16" selection-start-line="133" selection-start-column="16" selection-end-line="133" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -275,6 +285,8 @@
         <option value="$PROJECT_DIR$/selenium/simple_test.py" />
         <option value="$PROJECT_DIR$/selenium/auth_test_.py" />
         <option value="$PROJECT_DIR$/selenium/itvdn.py" />
+        <option value="$PROJECT_DIR$/itvdn.py" />
+        <option value="$PROJECT_DIR$/if else.py" />
       </list>
     </option>
   </component>
@@ -330,7 +342,7 @@
   <component name="PropertiesComponent">
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -341,10 +353,10 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -363,7 +375,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.itvdn">
+  <component name="RunManager" selected="Python.if else (1)">
+    <configuration name="if else (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/if else.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="if else" type="PythonConfigurationType" factoryName="Python">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -398,27 +431,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/itvdn.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="list" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="homework" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Info__Dict_List_Tuple_Set" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Info__Dict_List_Tuple_Set/list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -492,19 +504,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.if else" />
-      <item itemvalue="Python.list" />
       <item itemvalue="Python.simple_test" />
       <item itemvalue="Python.week_temper_by_city" />
       <item itemvalue="Python.work_with_file" />
       <item itemvalue="Python.itvdn" />
+      <item itemvalue="Python.if else (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.if else (1)" />
         <item itemvalue="Python.itvdn" />
         <item itemvalue="Python.simple_test" />
         <item itemvalue="Python.week_temper_by_city" />
         <item itemvalue="Python.work_with_file" />
-        <item itemvalue="Python.list" />
       </list>
     </recent_temporary>
   </component>
@@ -718,7 +730,14 @@
       <option name="project" value="LOCAL" />
       <updated>1552247712015</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="added code from itvdn">
+      <created>1552843488531</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1552843488533</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -764,9 +783,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="44" y="-11" width="1557" height="912" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.37603307" side_tool="true" weight="0.15736382" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.62396693" visible="true" weight="0.26075447" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.62396693" visible="true" weight="0.26075447" />
       <window_info id="Structure" order="2" sideWeight="0.3768116" side_tool="true" weight="0.15736382" />
       <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49768364" weight="0.32480818" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5062872" side_tool="true" weight="0.32225063" />
@@ -774,8 +794,8 @@
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" sideWeight="0.4996691" weight="0.32736573" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49371278" weight="0.32225063" />
-      <window_info anchor="bottom" id="Debug" order="7" visible="true" weight="0.39769822" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49371278" visible="true" weight="0.32225063" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39769822" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" weight="0.32689834" />
@@ -864,15 +884,29 @@
         </breakpoint>
       </default-breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="5" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>2.3</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="watch">
+      <expression>
+        <expression-string>5</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/exit2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-start-column="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/input10Numbers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -1150,8 +1184,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/itvdn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+        <state relative-caret-position="347">
+          <caret line="69" column="7" lean-forward="true" selection-start-line="59" selection-end-line="69" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/if else.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="133" column="16" selection-start-line="133" selection-start-column="16" selection-end-line="133" selection-end-column="16" />
         </state>
       </provider>
     </entry>

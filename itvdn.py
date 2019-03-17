@@ -42,7 +42,8 @@ if 0 < x < 7:
     else:
         print(y == 0)
 
-print("/n")
+
+x = float(input("Enter the number: "))
 
 if 0 < x < 7:
     print("Значение x входит в данный диапазон!")
@@ -67,7 +68,5 @@ if 0 < x < 7:
 # # ...
 # # cod
 # # ...
-
-
 
 
