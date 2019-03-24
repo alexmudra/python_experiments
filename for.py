@@ -118,12 +118,6 @@
 
 
 
-
-
-
-
-
-
 #В циклі можна використовувати замість "і" просто знак "_"
 
 # def print_numbers(limit): #
@@ -186,7 +180,7 @@ Japan 126693000
 France 62000000
 '''
 
-
+#//////////////////////////////////////////////////////////////////
 '''
  Используя цикл for выведите все чётные числа в диапазоне от 1 до 10 включительно. 
  Переменная number – счетчик цикла. Использовать оператор continue.
@@ -198,17 +192,34 @@ France 62000000
     print("Current number is", number)
 '''
 
+number = 1
+
+for number in range(10):
+    if number == 0:
+        continue #ця існтрукція не виведе 0 і цикл продовжиться
+    if number % 2 == 0:
+        print("Current number is", number)
+    number += 1
+
+"""
+Current number is 2
+Current number is 4
+Current number is 6
+Current number is 8
+"""
+
+#//////////////////////////////////////////////////////////////////////
 """
 Виведем через цикл всі нечотні числа(використаємо ділення по модулю)
 
 """
 
-number = None
-
-for number in range(10):
-    if number % 2 != 0:
-        print("Current number is", number)
-    number += 1
+# number = None
+#
+# for number in range(10):
+#     if number % 2 != 0:
+#         print("Current number is", number)
+#     number += 1
 """
 Current number is 1
 Current number is 3
@@ -217,3 +228,33 @@ Current number is 7
 Current number is 9
 """
 
+#/////////////////////////////////////////////////////////////////
+
+"""
+Виведем через цикл всі ЧОТНІ числа(використаємо ділення по модулю)
+
+"""
+
+# number = None
+#
+# for number in range(10):
+#     if number % 2 == 0:
+#         print("Current number is", number)
+#     number += 1
+"""
+Current number is 0
+Current number is 2
+Current number is 4
+Current number is 6
+Current number is 8
+"""
+
+
+attempts_left = 3
+while attempts_left > 0:
+    attempts_left -= 1
+    password = input("Enter your password ")
+    if password == "98abc":
+        print("Access granted")
+else:
+    print("Access denied")

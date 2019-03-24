@@ -19,6 +19,9 @@ if len(number) <= 2 and number[2] == (number[0]*2):
     print("OK")
 else:
     print("Error")
-
 elif len(number) % 2 == 0:
-    print()
+    print("")
+
+
+#TODO дописати код із домашки
+
