@@ -2,189 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed596d89-71b2-429a-b04c-09a902a2a0f0" name="Default Changelist" comment="added first code with selenium">
-      <change afterPath="$PROJECT_DIR$/venv/bin/gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/docopt-0.6.2-py3.5.egg-info/PKG-INFO" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/docopt-0.6.2-py3.5.egg-info/SOURCES.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/docopt-0.6.2-py3.5.egg-info/dependency_links.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/docopt-0.6.2-py3.5.egg-info/installed-files.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/docopt-0.6.2-py3.5.egg-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/docopt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore-0.0.8-py3.5.egg-info/PKG-INFO" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore-0.0.8-py3.5.egg-info/SOURCES.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore-0.0.8-py3.5.egg-info/dependency_links.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore-0.0.8-py3.5.egg-info/entry_points.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore-0.0.8-py3.5.egg-info/installed-files.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore-0.0.8-py3.5.egg-info/requires.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore-0.0.8-py3.5.egg-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Actionscript.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Ada.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Agda.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Android.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/AppceleratorTitanium.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/ArchLinuxPackages.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Autotools.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/C++.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/C.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/CFWheels.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/CMake.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/CakePHP.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/ChefCookbook.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Clojure.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/CodeIgniter.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/CommonLisp.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Composer.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Concrete5.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Coq.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/CraftCMS.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/DM.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Dart.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Delphi.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Drupal.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/EPiServer.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Eagle.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Elisp.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Elixir.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Erlang.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/ExpressionEngine.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/ExtJs.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Fancy.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Finale.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/ForceDotCom.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Fortran.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/FuelPHP.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/GWT.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Gcov.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/GitBook.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/Anjuta.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/Archives.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/BricxCC.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/CVS.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/Cloud9.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/CodeKit.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/DartEditor.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/Dreamweaver.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/Eclipse.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/EiffelStudio.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/Emacs.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/Ensime.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/Espresso.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/FlexBuilder.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/IPythonNotebook.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/JDeveloper.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/JetBrains.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/KDevelop4.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/Kate.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/Lazarus.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/LibreOffice.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/Linux.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/LyX.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/Matlab.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/Mercurial.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/MicrosoftOffice.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/ModelSim.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/Momentics.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/MonoDevelop.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/NetBeans.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/Ninja.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/NotepadPP.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/OSX.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/Redcar.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/Redis.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/SBT.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/SVN.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/SlickEdit.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/SublimeText.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/Tags.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/TextMate.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/TortoiseGit.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/Vagrant.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/Vim.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/VirtualEnv.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/WebMethods.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/Windows.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/Xcode.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Global/XilinxISE.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Go.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Gradle.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Grails.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Haskell.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/IGORPro.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Idris.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Java.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Jboss.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Jekyll.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Joomla.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Jython.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Kohana.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/LabVIEW.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Laravel.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Leiningen.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/LemonStand.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Lilypond.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Lithium.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Lua.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Magento.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Maven.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Mercury.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/MetaProgrammingSystem.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Meteor.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Nanoc.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Nim.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Node.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/OCaml.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Objective-C.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Opa.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/OpenCart.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/OracleForms.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Packer.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Perl.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Phalcon.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/PlayFramework.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Plone.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Prestashop.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Processing.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Python.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Qooxdoo.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Qt.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/R.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/ROS.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Rails.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/RhodesRhomobile.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Ruby.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Rust.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/SCons.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Sass.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Scala.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Scrivener.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Sdcc.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/SeamGen.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/SketchUp.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Stella.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/SugarCRM.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Swift.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Symfony.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/SymphonyCMS.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/TeX.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Textpattern.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/TurboGears2.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Typo3.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Umbraco.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Unity.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/VVVV.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/VisualStudio.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Waf.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/WordPress.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Xojo.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Yeoman.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Yii.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/ZendFramework.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/data/Zephir.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/gitignore/gitignore.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/homework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/homework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/if else.py" beforeDir="false" afterPath="$PROJECT_DIR$/if else.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itvdn.py" beforeDir="false" afterPath="$PROJECT_DIR$/itvdn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium/auth_test_.py" beforeDir="false" afterPath="$PROJECT_DIR$/selenium/auth_test_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/while.py" beforeDir="false" afterPath="$PROJECT_DIR$/while.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -197,32 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/selenium/auth_test_.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="10" lean-forward="true" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/itvdn.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="69" column="7" lean-forward="true" selection-start-line="59" selection-end-line="69" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/if else.py">
+        <entry file="file://$PROJECT_DIR$/while.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="452">
-              <caret line="133" column="16" selection-start-line="133" selection-start-column="16" selection-end-line="133" selection-end-column="16" />
+            <state relative-caret-position="389">
+              <caret line="103" column="33" lean-forward="true" selection-start-line="97" selection-end-line="103" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -265,7 +65,6 @@
         <option value="$PROJECT_DIR$/readme.txt" />
         <option value="$PROJECT_DIR$/convert_json.py" />
         <option value="$PROJECT_DIR$/for_while.py" />
-        <option value="$PROJECT_DIR$/while.py" />
         <option value="$PROJECT_DIR$/nested_loops.py" />
         <option value="$PROJECT_DIR$/functions_build_in.py" />
         <option value="$PROJECT_DIR$/function_example.py" />
@@ -287,6 +86,7 @@
         <option value="$PROJECT_DIR$/selenium/itvdn.py" />
         <option value="$PROJECT_DIR$/itvdn.py" />
         <option value="$PROJECT_DIR$/if else.py" />
+        <option value="$PROJECT_DIR$/while.py" />
       </list>
     </option>
   </component>
@@ -325,13 +125,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="homework_py_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="homework_py_code" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="homework_py_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="homework_py_code" type="462c0819:PsiDirectoryNode" />
-              <item name="selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="python_experiments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_experiments" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -341,8 +136,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/bin" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -375,7 +170,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.if else (1)">
+  <component name="RunManager" selected="Python.while">
+    <configuration name="5_dict" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_dict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="if else (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -460,7 +276,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="week_temper_by_city" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="while" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -472,28 +288,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week_temper_by_city.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="work_with_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="homework" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/work_with_file.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/while.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -505,18 +300,18 @@
     <list>
       <item itemvalue="Python.if else" />
       <item itemvalue="Python.simple_test" />
-      <item itemvalue="Python.week_temper_by_city" />
-      <item itemvalue="Python.work_with_file" />
       <item itemvalue="Python.itvdn" />
       <item itemvalue="Python.if else (1)" />
+      <item itemvalue="Python.5_dict" />
+      <item itemvalue="Python.while" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.while" />
+        <item itemvalue="Python.5_dict" />
         <item itemvalue="Python.if else (1)" />
         <item itemvalue="Python.itvdn" />
         <item itemvalue="Python.simple_test" />
-        <item itemvalue="Python.week_temper_by_city" />
-        <item itemvalue="Python.work_with_file" />
       </list>
     </recent_temporary>
   </component>
@@ -782,19 +577,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="44" y="-11" width="1557" height="912" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.37603307" side_tool="true" weight="0.15736382" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.62396693" visible="true" weight="0.26075447" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.62396693" visible="true" weight="0.25982255" />
       <window_info id="Structure" order="2" sideWeight="0.3768116" side_tool="true" weight="0.15736382" />
       <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49768364" weight="0.32480818" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5062872" side_tool="true" weight="0.32225063" />
-      <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.49966374" weight="0.32480818" />
+      <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.49966374" weight="0.32392472" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" sideWeight="0.4996691" weight="0.32736573" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49371278" visible="true" weight="0.32225063" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49371278" visible="true" weight="0.32123655" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39769822" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -907,13 +702,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/input10Numbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/enterAndList.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-266">
@@ -982,13 +770,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/while.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="60" column="29" selection-start-line="60" selection-start-column="29" selection-end-line="60" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -1100,13 +881,6 @@
     <entry file="file://$PROJECT_DIR$/format.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/5_dict.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/recursia.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -1114,49 +888,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pict.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my_file.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="11" lean-forward="true" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/work_with_file.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/temperature.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/temperature_deviation.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/average_temperature.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/average_temp_file.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week_temper_by_city.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week_temp.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/pict.jpg" />
+    <entry file="file://$PROJECT_DIR$/my_file.txt" />
+    <entry file="file://$PROJECT_DIR$/work_with_file.py" />
+    <entry file="file://$PROJECT_DIR$/temperature.txt" />
+    <entry file="file://$PROJECT_DIR$/temperature_deviation.txt" />
+    <entry file="file://$PROJECT_DIR$/average_temp_file.txt" />
+    <entry file="file://$PROJECT_DIR$/week_temper_by_city.py" />
+    <entry file="file://$PROJECT_DIR$/week_temp.txt" />
     <entry file="file://$PROJECT_DIR$/Info__Dict_List_Tuple_Set/list.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2745">
@@ -1172,27 +911,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/itvdn.py" />
+    <entry file="file://$PROJECT_DIR$/if else.py" />
+    <entry file="file://$PROJECT_DIR$/average_temperature.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/selenium/auth_test_.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="10" lean-forward="true" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/itvdn.py">
+    <entry file="file://$PROJECT_DIR$/5_dict.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="69" column="7" lean-forward="true" selection-start-line="59" selection-end-line="69" selection-end-column="7" />
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/if else.py">
+    <entry file="file://$PROJECT_DIR$/exit2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="133" column="16" selection-start-line="133" selection-start-column="16" selection-end-line="133" selection-end-column="16" />
+        <state relative-caret-position="272">
+          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/while.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="103" column="33" lean-forward="true" selection-start-line="97" selection-end-line="103" selection-end-column="33" />
         </state>
       </provider>
     </entry>
