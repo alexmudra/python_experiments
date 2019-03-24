@@ -92,13 +92,40 @@ print("You have entered", number)
 
 !!!hint    telo cikla: number = int(input(str))
 '''
+#
+# number = 0
+# str_ = ("Enter a positive integer: ")
+#
+# while number <=0 :
+#     number = int(input(str_))
+#
+# print("You have entered", number)
 
 
+'''
+Напишите бесконечный цикл, который бы завершался вводом в консоли слова exit. 
+Используйте переменную response.
 
-number = 0
-str_ = ("Enter a positive integer: ")
+response = ""
 
-while number <=0 :
-    number = int(input(str_))
+# ...
+# code
+# ...
+'''
 
-print("You have entered", number)
+# #Варіант 1
+# response = ""
+#
+# while True:
+#     response = input("Введите команду")
+#     if response == "exit":
+#         break
+
+#Варіант 2
+
+while True:
+    print("Enter exit to extit from loop")
+    response = input("> ")
+    if response == "exit":
+        break
+

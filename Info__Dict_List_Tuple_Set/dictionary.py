@@ -1,3 +1,19 @@
+#Приклад перебору і сортування дікшінарі
+a_dict = {1: "one", 2: "two", 3: "three", 4: "four"}
+
+keys = sorted(a_dict.keys())
+for key in keys:
+    print(key)
+
+"""
+1
+2
+3
+4
+"""
+
+
+
 #Приклад перебору значень в dict через цикл for
 
 countries_population = {} #ініціалізували новий дікшінарі

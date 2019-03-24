@@ -126,11 +126,11 @@
 
 #В циклі можна використовувати замість "і" просто знак "_"
 
-def print_numbers(limit): #
-    for _ in range(limit):
-        print(_)
+# def print_numbers(limit): #
+#     for _ in range(limit):
+#         print(_)
 
-print_numbers(10)
+#print_numbers(10)
 
 # output:
 # 0
@@ -148,40 +148,72 @@ print_numbers(10)
 
 #Підрахунок чисел Фібоначі за допомогою FOR
 
-numbers_for_fib = 100 #будем проходитись по цим числам
-fibs = [1 , 2]
-
-for i in range (numbers_for_fib - 2):#проходимось циклом і з кожною ітерацією мінусюємо 2
-    fibs.append(fibs[i] + fibs[i + 1])
-
-print("Fibonnachi's numbers: ", fibs)
-
-#---------------------------------------------------------------
-
-#Приклад перебору значень в dict через цикл for
-
-countries_population = {} #ініціалізували новий дікшінарі
-
-countries_population = {
-    'Ukraine': 52000000,
-    'France': 62000000,
-    'Japan': 126693000
-}
-
-#Отримати значення із словаря countries_population
-
-population_in_ukraine = countries_population['Ukraine']
-print("Ukraine has: ", population_in_ukraine)
-'''
-Ukraine has:  52000000
-'''
-
-#обійти всі елементи словаря в циклі
-
-for i in countries_population:
-    print(i, countries_population[i])
+# numbers_for_fib = 100 #будем проходитись по цим числам
+# fibs = [1 , 2]
+#
+# for i in range (numbers_for_fib - 2):#проходимось циклом і з кожною ітерацією мінусюємо 2
+#     fibs.append(fibs[i] + fibs[i + 1])
+#
+# print("Fibonnachi's numbers: ", fibs)
+#
+# #---------------------------------------------------------------
+#
+# #Приклад перебору значень в dict через цикл for
+#
+# countries_population = {} #ініціалізували новий дікшінарі
+#
+# countries_population = {
+#     'Ukraine': 52000000,
+#     'France': 62000000,
+#     'Japan': 126693000
+# }
+#
+# #Отримати значення із словаря countries_population
+#
+# population_in_ukraine = countries_population['Ukraine']
+# print("Ukraine has: ", population_in_ukraine)
+# '''
+# Ukraine has:  52000000
+# '''
+#
+# #обійти всі елементи словаря в циклі
+#
+# for i in countries_population:
+#     print(i, countries_population[i])
 '''
 Ukraine 52000000
 Japan 126693000
 France 62000000
 '''
+
+
+'''
+ Используя цикл for выведите все чётные числа в диапазоне от 1 до 10 включительно. 
+ Переменная number – счетчик цикла. Использовать оператор continue.
+
+# ...
+# code
+# ...
+
+    print("Current number is", number)
+'''
+
+"""
+Виведем через цикл всі нечотні числа(використаємо ділення по модулю)
+
+"""
+
+number = None
+
+for number in range(10):
+    if number % 2 != 0:
+        print("Current number is", number)
+    number += 1
+"""
+Current number is 1
+Current number is 3
+Current number is 5
+Current number is 7
+Current number is 9
+"""
+
