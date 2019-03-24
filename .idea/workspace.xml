@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed596d89-71b2-429a-b04c-09a902a2a0f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/enrer_pass_check_pass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/square_with_spaces.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork2.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/for.py" beforeDir="false" afterPath="$PROJECT_DIR$/for.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,11 +26,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/enrer_pass_check_pass.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="26" lean-forward="true" selection-start-line="1" selection-end-line="9" selection-end-column="26" />
+            <state relative-caret-position="306">
+              <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/for.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="354">
+              <caret line="259" column="9" lean-forward="true" selection-start-line="259" selection-start-column="9" selection-end-line="259" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/square_with_spaces.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="8" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -96,8 +113,9 @@
         <option value="$PROJECT_DIR$/while.py" />
         <option value="$PROJECT_DIR$/Info__Dict_List_Tuple_Set/dictionary.py" />
         <option value="$PROJECT_DIR$/HomeWork2.py" />
-        <option value="$PROJECT_DIR$/for.py" />
         <option value="$PROJECT_DIR$/enrer_pass_check_pass.py" />
+        <option value="$PROJECT_DIR$/for.py" />
+        <option value="$PROJECT_DIR$/square_with_spaces.py" />
       </list>
     </option>
   </component>
@@ -106,24 +124,6 @@
     <option name="y" value="167" />
     <option name="width" value="1513" />
     <option name="height" value="638" />
-  </component>
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State />
-          <State>
-            <id>CompilationRobot</id>
-          </State>
-          <State>
-            <id>Python</id>
-          </State>
-          <State>
-            <id>Robot</id>
-          </State>
-        </expanded-state>
-      </profile-state>
-    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -181,7 +181,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.enrer_pass_check_pass">
+  <component name="RunManager" selected="Python.square_with_spaces">
     <configuration name="dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -287,7 +287,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="while" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="square_with_spaces" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -299,7 +299,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/while.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\а\PycharmProjects\python_experiments\square_with_spaces_via_for_loop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -310,19 +310,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.if else" />
-      <item itemvalue="Python.while" />
       <item itemvalue="Python.for" />
       <item itemvalue="Python.loops" />
       <item itemvalue="Python.dictionary" />
       <item itemvalue="Python.enrer_pass_check_pass" />
+      <item itemvalue="Python.square_with_spaces" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.enrer_pass_check_pass" />
+        <item itemvalue="Python.square_with_spaces" />
         <item itemvalue="Python.for" />
+        <item itemvalue="Python.enrer_pass_check_pass" />
         <item itemvalue="Python.dictionary" />
         <item itemvalue="Python.loops" />
-        <item itemvalue="Python.while" />
       </list>
     </recent_temporary>
   </component>
@@ -557,7 +557,14 @@
       <option name="project" value="LOCAL" />
       <updated>1553449379801</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="added pass/not pass code via while loop">
+      <created>1553457156079</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1553457156079</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -608,17 +615,17 @@
       <window_info id="Favorites" order="0" sideWeight="0.37821782" side_tool="true" weight="0.25918886" />
       <window_info content_ui="combo" id="Project" order="1" sideWeight="0.6217822" visible="true" weight="0.25918886" />
       <window_info id="Structure" order="2" sideWeight="0.37821782" side_tool="true" visible="true" weight="0.25918886" />
-      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49768364" weight="0.32480818" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49768364" weight="0.32392472" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5062872" side_tool="true" weight="0.32225063" />
-      <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.49966374" weight="0.32392472" />
+      <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.49966374" weight="0.32258064" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="5" sideWeight="0.4996691" weight="0.32736573" />
+      <window_info anchor="bottom" id="Version Control" order="5" sideWeight="0.4996691" weight="0.3266129" />
       <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49371278" visible="true" weight="0.32123655" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39769822" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" weight="0.3266129" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.3252688" />
       <window_info anchor="right" id="R Graphics" order="0" weight="0.32952252" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="R Packages" order="2" weight="0.32952252" />
@@ -667,7 +674,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added more information about function in Python" />
     <MESSAGE value="added function with if...else conditions" />
     <MESSAGE value="added code for build in functions complex functions" />
     <MESSAGE value="added local and global varables in functions" />
@@ -692,7 +698,8 @@
     <MESSAGE value="added code from itvdn" />
     <MESSAGE value="added code chek negative numbers with while" />
     <MESSAGE value="added code check not ever numbers via FOR" />
-    <option name="LAST_COMMIT_MESSAGE" value="added code check not ever numbers via FOR" />
+    <MESSAGE value="added pass/not pass code via while loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="added pass/not pass code via while loop" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -727,7 +734,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dkjf.py" />
     <entry file="file://$PROJECT_DIR$/output_colors.py" />
     <entry file="file://$PROJECT_DIR$/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -973,17 +979,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/for.py">
+    <entry file="file://$PROJECT_DIR$/enrer_pass_check_pass.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="259" column="26" lean-forward="true" selection-start-line="251" selection-end-line="259" selection-end-column="26" />
+        <state relative-caret-position="306">
+          <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/enrer_pass_check_pass.py">
+    <entry file="file://$PROJECT_DIR$/for.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="26" lean-forward="true" selection-start-line="1" selection-end-line="9" selection-end-column="26" />
+        <state relative-caret-position="354">
+          <caret line="259" column="9" lean-forward="true" selection-start-line="259" selection-start-column="9" selection-end-line="259" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/square_with_spaces.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="8" selection-end-column="11" />
         </state>
       </provider>
     </entry>

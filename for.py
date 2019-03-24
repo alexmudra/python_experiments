@@ -192,14 +192,14 @@ France 62000000
     print("Current number is", number)
 '''
 
-number = 1
-
-for number in range(10):
-    if number == 0:
-        continue #ця існтрукція не виведе 0 і цикл продовжиться
-    if number % 2 == 0:
-        print("Current number is", number)
-    number += 1
+# number = 1
+#
+# for number in range(10):
+#     if number == 0:
+#         continue #ця існтрукція не виведе 0 і цикл продовжиться
+#     if number % 2 == 0:
+#         print("Current number is", number)
+#     number += 1
 
 """
 Current number is 2
@@ -248,13 +248,13 @@ Current number is 4
 Current number is 6
 Current number is 8
 """
+#////////////////////////////////////////////////////////////////////
 
 
-attempts_left = 3
-while attempts_left > 0:
-    attempts_left -= 1
-    password = input("Enter your password ")
-    if password == "98abc":
-        print("Access granted")
-else:
-    print("Access denied")
+"""
+  Используя цикл со счетчиком, напишите код, который выводит на консоль числа от 0 до 9, каждую в новой строке. 
+  В качестве итератора используйте переменную i
+"""
+
+for i in range(10):
+    print(i)
