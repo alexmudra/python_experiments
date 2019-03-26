@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed596d89-71b2-429a-b04c-09a902a2a0f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/def_hello_w.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/def_hello_w.py" beforeDir="false" afterPath="$PROJECT_DIR$/def_hello_w.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,8 +55,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/def_hello_w.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+            <state relative-caret-position="423">
+              <caret line="47" column="22" lean-forward="true" selection-start-line="45" selection-end-line="47" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -580,7 +580,14 @@
       <option name="project" value="LOCAL" />
       <updated>1553462667451</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="added def function square numbers">
+      <created>1553548527295</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1553548527296</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -690,7 +697,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added code for build in functions complex functions" />
     <MESSAGE value="added local and global varables in functions" />
     <MESSAGE value="added code with IN in lists and strings" />
     <MESSAGE value="added append, del(index), fibonachi's numbers. Finish Python Starter" />
@@ -715,7 +721,8 @@
     <MESSAGE value="added code check not ever numbers via FOR" />
     <MESSAGE value="added pass/not pass code via while loop" />
     <MESSAGE value="added square figure via FOR loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="added square figure via FOR loop" />
+    <MESSAGE value="added def function square numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="added def function square numbers" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1011,8 +1018,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/def_hello_w.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        <state relative-caret-position="423">
+          <caret line="47" column="22" lean-forward="true" selection-start-line="45" selection-end-line="47" selection-end-column="22" />
         </state>
       </provider>
     </entry>
