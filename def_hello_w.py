@@ -96,9 +96,18 @@ def table(width=1.5, legs=4, color="brown" ):
 
 
 table()
-table(width=2, color="black", legs=2)
-table(legs=2)
-table(1.2, 2, "gray")
+# table(width=2, color="black", legs=2)
+# table(legs=2)
+# table(1.2, 2, "gray")
 table(1.1, 3)
-table(width=2, legs=4, color="white")
-table(color="green", width=2, legs=2)
+# table(width=2, legs=4, color="white")
+# table(color="green", width=2, legs=2)
+
+
+#//////////////////////////////////////////
+
+# Напишите функцию sum_ принимаеттри
+# параметра a, b, c.Параметр “c” равен нулю по умолчанию.Функция должна возвращать
+# сумму всех трех аргументов.Не использовать дополнительные переменные.
+
+
