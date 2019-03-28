@@ -47,3 +47,58 @@ def print_square(num):
     return num * num
 print(print_square(2))
 
+#//////////////////////////////////////////////////
+
+#приклад вложеної функції
+
+def function (x):
+    if x > 0:
+        return x * 2
+    else:
+        return x * 3
+
+
+def main_func():
+    for i in range(-3, 4):
+        y = function(i)
+    print('function(', i,') = ',i, sep='')
+
+
+main_func()
+
+#function(3) = 3
+
+
+'''
+Приклад присвоювання номінальних і фактичних параметрів і ф-ій
+'''
+
+def table(width=1.5, legs=4, color="brown" ):
+    print("Table width -", width)
+    print("Table legs -", legs)
+    print("Table color -", color)
+
+
+table()
+table(legs=2, color="black", width=2)
+table(legs=2)
+table(1.2, 2, "gray")
+table(1.1, 3)
+table(legs=4, width=2, color="white")
+table(color="green", width=2, legs=2)
+
+print("/////////////////////////////////////////////////////////")
+
+def table(width=1.5, legs=4, color="brown" ):
+    print("Table width -", width)
+    print("Table legs -", legs)
+    print("Table color -", color)
+
+
+table()
+table(width=2, color="black", legs=2)
+table(legs=2)
+table(1.2, 2, "gray")
+table(1.1, 3)
+table(width=2, legs=4, color="white")
+table(color="green", width=2, legs=2)
