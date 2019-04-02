@@ -129,16 +129,16 @@ print (sum_(100,1))
 #
 # func()
 
-def func(n = 5):
-    for i in range(n):
-        if i == 0 and i <= 4:
-            print(i)
-        else:
-            n -= i
-            print(n)
-
-func()
-#TODO знайти коректне рішення
+# def func(n = 5):
+#     for i in range(n):
+#         if i == 0 and i <= 4:
+#             print(i)
+#         else:
+#             n -= i
+#             print(n)
+#
+# func()
+# #TODO знайти коректне рішення для функції func
 
 
 
@@ -154,3 +154,14 @@ func()
 #
 # func()
 
+def func (n = 5):
+    for i in range(n):
+        while i != n:
+            if i == 0 and i <= 4:
+                print(i)
+            else:
+                n -= i
+                print(n)
+
+func()
+# #TODO знайти коректне рішення для функції func2
