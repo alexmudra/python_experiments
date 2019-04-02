@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed596d89-71b2-429a-b04c-09a902a2a0f0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/homework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/homework.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/def_hello_w.py" beforeDir="false" afterPath="$PROJECT_DIR$/def_hello_w.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,8 +54,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/def_hello_w.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="531">
-              <caret line="139" lean-forward="true" selection-start-line="130" selection-end-line="139" />
+            <state relative-caret-position="441">
+              <caret line="160" column="24" lean-forward="true" selection-start-line="160" selection-start-column="24" selection-end-line="160" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -588,7 +585,14 @@
       <option name="project" value="LOCAL" />
       <updated>1553548527296</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="added def func (find 0 and 4n via FOR loop">
+      <created>1554226437147</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1554226437147</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -649,7 +653,7 @@
       <window_info anchor="bottom" id="Debug" order="7" weight="0.3975535" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" weight="0.3252688" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32517838" />
       <window_info anchor="right" id="R Graphics" order="0" weight="0.32952252" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="R Packages" order="2" weight="0.32952252" />
@@ -698,7 +702,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added local and global varables in functions" />
     <MESSAGE value="added code with IN in lists and strings" />
     <MESSAGE value="added append, del(index), fibonachi's numbers. Finish Python Starter" />
     <MESSAGE value="added FOR loop to find data_type in json" />
@@ -723,7 +726,8 @@
     <MESSAGE value="added pass/not pass code via while loop" />
     <MESSAGE value="added square figure via FOR loop" />
     <MESSAGE value="added def function square numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="added def function square numbers" />
+    <MESSAGE value="added def func (find 0 and 4n via FOR loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="added def func (find 0 and 4n via FOR loop" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1019,8 +1023,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/def_hello_w.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
-          <caret line="139" lean-forward="true" selection-start-line="130" selection-end-line="139" />
+        <state relative-caret-position="441">
+          <caret line="160" column="24" lean-forward="true" selection-start-line="160" selection-start-column="24" selection-end-line="160" selection-end-column="24" />
         </state>
       </provider>
     </entry>
