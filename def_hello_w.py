@@ -123,22 +123,30 @@ print (sum_(100,1))
 # каждое в новой строке если ее запустить без параметров.
 # Либо числа от 0 до n-1, где n – параметр функции. Используйте цикл for и переменную итератор i.
 #
-# # ...
-# # code
-# # ...
-#
-# func()
 
-# def func(n = 5):
-#     for i in range(n):
-#         if i == 0 and i <= 4:
-#             print(i)
-#         else:
-#             n -= i
-#             print(n)
-#
-# func()
-# #TODO знайти коректне рішення для функції func
+def func (n):
+    if n == 0 and n <=4:
+        return n
+    else:
+        return n - 1
+
+def func1():
+    for i in range (0, 6):
+        y = func(i)
+        print('function(',i, ') = ', y, sep='')
+
+func1()
+
+'''
+function(0) = 0
+function(1) = 0
+function(2) = 1
+function(3) = 2
+function(4) = 3
+'''
+
+
+#TODO знайти коректне рішення для функції func
 
 
 
@@ -154,14 +162,19 @@ print (sum_(100,1))
 #
 # func()
 
-def func (n = 5):
-    for i in range(n):
-        while i != n:
-            if i == 0 and i <= 4:
-                print(i)
-            else:
-                n -= i
-                print(n)
+# def func (n = 5):
+#     for i in range(n):
+#         while i != n:
+#             i +=1
+#             if i == 0 and i <= 4:
+#                 print(i)
+#             else:
+#                 n -= i
+#                 print(n)
 
-func()
+#func()
 # #TODO знайти коректне рішення для функції func2
+
+
+
+

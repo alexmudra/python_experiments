@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed596d89-71b2-429a-b04c-09a902a2a0f0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/def_hello_w.py" beforeDir="false" afterPath="$PROJECT_DIR$/def_hello_w.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,8 +55,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/def_hello_w.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="160" column="24" lean-forward="true" selection-start-line="160" selection-start-column="24" selection-end-line="160" selection-end-column="24" />
+            <state relative-caret-position="223">
+              <caret line="125" selection-start-line="125" selection-end-line="125" />
             </state>
           </provider>
         </entry>
@@ -140,7 +141,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -152,6 +152,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -592,7 +593,21 @@
       <option name="project" value="LOCAL" />
       <updated>1554226437147</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="added def func2 (find 0 and 4n via FOR loop">
+      <created>1554226683658</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1554226683658</updated>
+    </task>
+    <task id="LOCAL-00037" summary="added def func2 (find 0 and 4n via FOR loop">
+      <created>1554226689959</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1554226689959</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -637,15 +652,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="-4" width="1867" height="1085" extended-state="6" />
+    <frame x="55" y="-4" width="1865" height="1084" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.37821782" side_tool="true" weight="0.25918886" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.6166419" visible="true" weight="0.24738868" />
-      <window_info id="Structure" order="2" sideWeight="0.3833581" side_tool="true" visible="true" weight="0.24738868" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.61470586" visible="true" weight="0.25013745" />
+      <window_info id="Structure" order="2" sideWeight="0.3852941" side_tool="true" visible="true" weight="0.25013745" />
       <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49768364" weight="0.32392472" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5062872" side_tool="true" weight="0.32225063" />
-      <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.49966374" visible="true" weight="0.31396535" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="2" sideWeight="0.49966374" visible="true" weight="0.30682978" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" sideWeight="0.4996691" weight="0.3266129" />
@@ -702,7 +717,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added code with IN in lists and strings" />
     <MESSAGE value="added append, del(index), fibonachi's numbers. Finish Python Starter" />
     <MESSAGE value="added FOR loop to find data_type in json" />
     <MESSAGE value="added second solution to find_name_aamount_in_json" />
@@ -727,7 +741,8 @@
     <MESSAGE value="added square figure via FOR loop" />
     <MESSAGE value="added def function square numbers" />
     <MESSAGE value="added def func (find 0 and 4n via FOR loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="added def func (find 0 and 4n via FOR loop" />
+    <MESSAGE value="added def func2 (find 0 and 4n via FOR loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="added def func2 (find 0 and 4n via FOR loop" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1023,8 +1038,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/def_hello_w.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="160" column="24" lean-forward="true" selection-start-line="160" selection-start-column="24" selection-end-line="160" selection-end-column="24" />
+        <state relative-caret-position="223">
+          <caret line="125" selection-start-line="125" selection-end-line="125" />
         </state>
       </provider>
     </entry>
