@@ -124,18 +124,18 @@ print (sum_(100,1))
 # Либо числа от 0 до n-1, где n – параметр функции. Используйте цикл for и переменную итератор i.
 #
 
-def func (n):
-    if n == 0 and n <=4:
-        return n
-    else:
-        return n - 1
-
-def func1():
-    for i in range (0, 6):
-        y = func(i)
-        print('function(',i, ') = ', y, sep='')
-
-func1()
+# def func (n):
+#     if n == 0 and n <=4:
+#         return n
+#     else:
+#         return n - 1
+#
+# def func1():
+#     for i in range (0, 6):
+#         y = func(i)
+#         print('function(',i, ') = ', y, sep='')
+#
+# func1()
 
 '''
 function(0) = 0
@@ -176,5 +176,16 @@ function(4) = 3
 # #TODO знайти коректне рішення для функції func2
 
 
+"""
+  Напишите функцию с названием function и параметрами a и b, которая возвращает сумму этих параметров. 
+  Напишите документационную строку к функции содержащую текст - This function adds two arguments.
+"""
 
 
+def function_(a, b):
+    """- This function adds two arguments."""
+
+    return a + b
+
+
+function_()
