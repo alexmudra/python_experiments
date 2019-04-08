@@ -19,7 +19,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/while.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1965">
+            <state>
               <caret line="131" selection-start-line="131" selection-end-line="131" />
             </state>
           </provider>
@@ -55,8 +55,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/def_hello_w.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="538">
-              <caret line="190" column="22" lean-forward="true" selection-start-line="190" selection-start-column="22" selection-end-line="190" selection-end-column="22" />
+            <state relative-caret-position="560">
+              <caret line="262" column="52" selection-start-line="262" selection-start-column="52" selection-end-line="262" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -159,7 +159,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/bin" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -621,7 +621,21 @@
       <option name="project" value="LOCAL" />
       <updated>1554312072289</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="added function with documentary stting __doc__ console">
+      <created>1554312395239</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1554312395239</updated>
+    </task>
+    <task id="LOCAL-00041" summary="added func print to console max, min, abc values of a,b,c arguments">
+      <created>1554398611104</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1554398611104</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -666,15 +680,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="55" y="-4" width="1865" height="1084" extended-state="6" />
+    <frame x="54" y="-4" width="1867" height="1085" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.37821782" side_tool="true" weight="0.25918886" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.61470586" visible="true" weight="0.25013745" />
-      <window_info id="Structure" order="2" sideWeight="0.3852941" side_tool="true" visible="true" weight="0.25013745" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.6128093" visible="true" weight="0.2528862" />
+      <window_info id="Structure" order="2" sideWeight="0.38719067" side_tool="true" visible="true" weight="0.2528862" />
       <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49768364" weight="0.32392472" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5062872" side_tool="true" weight="0.32225063" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="2" sideWeight="0.49966374" visible="true" weight="0.30682978" />
+      <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.49966374" visible="true" weight="0.29969418" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" sideWeight="0.4996691" weight="0.3266129" />
@@ -731,8 +745,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added second solution to find_name_aamount_in_json" />
-    <MESSAGE value="added type(x) to recognize the type in list" />
     <MESSAGE value="added counter to list(needs to be debag)" />
     <MESSAGE value="added dict examples(phones)" />
     <MESSAGE value="added homework 4, start to add more countries in SET" />
@@ -756,7 +768,9 @@
     <MESSAGE value="added def func2 (find 0 and 4n via FOR loop" />
     <MESSAGE value="added def func1 (find 0 and 4n via FOR loop" />
     <MESSAGE value="added function with documentary string" />
-    <option name="LAST_COMMIT_MESSAGE" value="added function with documentary string" />
+    <MESSAGE value="added function with documentary stting __doc__ console" />
+    <MESSAGE value="added func print to console max, min, abc values of a,b,c arguments" />
+    <option name="LAST_COMMIT_MESSAGE" value="added func print to console max, min, abc values of a,b,c arguments" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -791,13 +805,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/readme.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="32" selection-start-column="32" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/abcd.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1065">
@@ -1024,7 +1031,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/while.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1965">
+        <state>
           <caret line="131" selection-start-line="131" selection-end-line="131" />
         </state>
       </provider>
@@ -1050,10 +1057,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file:///usr/lib/python3.5/posixpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="148" selection-start-line="148" selection-end-line="148" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/def_hello_w.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="190" column="22" lean-forward="true" selection-start-line="190" selection-start-column="22" selection-end-line="190" selection-end-column="22" />
+        <state relative-caret-position="560">
+          <caret line="262" column="52" selection-start-line="262" selection-start-column="52" selection-end-line="262" selection-end-column="52" />
         </state>
       </provider>
     </entry>
