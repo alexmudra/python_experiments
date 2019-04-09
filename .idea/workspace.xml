@@ -19,7 +19,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/while.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="1965">
               <caret line="131" selection-start-line="131" selection-end-line="131" />
             </state>
           </provider>
@@ -55,8 +55,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/def_hello_w.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="262" column="52" selection-start-line="262" selection-start-column="52" selection-end-line="262" selection-end-column="52" />
+            <state relative-caret-position="582">
+              <caret line="309" column="3" lean-forward="true" selection-start-line="286" selection-end-line="309" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -141,6 +141,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -152,7 +153,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -635,7 +635,14 @@
       <option name="project" value="LOCAL" />
       <updated>1554398611104</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="added function to change global variable">
+      <created>1554745393535</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1554745393535</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -684,11 +691,11 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.37821782" side_tool="true" weight="0.25918886" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.6128093" visible="true" weight="0.2528862" />
-      <window_info id="Structure" order="2" sideWeight="0.38719067" side_tool="true" visible="true" weight="0.2528862" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.610951" visible="true" weight="0.25563496" />
+      <window_info id="Structure" order="2" sideWeight="0.389049" side_tool="true" visible="true" weight="0.25563496" />
       <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49768364" weight="0.32392472" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5062872" side_tool="true" weight="0.32225063" />
-      <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.49966374" visible="true" weight="0.29969418" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="2" sideWeight="0.49966374" visible="true" weight="0.2925586" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" sideWeight="0.4996691" weight="0.3266129" />
@@ -745,7 +752,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added counter to list(needs to be debag)" />
     <MESSAGE value="added dict examples(phones)" />
     <MESSAGE value="added homework 4, start to add more countries in SET" />
     <MESSAGE value="added homework 4,added worm countries, live_24_rate loop" />
@@ -770,7 +776,8 @@
     <MESSAGE value="added function with documentary string" />
     <MESSAGE value="added function with documentary stting __doc__ console" />
     <MESSAGE value="added func print to console max, min, abc values of a,b,c arguments" />
-    <option name="LAST_COMMIT_MESSAGE" value="added func print to console max, min, abc values of a,b,c arguments" />
+    <MESSAGE value="added function to change global variable" />
+    <option name="LAST_COMMIT_MESSAGE" value="added function to change global variable" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1029,9 +1036,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file:///usr/lib/python3.5/posixpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="148" selection-start-line="148" selection-end-line="148" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/while.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="1965">
           <caret line="131" selection-start-line="131" selection-end-line="131" />
         </state>
       </provider>
@@ -1057,17 +1071,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/lib/python3.5/posixpath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="148" selection-start-line="148" selection-end-line="148" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/def_hello_w.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="262" column="52" selection-start-line="262" selection-start-column="52" selection-end-line="262" selection-end-column="52" />
+        <state relative-caret-position="582">
+          <caret line="309" column="3" lean-forward="true" selection-start-line="286" selection-end-line="309" selection-end-column="3" />
         </state>
       </provider>
     </entry>
