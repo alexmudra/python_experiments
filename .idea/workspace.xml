@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ed596d89-71b2-429a-b04c-09a902a2a0f0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/def_hello_w.py" beforeDir="false" afterPath="$PROJECT_DIR$/def_hello_w.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Info__Dict_List_Tuple_Set/list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Info__Dict_List_Tuple_Set/list.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,15 +26,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/enrer_pass_check_pass.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/for.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="3885">
@@ -44,19 +35,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/square_with_spaces_via_for_loop.py">
+        <entry file="file://$PROJECT_DIR$/def_hello_w.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+            <state relative-caret-position="5115">
+              <caret line="341" column="3" selection-start-line="341" selection-start-column="3" selection-end-line="341" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/def_hello_w.py">
+        <entry file="file://$PROJECT_DIR$/Info__Dict_List_Tuple_Set/list.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="619">
-              <caret line="350" column="3" selection-start-line="350" selection-start-column="3" selection-end-line="350" selection-end-column="3" />
+            <state relative-caret-position="479">
+              <caret line="173" column="3" lean-forward="true" selection-start-line="162" selection-end-line="176" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -109,7 +100,6 @@
         <option value="$PROJECT_DIR$/5_dict.py" />
         <option value="$PROJECT_DIR$/schengen_homework_lesson4.py" />
         <option value="$PROJECT_DIR$/recursia.py" />
-        <option value="$PROJECT_DIR$/Info__Dict_List_Tuple_Set/list.py" />
         <option value="$PROJECT_DIR$/work_with_file.py" />
         <option value="$PROJECT_DIR$/week_temp.txt" />
         <option value="$PROJECT_DIR$/week_temper_by_city.py" />
@@ -126,6 +116,7 @@
         <option value="$PROJECT_DIR$/square_with_spaces.py" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/def_hello_w.py" />
+        <option value="$PROJECT_DIR$/Info__Dict_List_Tuple_Set/list.py" />
       </list>
     </option>
   </component>
@@ -141,7 +132,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -149,10 +139,16 @@
               <item name="python_experiments" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_experiments" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="python_experiments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_experiments" type="462c0819:PsiDirectoryNode" />
+              <item name="Info__Dict_List_Tuple_Set" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -192,11 +188,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.def_hello_w">
+  <component name="RunManager" selected="Python.list">
     <configuration name="def_hello_w" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -205,27 +204,6 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/def_hello_w.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="homework" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Info__Dict_List_Tuple_Set" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Info__Dict_List_Tuple_Set/dictionary.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -295,6 +273,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="list" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Info__Dict_List_Tuple_Set" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Info__Dict_List_Tuple_Set/list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="square_with_spaces" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -319,18 +318,18 @@
     <list>
       <item itemvalue="Python.if else" />
       <item itemvalue="Python.for" />
-      <item itemvalue="Python.dictionary" />
       <item itemvalue="Python.enrer_pass_check_pass" />
       <item itemvalue="Python.square_with_spaces" />
       <item itemvalue="Python.def_hello_w" />
+      <item itemvalue="Python.list" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.list" />
         <item itemvalue="Python.def_hello_w" />
         <item itemvalue="Python.square_with_spaces" />
         <item itemvalue="Python.for" />
         <item itemvalue="Python.enrer_pass_check_pass" />
-        <item itemvalue="Python.dictionary" />
       </list>
     </recent_temporary>
   </component>
@@ -649,7 +648,14 @@
       <option name="project" value="LOCAL" />
       <updated>1554830837361</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="added func recursion, imported funtools for memorising of function results">
+      <created>1554915255492</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1554915255492</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -698,15 +704,15 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.37821782" side_tool="true" weight="0.25918886" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.6091298" visible="true" weight="0.25838372" />
-      <window_info id="Structure" order="2" sideWeight="0.39087018" side_tool="true" visible="true" weight="0.25838372" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.6081081" visible="true" weight="0.26113248" />
+      <window_info id="Structure" order="2" sideWeight="0.3918919" side_tool="true" visible="true" weight="0.26113248" />
       <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49768364" weight="0.32392472" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5062872" side_tool="true" weight="0.32225063" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="2" sideWeight="0.49966374" visible="true" weight="0.28542304" />
+      <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.49966374" weight="0.28542304" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="5" sideWeight="0.4996691" weight="0.3266129" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49371278" weight="0.32123655" />
+      <window_info anchor="bottom" id="Version Control" order="5" sideWeight="0.4996691" weight="0.32619774" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49371278" visible="true" weight="0.32110092" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.3975535" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -759,7 +765,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added homework 4, start to add more countries in SET" />
     <MESSAGE value="added homework 4,added worm countries, live_24_rate loop" />
     <MESSAGE value="added simple recursion func" />
     <MESSAGE value="added view about round, .strip func. Added calculation average temperature in Kiev" />
@@ -784,7 +789,8 @@
     <MESSAGE value="added func print to console max, min, abc values of a,b,c arguments" />
     <MESSAGE value="added function to change global variable" />
     <MESSAGE value="added recursion func(add +1 to recursion)" />
-    <option name="LAST_COMMIT_MESSAGE" value="added recursion func(add +1 to recursion)" />
+    <MESSAGE value="added func recursion, imported funtools for memorising of function results" />
+    <option name="LAST_COMMIT_MESSAGE" value="added func recursion, imported funtools for memorising of function results" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -819,13 +825,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/abcd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1065">
-          <caret line="71" column="37" selection-start-line="71" selection-start-column="37" selection-end-line="71" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/convert_dict.py" />
     <entry file="file://$PROJECT_DIR$/convert_json.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -919,13 +918,6 @@
     <entry file="file://$PROJECT_DIR$/temperature_deviation.txt" />
     <entry file="file://$PROJECT_DIR$/week_temper_by_city.py" />
     <entry file="file://$PROJECT_DIR$/week_temp.txt" />
-    <entry file="file://$PROJECT_DIR$/Info__Dict_List_Tuple_Set/list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2745">
-          <caret line="183" selection-start-line="176" selection-end-line="186" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/selenium/geckodriver.log" />
     <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/selenium/webdriver/remote/errorhandler.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1050,24 +1042,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/while.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1965">
-          <caret line="131" selection-start-line="131" selection-end-line="131" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/enrer_pass_check_pass.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/for.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3885">
-          <caret line="259" column="9" selection-start-line="259" selection-start-column="9" selection-end-line="259" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -1078,10 +1056,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file:///usr/lib/python3.5/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="308" selection-start-line="308" selection-end-line="308" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/while.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1965">
+          <caret line="131" selection-start-line="131" selection-end-line="131" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/for.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3885">
+          <caret line="259" column="9" selection-start-line="259" selection-start-column="9" selection-end-line="259" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/def_hello_w.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="619">
-          <caret line="350" column="3" selection-start-line="350" selection-start-column="3" selection-end-line="350" selection-end-column="3" />
+        <state relative-caret-position="5115">
+          <caret line="341" column="3" selection-start-line="341" selection-start-column="3" selection-end-line="341" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Info__Dict_List_Tuple_Set/list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="173" column="3" lean-forward="true" selection-start-line="162" selection-end-line="176" selection-end-column="3" />
         </state>
       </provider>
     </entry>

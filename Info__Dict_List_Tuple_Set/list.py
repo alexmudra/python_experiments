@@ -111,9 +111,9 @@ else:
 
 
 #РОЗГЛЯНЕМО ОПЕРАЦІЇ ІЗ СПИСКАМИ append, index, del value
-
-
 #APPEND
+
+
 some_list = []
 
 some_list.append("sa") #додали 1й елемент в пустий список
@@ -158,4 +158,29 @@ if len(numbers) == len([number for number in numbers if number < 10]):
     print('Success!')
 # Результат: "Success!"
 
+#\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
+"""
+Создайте список list_r содержащий числа (0, 1, 2, 3, 4) с использование встроенной функции list().
+Создайте список list_str, основанный на строке "Simple string"
+"""
+
+list_r = list(range(5))
+list_str = list("Simple string")
+
+
+print(list_r)
+print(list_str)
+"""
+[0, 1, 2, 3, 4]
+['S', 'i', 'm', 'p', 'l', 'e', ' ', 's', 't', 'r', 'i', 'n', 'g']
+"""
+
+"""
+ Создайте список list_str на основе фразы "Hello, world!" Далее, 
+ последовательно выведите на консоль первый элемент списка, пятый и последний.
+"""
+
+
+list_str = ["Hello, world!"]
+print(list_str)
