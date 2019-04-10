@@ -278,23 +278,18 @@ function(4) = 3
 #         var = "new variable"
 #//////////////////////////////////////////////
 
-"""
-Напишите функцию с сигнатурой factorial(n) которая возвращает факториал числа n. Используйте рекурсию.
-"""
-
-
 
 """
 Простенька рекурсія для циклічного підрахунку на 1"""
 
-def rec (a):
-    print("res of recursion", a)
-    while a == 20:
-        continue
-
-    rec(a+1)
-
-rec(10)
+# def rec (a):
+#     print("res of recursion", a)
+#     while a == 20:
+#         continue
+#
+#     rec(a+1)
+#
+# rec(10)
 """
 res of recursion 10
 res of recursion 11
@@ -307,4 +302,52 @@ res of recursion 17
 res of recursion 18
 res of recursion 19
 res of recursion 20
+"""
+
+#////////////////////////////////////////////
+"""
+Напишите функцию с сигнатурой factorial(n) которая возвращает факториал числа n. Используйте рекурсию.
+"""
+# def factorial(n):
+#     if n == 0:
+#         return 1
+#     else:
+#         return n * factorial(n-1)
+#
+# print("Recursion result:", factorial(5))
+#
+# #Recursion result: 120
+
+#/////////////////////////////////////////////////
+
+
+
+"""
+  Программа рекурсивно вычисляет числа Фибоначчи и выводит 10 из них в консоль. Найдите ошибки в коде:
+"""
+import functools #імпорт подуля для роботи з кешуванням даних
+
+@functools.lru_cache(maxsize=None) #використали декоратор для зберігання проміжних значень функції
+
+def fib(n):
+    if n == 1 or n == 2:
+        return 1
+    else:
+        return fib(n - 1) + fib(n - 2)
+
+
+for i in range(1, 101):
+    print(fib(i))
+
+"""
+1
+1
+2
+3
+5
+8
+13
+21
+34
+55
 """

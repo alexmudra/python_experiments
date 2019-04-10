@@ -55,8 +55,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/def_hello_w.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="582">
-              <caret line="309" column="3" lean-forward="true" selection-start-line="286" selection-end-line="309" selection-end-column="3" />
+            <state relative-caret-position="619">
+              <caret line="350" column="3" selection-start-line="350" selection-start-column="3" selection-end-line="350" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -642,7 +642,14 @@
       <option name="project" value="LOCAL" />
       <updated>1554745393535</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="added recursion func(add +1 to recursion)">
+      <created>1554830837361</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1554830837361</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -691,11 +698,11 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.37821782" side_tool="true" weight="0.25918886" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.610951" visible="true" weight="0.25563496" />
-      <window_info id="Structure" order="2" sideWeight="0.389049" side_tool="true" visible="true" weight="0.25563496" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.6091298" visible="true" weight="0.25838372" />
+      <window_info id="Structure" order="2" sideWeight="0.39087018" side_tool="true" visible="true" weight="0.25838372" />
       <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49768364" weight="0.32392472" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5062872" side_tool="true" weight="0.32225063" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="2" sideWeight="0.49966374" visible="true" weight="0.2925586" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="2" sideWeight="0.49966374" visible="true" weight="0.28542304" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" sideWeight="0.4996691" weight="0.3266129" />
@@ -752,7 +759,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added dict examples(phones)" />
     <MESSAGE value="added homework 4, start to add more countries in SET" />
     <MESSAGE value="added homework 4,added worm countries, live_24_rate loop" />
     <MESSAGE value="added simple recursion func" />
@@ -777,7 +783,8 @@
     <MESSAGE value="added function with documentary stting __doc__ console" />
     <MESSAGE value="added func print to console max, min, abc values of a,b,c arguments" />
     <MESSAGE value="added function to change global variable" />
-    <option name="LAST_COMMIT_MESSAGE" value="added function to change global variable" />
+    <MESSAGE value="added recursion func(add +1 to recursion)" />
+    <option name="LAST_COMMIT_MESSAGE" value="added recursion func(add +1 to recursion)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1073,8 +1080,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/def_hello_w.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="582">
-          <caret line="309" column="3" lean-forward="true" selection-start-line="286" selection-end-line="309" selection-end-column="3" />
+        <state relative-caret-position="619">
+          <caret line="350" column="3" selection-start-line="350" selection-start-column="3" selection-end-line="350" selection-end-column="3" />
         </state>
       </provider>
     </entry>
