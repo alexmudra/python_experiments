@@ -182,5 +182,19 @@ print(list_str)
 """
 
 
-list_str = ["Hello, world!"]
-print(list_str)
+list_str = list("Hello, world!")
+
+print("This is my list:",list_str)
+
+for i in list_str:
+    print(i[0])
+
+
+
+
+
+if list_str[0] == "H" in list_str:
+    print("The H is available")
+
+else:
+    print("The H isn't available")

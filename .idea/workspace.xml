@@ -46,8 +46,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Info__Dict_List_Tuple_Set/list.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="479">
-              <caret line="173" column="3" lean-forward="true" selection-start-line="162" selection-end-line="176" selection-end-column="3" />
+            <state relative-caret-position="404">
+              <caret line="192" lean-forward="true" selection-start-line="192" selection-end-line="192" />
             </state>
           </provider>
         </entry>
@@ -334,7 +334,7 @@
     </recent_temporary>
   </component>
   <component name="StructureViewFactory">
-    <option name="ACTIVE_ACTIONS" value=",SHOW_FIELDS" />
+    <option name="ACTIVE_ACTIONS" value=",SHOW_FIELDS,ALPHA_COMPARATOR" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -655,7 +655,14 @@
       <option name="project" value="LOCAL" />
       <updated>1554915255492</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="added code about inbuild list function">
+      <created>1554916657893</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1554916657893</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -704,8 +711,8 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.37821782" side_tool="true" weight="0.25918886" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.6081081" visible="true" weight="0.26113248" />
-      <window_info id="Structure" order="2" sideWeight="0.3918919" side_tool="true" visible="true" weight="0.26113248" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.6051051" visible="true" weight="0.26772952" />
+      <window_info id="Structure" order="2" sideWeight="0.3948949" side_tool="true" visible="true" weight="0.26772952" />
       <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49768364" weight="0.32392472" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5062872" side_tool="true" weight="0.32225063" />
       <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.49966374" weight="0.28542304" />
@@ -765,7 +772,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added homework 4,added worm countries, live_24_rate loop" />
     <MESSAGE value="added simple recursion func" />
     <MESSAGE value="added view about round, .strip func. Added calculation average temperature in Kiev" />
     <MESSAGE value="added file for avg temperature, write in file avg.temperature" />
@@ -790,10 +796,18 @@
     <MESSAGE value="added function to change global variable" />
     <MESSAGE value="added recursion func(add +1 to recursion)" />
     <MESSAGE value="added func recursion, imported funtools for memorising of function results" />
-    <option name="LAST_COMMIT_MESSAGE" value="added func recursion, imported funtools for memorising of function results" />
+    <MESSAGE value="added code about inbuild list function" />
+    <option name="LAST_COMMIT_MESSAGE" value="added code about inbuild list function" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Info__Dict_List_Tuple_Set/list.py</url>
+          <line>188</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
@@ -1086,8 +1100,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Info__Dict_List_Tuple_Set/list.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="173" column="3" lean-forward="true" selection-start-line="162" selection-end-line="176" selection-end-column="3" />
+        <state relative-caret-position="404">
+          <caret line="192" lean-forward="true" selection-start-line="192" selection-end-line="192" />
         </state>
       </provider>
     </entry>
