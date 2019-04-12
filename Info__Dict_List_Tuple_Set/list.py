@@ -181,20 +181,21 @@ print(list_str)
  последовательно выведите на консоль первый элемент списка, пятый и последний.
 """
 
-
 list_str = list("Hello, world!")
-
-print("This is my list:",list_str)
-
-for i in list_str:
-    print(i[0])
+print(list_str[0])
+print(list_str[4])
+print(list_str[-1])
 
 
 
 
+"""
+приклад використання оператора in (який перевіряє входження підстроки в строку)
+"""
 
-if list_str[0] == "H" in list_str:
-    print("The H is available")
+# if list_str[0] == "H" in list_str:
+#     print("The H is available")
+#
+# else:
+#     print("The H isn't available")
 
-else:
-    print("The H isn't available")
