@@ -364,9 +364,9 @@ n = 10
 fibs = [1, 1]
 
 for i in range(n - 2):
-    fibs[i] + fibs[i + 1]
+    fibs.append(fibs[i] + fibs[i+1])
 
 print(fibs)
-
+#[1, 1, 2, 3, 5, 8, 13, 21, 34, 55]
 
 

@@ -45,8 +45,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Info__Dict_List_Tuple_Set/list.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
-              <caret line="324" column="28" selection-start-line="324" selection-start-column="28" selection-end-line="324" selection-end-column="28" />
+            <state relative-caret-position="329">
+              <caret line="361" selection-start-line="361" selection-end-line="368" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -351,20 +351,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538812277279</updated>
-    </task>
-    <task id="LOCAL-00001" summary="added TODO">
-      <created>1541326848105</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1541326848105</updated>
-    </task>
-    <task id="LOCAL-00002" summary="added valueAddedTax and created collors file">
-      <created>1541334486762</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1541334486763</updated>
     </task>
     <task id="LOCAL-00003" summary="added more information about while loop">
       <created>1544475385792</created>
@@ -695,7 +681,21 @@
       <option name="project" value="LOCAL" />
       <updated>1555432246349</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="added examples: append, del, change, replace elements in LISTS">
+      <created>1555433532392</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1555433532393</updated>
+    </task>
+    <task id="LOCAL-00051" summary="added square number from list to 2 and used format &quot;{} ^ = {}&quot;...">
+      <created>1555434186142</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1555434186142</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -805,8 +805,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added code for read txt file by lives via loop _2" />
-    <MESSAGE value="added first code with selenium" />
     <MESSAGE value="added auth locators with selenium" />
     <MESSAGE value="added login to tender DZO" />
     <MESSAGE value="added code from itvdn" />
@@ -830,7 +828,9 @@
     <MESSAGE value="added info about slices" />
     <MESSAGE value="added examples with entry the substring to main string" />
     <MESSAGE value="added how to use len in lists" />
-    <option name="LAST_COMMIT_MESSAGE" value="added how to use len in lists" />
+    <MESSAGE value="added examples: append, del, change, replace elements in LISTS" />
+    <MESSAGE value="added square number from list to 2 and used format &quot;{} ^ = {}&quot;..." />
+    <option name="LAST_COMMIT_MESSAGE" value="added square number from list to 2 and used format &quot;{} ^ = {}&quot;..." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1122,8 +1122,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Info__Dict_List_Tuple_Set/list.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="324" column="28" selection-start-line="324" selection-start-column="28" selection-end-line="324" selection-end-column="28" />
+        <state relative-caret-position="329">
+          <caret line="361" selection-start-line="361" selection-end-line="368" selection-end-column="11" />
         </state>
       </provider>
     </entry>
