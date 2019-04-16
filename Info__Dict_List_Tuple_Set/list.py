@@ -303,3 +303,31 @@ print(len(my_list))
 
 #8
 
+#////////////////////////////////////////
+
+"""
+Задайте список my_list с элементами от 0 до 9.
+1)	Добавьте 11 элемент равный 100
+2)	Удалите третий элемент списка
+3)	Измените 10й элемент списка на 99
+"""
+
+
+my_list = list(range(10))
+print("Initial list  0 - 9", my_list)
+#[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+my_list.append(100)
+print("Added 100 via append", my_list)
+#[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 100]
+
+del my_list[2]
+print("Delete 2-d element", my_list, sep=" ")
+#[0, 1, 3, 4, 5, 6, 7, 8, 9, 100]
+
+my_list[9] = 99
+print("Replace 9th element(it's == 100) to 99", my_list, sep=" ")
+
+
+
+
