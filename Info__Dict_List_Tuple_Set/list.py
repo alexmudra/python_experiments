@@ -255,3 +255,51 @@ print("sub_list содержит последние три элемента my_l
 """
 
 
+# my_list = list(range(10))
+# print(my_list)
+#
+#
+# def func(list_, num):
+#     list_ = my_list[::]
+#
+#     for num in list_:
+#
+#         if num in list_:
+#             print("This number is in list")
+#         else:
+#             print("This number is out of list")
+#
+#
+#
+# func()
+#TODO доробити цю функцію
+
+#///////////////////////////////////////////
+
+"""
+Создайте переменную my_str, которая будет содержать текст - "This is simple text" 
+Напишите проверку вхождения подстроки “imp” в my_str. Если данная подстрока присутствует, 
+на консоль выдается фраза - "This text is in string"
+"""
+
+
+my_str = "This is simple text"
+if "imp" in my_str:
+    print("This text is in string")
+
+#///////////////////////////////////////
+
+"""
+  Дан список my_list. Выведите на консоль длину этого списка
+my_list = [4, 6, 0, 9, 11, 23, 1, 10]
+
+# ...
+# code
+# ...
+"""
+
+my_list = [4, 6, 0, 9, 11, 23, 1, 10]
+print(len(my_list))
+
+#8
+
