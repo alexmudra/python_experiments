@@ -4,11 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/Info__Dict_List_Tuple_Set/list.py" line="192" mnemonic="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed596d89-71b2-429a-b04c-09a902a2a0f0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Info__Dict_List_Tuple_Set/list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Info__Dict_List_Tuple_Set/list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/for.py" beforeDir="false" afterPath="$PROJECT_DIR$/for.py" afterDir="false" />
-    </list>
+    <list default="true" id="ed596d89-71b2-429a-b04c-09a902a2a0f0" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,13 +25,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/for.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="584">
               <caret line="273" column="35" selection-start-line="273" selection-start-column="35" selection-end-line="273" selection-end-column="35" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/class_info.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -123,6 +124,7 @@
         <option value="$PROJECT_DIR$/def_hello_w.py" />
         <option value="$PROJECT_DIR$/Info__Dict_List_Tuple_Set/list.py" />
         <option value="$PROJECT_DIR$/for.py" />
+        <option value="$PROJECT_DIR$/class_info.py" />
       </list>
     </option>
   </component>
@@ -352,13 +354,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538812277279</updated>
-    </task>
-    <task id="LOCAL-00004" summary="added more information about for loop">
-      <created>1544477913506</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1544477913506</updated>
     </task>
     <task id="LOCAL-00005" summary="added more information about nested loops(вкладені цикли)">
       <created>1544478374454</created>
@@ -696,7 +691,14 @@
       <option name="project" value="LOCAL" />
       <updated>1555435230817</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="added code with Fibbonachi numbers to for.py">
+      <created>1555519346335</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1555519346337</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -745,7 +747,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.37821782" side_tool="true" weight="0.25918886" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.6036036" visible="true" weight="0.27102804" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.6036036" visible="true" weight="0.27102804" />
       <window_info id="Structure" order="2" sideWeight="0.3963964" side_tool="true" visible="true" weight="0.27102804" />
       <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49768364" weight="0.32392472" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5062872" side_tool="true" weight="0.32225063" />
@@ -753,7 +755,7 @@
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" sideWeight="0.4996691" weight="0.32619774" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49371278" visible="true" weight="0.32110092" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49371278" visible="true" weight="0.32110092" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.3975535" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -806,7 +808,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added login to tender DZO" />
     <MESSAGE value="added code from itvdn" />
     <MESSAGE value="added code chek negative numbers with while" />
     <MESSAGE value="added code check not ever numbers via FOR" />
@@ -831,7 +832,8 @@
     <MESSAGE value="added examples: append, del, change, replace elements in LISTS" />
     <MESSAGE value="added square number from list to 2 and used format &quot;{} ^ = {}&quot;..." />
     <MESSAGE value="added code with Fibbonachi numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="added code with Fibbonachi numbers" />
+    <MESSAGE value="added code with Fibbonachi numbers to for.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="added code with Fibbonachi numbers to for.py" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -866,7 +868,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/convert_dict.py" />
     <entry file="file://$PROJECT_DIR$/convert_json.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="426">
@@ -1127,6 +1128,9 @@
           <caret line="273" column="35" selection-start-line="273" selection-start-column="35" selection-end-line="273" selection-end-column="35" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class_info.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
