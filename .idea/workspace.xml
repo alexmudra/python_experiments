@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/Info__Dict_List_Tuple_Set/list.py" line="192" mnemonic="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed596d89-71b2-429a-b04c-09a902a2a0f0" name="Default Changelist" comment="" />
+    <list default="true" id="ed596d89-71b2-429a-b04c-09a902a2a0f0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/class_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_info.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,39 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/while.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1965">
-              <caret line="131" selection-start-line="131" selection-end-line="131" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/for.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="584">
-              <caret line="273" column="35" selection-start-line="273" selection-start-column="35" selection-end-line="273" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/class_info.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/def_hello_w.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Info__Dict_List_Tuple_Set/list.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="479">
-              <caret line="369" column="35" lean-forward="true" selection-start-line="358" selection-end-line="369" selection-end-column="35" />
+            <state relative-caret-position="240">
+              <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -196,7 +170,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.list">
+  <component name="RunManager" selected="Python.class_info">
+    <configuration name="class_info" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_info.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="def_hello_w" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -212,27 +207,6 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/def_hello_w.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="enrer_pass_check_pass" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="homework" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/enrer_pass_check_pass.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -326,18 +300,18 @@
     <list>
       <item itemvalue="Python.if else" />
       <item itemvalue="Python.for" />
-      <item itemvalue="Python.enrer_pass_check_pass" />
       <item itemvalue="Python.square_with_spaces" />
       <item itemvalue="Python.def_hello_w" />
       <item itemvalue="Python.list" />
+      <item itemvalue="Python.class_info" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.class_info" />
         <item itemvalue="Python.list" />
         <item itemvalue="Python.def_hello_w" />
         <item itemvalue="Python.square_with_spaces" />
         <item itemvalue="Python.for" />
-        <item itemvalue="Python.enrer_pass_check_pass" />
       </list>
     </recent_temporary>
   </component>
@@ -354,13 +328,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538812277279</updated>
-    </task>
-    <task id="LOCAL-00005" summary="added more information about nested loops(вкладені цикли)">
-      <created>1544478374454</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1544478374454</updated>
     </task>
     <task id="LOCAL-00006" summary="added more information about function in Python">
       <created>1544565847312</created>
@@ -698,7 +665,14 @@
       <option name="project" value="LOCAL" />
       <updated>1555519346337</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="start working with OOP (https://itvdn.com/ru/video/python-essential)">
+      <created>1555520765144</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1555520765144</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -747,7 +721,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.37821782" side_tool="true" weight="0.25918886" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.6036036" visible="true" weight="0.27102804" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.6036036" visible="true" weight="0.27102804" />
       <window_info id="Structure" order="2" sideWeight="0.3963964" side_tool="true" visible="true" weight="0.27102804" />
       <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49768364" weight="0.32392472" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5062872" side_tool="true" weight="0.32225063" />
@@ -755,7 +729,7 @@
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" sideWeight="0.4996691" weight="0.32619774" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49371278" visible="true" weight="0.32110092" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49371278" visible="true" weight="0.32110092" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.3975535" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -808,7 +782,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added code from itvdn" />
     <MESSAGE value="added code chek negative numbers with while" />
     <MESSAGE value="added code check not ever numbers via FOR" />
     <MESSAGE value="added pass/not pass code via while loop" />
@@ -833,7 +806,8 @@
     <MESSAGE value="added square number from list to 2 and used format &quot;{} ^ = {}&quot;..." />
     <MESSAGE value="added code with Fibbonachi numbers" />
     <MESSAGE value="added code with Fibbonachi numbers to for.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="added code with Fibbonachi numbers to for.py" />
+    <MESSAGE value="start working with OOP (https://itvdn.com/ru/video/python-essential)" />
+    <option name="LAST_COMMIT_MESSAGE" value="start working with OOP (https://itvdn.com/ru/video/python-essential)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1130,7 +1104,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/class_info.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
