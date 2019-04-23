@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed596d89-71b2-429a-b04c-09a902a2a0f0" name="Default Changelist" comment="added example of class">
+    <list default="true" id="ed596d89-71b2-429a-b04c-09a902a2a0f0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/class_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_info.py" afterDir="false" />
     </list>
@@ -19,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/class_info.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="524">
-              <caret line="70" lean-forward="true" selection-start-line="45" selection-end-line="70" />
+            <state relative-caret-position="764">
+              <caret line="81" column="8" lean-forward="true" selection-start-line="81" selection-start-column="8" selection-end-line="81" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -28,7 +28,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/function_example.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2139">
+            <state relative-caret-position="2670">
               <caret line="178" selection-start-line="178" selection-end-line="178" />
             </state>
           </provider>
@@ -305,12 +305,12 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.if else" />
-      <item itemvalue="Python.for" />
-      <item itemvalue="Python.square_with_spaces" />
-      <item itemvalue="Python.def_hello_w" />
-      <item itemvalue="Python.list" />
       <item itemvalue="Python.class_info" />
+      <item itemvalue="Python.def_hello_w" />
+      <item itemvalue="Python.for" />
+      <item itemvalue="Python.if else" />
+      <item itemvalue="Python.list" />
+      <item itemvalue="Python.square_with_spaces" />
     </list>
     <recent_temporary>
       <list>
@@ -335,13 +335,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538812277279</updated>
-    </task>
-    <task id="LOCAL-00008" summary="added code for build in functions complex functions">
-      <created>1545000913374</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1545000913374</updated>
     </task>
     <task id="LOCAL-00009" summary="added code for build in functions complex functions">
       <created>1545000943259</created>
@@ -679,7 +672,14 @@
       <option name="project" value="LOCAL" />
       <updated>1555521614135</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="added example of class, reasigne class, created instance of Person class">
+      <created>1555951467806</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1555951467807</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -728,15 +728,15 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.37821782" side_tool="true" weight="0.25918886" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.6030303" visible="true" weight="0.27432656" />
-      <window_info id="Structure" order="2" sideWeight="0.3969697" side_tool="true" visible="true" weight="0.27432656" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.6024465" visible="true" weight="0.27762505" />
+      <window_info id="Structure" order="2" sideWeight="0.3975535" side_tool="true" visible="true" weight="0.27762505" />
       <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49768364" weight="0.32392472" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5062872" side_tool="true" weight="0.32225063" />
       <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.49966374" weight="0.28542304" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" sideWeight="0.4996691" weight="0.32619774" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49371278" visible="true" weight="0.32721713" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49371278" weight="0.32721713" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.3975535" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -789,7 +789,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added code check not ever numbers via FOR" />
     <MESSAGE value="added pass/not pass code via while loop" />
     <MESSAGE value="added square figure via FOR loop" />
     <MESSAGE value="added def function square numbers" />
@@ -814,7 +813,8 @@
     <MESSAGE value="added code with Fibbonachi numbers to for.py" />
     <MESSAGE value="start working with OOP (https://itvdn.com/ru/video/python-essential)" />
     <MESSAGE value="added example of class" />
-    <option name="LAST_COMMIT_MESSAGE" value="added example of class" />
+    <MESSAGE value="added example of class, reasigne class, created instance of Person class" />
+    <option name="LAST_COMMIT_MESSAGE" value="added example of class, reasigne class, created instance of Person class" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1103,17 +1103,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/function_example.py">
+    <entry file="file://$PROJECT_DIR$/class_info.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2139">
-          <caret line="178" selection-start-line="178" selection-end-line="178" />
+        <state relative-caret-position="764">
+          <caret line="81" column="8" lean-forward="true" selection-start-line="81" selection-start-column="8" selection-end-line="81" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class_info.py">
+    <entry file="file://$PROJECT_DIR$/function_example.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
-          <caret line="70" lean-forward="true" selection-start-line="45" selection-end-line="70" />
+        <state relative-caret-position="2670">
+          <caret line="178" selection-start-line="178" selection-end-line="178" />
         </state>
       </provider>
     </entry>

@@ -69,6 +69,17 @@ Person.print_info(john)
 #John 22
 #John 22
 
+#/////////////////////////////////////////////////////
+
+"""
+Напишите метод конструктор класса Person, который будет устанавливать параметры name и age для экземпляров класса Person.
+"""
+
+class Person:
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
+        
 
 
 
