@@ -79,8 +79,46 @@ class Person:
     def __init__(self, name, age):
         self.name = name
         self.age = age
-        
+
+    def print_info(self):
+        print(self.name, "is", self.age)
 
 
+john = Person("John", 22)
+lucy = Person("Lucy", 21)
+
+john.print_info()
+lucy.print_info()
+
+#John is 22
+#Lucy is 21
+
+#//////////////////////////////////////////
+
+"""
+Найдите и исправьте ошибку в коде
+"""
+class MyObject:
+
+    class_attribute = 8
+
+    def __init__(self): # метод в констркторе для создавания атрибута данних
+        self.data_attribute = 42 # атрибут данних
+
+    def instance_method(self):# звичайний метод який повертає атрибут данних
+        print(self.data_attribute) # повертає дані об'єкта екземпляра self
+
+    @staticmethod # об'являємо статичний метод
+    def static_method():# об'являєм статичний метод без параметра
+        print(MyObject.class_attribute)
 
 
+if __name__ == "__main__": # умова якщо наш метод був запущений як виконуваний файл...
+    MyObject.static_method() # визиваємо статичний метод на класі
+    obj = MyObject() # створимо екземпляр класу
+    obj.instance_method() # визвемо його метод екземпляра класа
+    obj.static_method() # визвемо статичний метод
+
+# 8 вивелось значення визову статичного методу на самому класі (вивелось на екран значення атрибуту класу)
+# 42 результат визову instance_method ( obj.instance_method()), 42 це результат визову атрибуту даних
+# 8 результат визову статичного методу на самому об'єкті
