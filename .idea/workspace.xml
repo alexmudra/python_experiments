@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed596d89-71b2-429a-b04c-09a902a2a0f0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_info.py" afterDir="false" />
-    </list>
+    <list default="true" id="ed596d89-71b2-429a-b04c-09a902a2a0f0" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/class_info.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="129" selection-start-line="129" selection-end-line="129" />
+            <state relative-caret-position="293">
+              <caret line="110" column="75" selection-start-line="110" selection-start-column="75" selection-end-line="110" selection-end-column="75" />
             </state>
           </provider>
         </entry>
@@ -29,7 +26,7 @@
         <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/03-data-attributes.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="11" />
+              <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -51,13 +48,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/07-static-methods.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="-52">
               <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/08-class-methods.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -68,7 +65,11 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/09-private-members.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="8" selection-start-column="8" selection-end-column="8" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -382,13 +383,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538812277279</updated>
-    </task>
-    <task id="LOCAL-00012" summary="added append, del(index), fibonachi's numbers. Finish Python Starter">
-      <created>1545425364523</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1545425364523</updated>
     </task>
     <task id="LOCAL-00013" summary="added FOR loop to find data_type in json">
       <created>1545430618644</created>
@@ -726,7 +720,14 @@
       <option name="project" value="LOCAL" />
       <updated>1556124648413</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="added simple example of decorator @staticmethod">
+      <created>1556127203346</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1556127203346</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -836,7 +837,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added def func (find 0 and 4n via FOR loop" />
     <MESSAGE value="added def func2 (find 0 and 4n via FOR loop" />
     <MESSAGE value="added def func1 (find 0 and 4n via FOR loop" />
     <MESSAGE value="added function with documentary string" />
@@ -861,7 +861,8 @@
     <MESSAGE value="added files examples of OOP" />
     <MESSAGE value="added class instances" />
     <MESSAGE value="added simple example of @staticmethod, how to deal with __init__" />
-    <option name="LAST_COMMIT_MESSAGE" value="added simple example of @staticmethod, how to deal with __init__" />
+    <MESSAGE value="added simple example of decorator @staticmethod" />
+    <option name="LAST_COMMIT_MESSAGE" value="added simple example of decorator @staticmethod" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1096,28 +1097,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/12-password-protected-field.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/11-singleton.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/10-magic-methods.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/09-private-members.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/08-class-methods.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/07-static-methods.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="-52">
           <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="15" />
         </state>
       </provider>
@@ -1135,14 +1117,37 @@
     <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/03-data-attributes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="11" />
+          <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/class_info.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="129" selection-start-line="129" selection-end-line="129" />
+        <state relative-caret-position="293">
+          <caret line="110" column="75" selection-start-line="110" selection-start-column="75" selection-end-line="110" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/12-password-protected-field.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/11-singleton.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/10-magic-methods.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/09-private-members.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/08-class-methods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
