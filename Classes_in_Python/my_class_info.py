@@ -169,12 +169,35 @@ class Car:
         self.currency = currency
 
     def print_info(self):
-        print("The car has following parameters:", self.type, self.model, self.color, self.prod_year, self.price, self.currency)
+        print("The car has following parameters:", self.type, self.model, self.color, self.prod_year, self.price,
+              self.currency)
 
 
-Mazda = Car("Hetchbeck", "CX-7", "Red", 1998, 2000, "USD")
+Mazda = Car("Hechbeck", "CX-7", "Red", 1998, 2000, "USD")
 Mazda.print_info()
-# The car has following parameters: Hetchbeck CX-7 Red 1998 2000 USD
+# The car has following parameters: Hechbeck CX-7 Red 1998 2000 USD
+
+class CarDealerShip:
+
+    def __init__(self, carone, cartwo, carthree, carfour):
+
+        self.carone = carone
+        self.cartwo = cartwo
+        self.carthree = carthree
+        self.carfour = carfour
+
+    def print_cars(self, carone, cartwo, carthree, carfour):
+        print(carone, cartwo, carthree, carfour)
+
+
+if __name__ == "__main__":
+    autos = CarDealerShip("Mazda", "Mercedes", "Volkswagen", "Toyota")
+    autos.print_cars("Mazda", "Mercedes", "Volkswagen", "Toyota")
+
+
+
+
+
 
 
 
