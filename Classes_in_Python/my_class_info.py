@@ -125,6 +125,59 @@ if __name__ == "__main__": # умова якщо наш метод був зап
 
 
 #////////////////////////////////////////////////
+"""
+Напишете метод класса Triangle, с названием from_rectangle(), 
+который будет возвращать равносторонний треугольник со стороной side, равной side_a четырехугольника Rectangle.
+"""
+
+class Rectangle:
+    def __init__(self, side_a, side_b):
+        self.side_a = side_a
+        self.side_b = side_b
+
+    def __repr__(self): # метод __repr__ повертає строкове значення об'єкта. Метод конвертує об'єкт в строку
+        # яке тільки для внутрішнього користування
+        return "Rectangle(%.1f, %.1f)" % (self.side_a, self.side_b)
+
+class Triangle:
+    def __init__(self, side):
+        self.side = side
+
+    def __repr__(self):
+        return "Triangle(%.f)" % self.side
+
+    # ...
+    # code
+    # ...
+#TODO дописати код
+
+
+"""
+Задание
+Создайте класс, описывающий автомобиль. Создайте класс автосалона, содержащий в себе список
+автомобилей, доступных для продажи, и функцию продажи заданного автомобиля.
+"""
+
+
+class Car:
+    def __init__(self, type=None, model=None, color=None, prod_year=0, price=0, currency=None):
+        self.type = type
+        self.model = model
+        self.color = color
+        self.prod_year = prod_year
+        self.price = price
+        self.currency = currency
+
+    def print_info(self):
+        print("The car has following parameters:", self.type, self.model, self.color, self.prod_year, self.price, self.currency)
+
+
+Mazda = Car("Hetchbeck", "CX-7", "Red", 1998, 2000, "USD")
+Mazda.print_info()
+# The car has following parameters: Hetchbeck CX-7 Red 1998 2000 USD
+
+
+
 
 
 

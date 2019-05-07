@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed596d89-71b2-429a-b04c-09a902a2a0f0" name="Default Changelist" comment="" />
+    <list default="true" id="ed596d89-71b2-429a-b04c-09a902a2a0f0" name="Default Changelist" comment="added info about classes in Py., with comments">
+      <change afterPath="$PROJECT_DIR$/Classes_in_Python/my_class_info.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_info.py" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/class_info.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Classes_in_Python/my_class_info.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="110" column="75" selection-start-line="110" selection-start-column="75" selection-end-line="110" selection-end-column="75" />
+            <state relative-caret-position="428">
+              <caret line="176" column="68" lean-forward="true" selection-start-line="176" selection-start-column="68" selection-end-line="176" selection-end-column="68" />
             </state>
           </provider>
         </entry>
@@ -26,7 +30,7 @@
         <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/03-data-attributes.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+              <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -35,30 +39,25 @@
         <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/05-__init__.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
-              <caret line="25" column="17" lean-forward="true" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+              <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/06-methods-outside-a-class.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/07-static-methods.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-52">
-              <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="15" />
+            <state relative-caret-position="210">
+              <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/08-class-methods.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
+            <state relative-caret-position="150">
+              <caret line="10" column="73" selection-start-line="10" selection-start-column="73" selection-end-line="10" selection-end-column="73" />
             </state>
           </provider>
         </entry>
@@ -108,7 +107,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/HW_2.py" />
         <option value="$USER_HOME$/Python/Code/shahmati.py" />
         <option value="$PROJECT_DIR$/input numbers.py" />
         <option value="$PROJECT_DIR$/shahmati.py" />
@@ -159,6 +157,7 @@
         <option value="$USER_HOME$/Downloads/001_Введение в ООП/Examples/03-data-attributes.py" />
         <option value="$PROJECT_DIR$/1 exersice.py" />
         <option value="$PROJECT_DIR$/class_info.py" />
+        <option value="$PROJECT_DIR$/Classes_in_Python/my_class_info.py" />
       </list>
     </option>
   </component>
@@ -182,6 +181,11 @@
               <item name="python_experiments" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_experiments" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="python_experiments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_experiments" type="462c0819:PsiDirectoryNode" />
+              <item name="Classes_in_Python" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -203,10 +207,10 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -225,7 +229,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.class_info">
+  <component name="RunManager" selected="Python.my_class_info">
     <configuration name="03-data-attributes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -331,7 +335,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="square_with_spaces" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="my_class_info" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -339,11 +343,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Classes_in_Python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\а\PycharmProjects\python_experiments\square_with_spaces_via_for_loop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classes_in_Python/my_class_info.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -354,19 +358,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.if else" />
-      <item itemvalue="Python.square_with_spaces" />
+      <item itemvalue="Python.03-data-attributes" />
+      <item itemvalue="Python.class_info" />
       <item itemvalue="Python.def_hello_w" />
       <item itemvalue="Python.list" />
-      <item itemvalue="Python.class_info" />
-      <item itemvalue="Python.03-data-attributes" />
+      <item itemvalue="Python.my_class_info" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.my_class_info" />
         <item itemvalue="Python.class_info" />
         <item itemvalue="Python.03-data-attributes" />
         <item itemvalue="Python.list" />
         <item itemvalue="Python.def_hello_w" />
-        <item itemvalue="Python.square_with_spaces" />
       </list>
     </recent_temporary>
   </component>
@@ -383,13 +387,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538812277279</updated>
-    </task>
-    <task id="LOCAL-00013" summary="added FOR loop to find data_type in json">
-      <created>1545430618644</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1545430618644</updated>
     </task>
     <task id="LOCAL-00014" summary="added second solution to find_name_aamount_in_json">
       <created>1545763904692</created>
@@ -727,7 +724,14 @@
       <option name="project" value="LOCAL" />
       <updated>1556127203346</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="added info about classes in Py., with comments">
+      <created>1556127649319</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1556127649319</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -776,8 +780,8 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.37821782" side_tool="true" weight="0.25918886" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.7060606" visible="true" weight="0.19461243" />
-      <window_info id="Structure" order="2" sideWeight="0.29393938" side_tool="true" visible="true" weight="0.19461243" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.7030303" visible="true" weight="0.19901045" />
+      <window_info id="Structure" order="2" sideWeight="0.2969697" side_tool="true" visible="true" weight="0.19901045" />
       <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49768364" weight="0.32392472" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5062872" side_tool="true" weight="0.32225063" />
       <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.49966374" weight="0.28542304" />
@@ -837,8 +841,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added def func2 (find 0 and 4n via FOR loop" />
-    <MESSAGE value="added def func1 (find 0 and 4n via FOR loop" />
     <MESSAGE value="added function with documentary string" />
     <MESSAGE value="added function with documentary stting __doc__ console" />
     <MESSAGE value="added func print to console max, min, abc values of a,b,c arguments" />
@@ -862,7 +864,9 @@
     <MESSAGE value="added class instances" />
     <MESSAGE value="added simple example of @staticmethod, how to deal with __init__" />
     <MESSAGE value="added simple example of decorator @staticmethod" />
-    <option name="LAST_COMMIT_MESSAGE" value="added simple example of decorator @staticmethod" />
+    <MESSAGE value="added info about classes in Python, with comments" />
+    <MESSAGE value="added info about classes in Py., with comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="added info about classes in Py., with comments" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -897,8 +901,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/my_file.txt" />
-    <entry file="file://$PROJECT_DIR$/work_with_file.py" />
     <entry file="file://$PROJECT_DIR$/temperature.txt" />
     <entry file="file://$PROJECT_DIR$/temperature_deviation.txt" />
     <entry file="file://$PROJECT_DIR$/week_temper_by_city.py" />
@@ -1104,38 +1106,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/06-methods-outside-a-class.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/05-__init__.py">
+    <entry file="file://$PROJECT_DIR$/class_info.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1433111049/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="17" lean-forward="true" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+        <state relative-caret-position="211">
+          <caret line="785" column="8" selection-start-line="785" selection-start-column="8" selection-end-line="785" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/03-data-attributes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class_info.py">
+    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/05-__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="110" column="75" selection-start-line="110" selection-start-column="75" selection-end-line="110" selection-end-column="75" />
+        <state relative-caret-position="375">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/12-password-protected-field.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/06-methods-outside-a-class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/11-singleton.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/10-magic-methods.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/08-class-methods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="73" selection-start-line="10" selection-start-column="73" selection-end-line="10" selection-end-column="73" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/09-private-members.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1144,10 +1149,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/08-class-methods.py">
+    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/10-magic-methods.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/11-singleton.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/12-password-protected-field.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes_in_Python/my_class_info.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
+        <state relative-caret-position="428">
+          <caret line="176" column="68" lean-forward="true" selection-start-line="176" selection-start-column="68" selection-end-line="176" selection-end-column="68" />
         </state>
       </provider>
     </entry>
