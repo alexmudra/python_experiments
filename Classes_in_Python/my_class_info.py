@@ -43,6 +43,19 @@ print(obj1.int_field)
 print(obj2.str_field)
 
 
+
+"""
+Передати довільні аргументи через args 
+"""
+def foo(*args, g):
+    print(str(g))
+
+
+foo(1,2,3,4, g = "Kontar")
+
+
+
+
 '''
 Опишите класс с именем Person, функция print_info которого выводит на консоль атрибуты name и age. 
 Создайте экземпляр класса – john, присвойте атрибуту name значение “John”, а атрибуту age значение 22. 
@@ -146,9 +159,21 @@ class Triangle:
     def __repr__(self):
         return "Triangle(%.f)" % self.side
 
+    def from_rectangle (self, rectangle):
+        side = Rectangle.side_a
+        return rectangle
+
+
     # ...
-    # code
-    # ...
+    #code
+    #...
+
+#Triangle.from_rectangle()
+
+
+
+
+
 #TODO дописати код
 
 
@@ -179,21 +204,20 @@ Mazda.print_info()
 
 class CarDealerShip:
 
-    def __init__(self, carone, cartwo, carthree, carfour):
+    def __init__(self):
+        self.car_list = ["car_one", "car_two", "car_three"]
 
-        self.carone = carone
-        self.cartwo = cartwo
-        self.carthree = carthree
-        self.carfour = carfour
+    def show_cars(self):
+        return self.car_list
 
-    def print_cars(self, carone, cartwo, carthree, carfour):
-        print(carone, cartwo, carthree, carfour)
+    def sale_car(self):
+        print("The car", + self.show_cars() + "is for sale!")
 
 
 if __name__ == "__main__":
-    autos = CarDealerShip("Mazda", "Mercedes", "Volkswagen", "Toyota")
-    autos.print_cars("Mazda", "Mercedes", "Volkswagen", "Toyota")
 
+    autos = CarDealerShip()
+    autos.show_cars()
 
 
 

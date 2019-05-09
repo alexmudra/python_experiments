@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed596d89-71b2-429a-b04c-09a902a2a0f0" name="Default Changelist" comment="added info about classes in Py., with comments">
-      <change afterPath="$PROJECT_DIR$/Classes_in_Python/my_class_info.py" afterDir="false" />
+    <list default="true" id="ed596d89-71b2-429a-b04c-09a902a2a0f0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class_info.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes_in_Python/my_class_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes_in_Python/my_class_info.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Classes_in_Python/my_class_info.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="428">
-              <caret line="176" column="68" lean-forward="true" selection-start-line="176" selection-start-column="68" selection-end-line="176" selection-end-column="68" />
+            <state relative-caret-position="473">
+              <caret line="219" column="21" lean-forward="true" selection-start-line="219" selection-start-column="21" selection-end-line="219" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -388,20 +387,6 @@
       <option name="presentableId" value="Default" />
       <updated>1538812277279</updated>
     </task>
-    <task id="LOCAL-00014" summary="added second solution to find_name_aamount_in_json">
-      <created>1545763904692</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1545763904692</updated>
-    </task>
-    <task id="LOCAL-00015" summary="added type(x) to recognize the type in list">
-      <created>1545768847255</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1545768847255</updated>
-    </task>
     <task id="LOCAL-00016" summary="added counter to list(needs to be debag)">
       <created>1545859857011</created>
       <option name="number" value="00016" />
@@ -731,7 +716,21 @@
       <option name="project" value="LOCAL" />
       <updated>1556127649319</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="added class Car(sample)">
+      <created>1557245001272</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1557245001274</updated>
+    </task>
+    <task id="LOCAL-00064" summary="added class CarDealerShip(sample)">
+      <created>1557250492264</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1557250492264</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -841,8 +840,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added function with documentary string" />
-    <MESSAGE value="added function with documentary stting __doc__ console" />
     <MESSAGE value="added func print to console max, min, abc values of a,b,c arguments" />
     <MESSAGE value="added function to change global variable" />
     <MESSAGE value="added recursion func(add +1 to recursion)" />
@@ -866,7 +863,9 @@
     <MESSAGE value="added simple example of decorator @staticmethod" />
     <MESSAGE value="added info about classes in Python, with comments" />
     <MESSAGE value="added info about classes in Py., with comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="added info about classes in Py., with comments" />
+    <MESSAGE value="added class Car(sample)" />
+    <MESSAGE value="added class CarDealerShip(sample)" />
+    <option name="LAST_COMMIT_MESSAGE" value="added class CarDealerShip(sample)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1107,13 +1106,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/class_info.py" />
-    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1433111049/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="785" column="8" selection-start-line="785" selection-start-column="8" selection-end-line="785" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/03-data-attributes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -1158,10 +1150,17 @@
     <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/12-password-protected-field.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1433111049/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="105" column="8" lean-forward="true" selection-start-line="105" selection-start-column="8" selection-end-line="105" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Classes_in_Python/my_class_info.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="176" column="68" lean-forward="true" selection-start-line="176" selection-start-column="68" selection-end-line="176" selection-end-column="68" />
+        <state relative-caret-position="473">
+          <caret line="219" column="21" lean-forward="true" selection-start-line="219" selection-start-column="21" selection-end-line="219" selection-end-column="21" />
         </state>
       </provider>
     </entry>
