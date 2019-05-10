@@ -202,13 +202,18 @@ Mazda = Car("Hechbeck", "CX-7", "Red", 1998, 2000, "USD")
 Mazda.print_info()
 # The car has following parameters: Hechbeck CX-7 Red 1998 2000 USD
 
+
 class CarDealerShip:
+
+    car_list = ["car_one", "car_two", "car_three"]
 
     def __init__(self):
         self.car_list = ["car_one", "car_two", "car_three"]
 
-    def show_cars(self):
-        return self.car_list
+    @staticmethod
+    def show_cars():
+        for i in CarDealerShip.car_list:
+            print("This is the list of cars in dealership",i)
 
     def sale_car(self):
         print("The car", + self.show_cars() + "is for sale!")
@@ -216,8 +221,13 @@ class CarDealerShip:
 
 if __name__ == "__main__":
 
-    autos = CarDealerShip()
-    autos.show_cars()
+    CarDealerShip.show_cars()
+
+"""
+This is the list of cars in Dealership car_one
+This is the list of cars in Dealership car_two
+This is the list of cars in Dealership car_three
+"""
 
 
 
