@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed596d89-71b2-429a-b04c-09a902a2a0f0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Classes_in_Python/my_class_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes_in_Python/my_class_info.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Classes_in_Python/my_class_info.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="473">
-              <caret line="223" column="29" lean-forward="true" selection-start-line="223" selection-start-column="29" selection-end-line="223" selection-end-column="29" />
+            <state relative-caret-position="359">
+              <caret line="172" lean-forward="true" selection-start-line="172" selection-end-line="172" />
             </state>
           </provider>
         </entry>
@@ -386,20 +387,6 @@
       <option name="presentableId" value="Default" />
       <updated>1538812277279</updated>
     </task>
-    <task id="LOCAL-00017" summary="added dict examples(phones)">
-      <created>1547247714937</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1547247714938</updated>
-    </task>
-    <task id="LOCAL-00018" summary="added homework 4, start to add more countries in SET">
-      <created>1547494428822</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1547494428822</updated>
-    </task>
     <task id="LOCAL-00019" summary="added homework 4,added worm countries, live_24_rate loop">
       <created>1547503803120</created>
       <option name="number" value="00019" />
@@ -729,7 +716,21 @@
       <option name="project" value="LOCAL" />
       <updated>1557415660385</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="print results of @staticmethod CarDealerShip(sample) with list []">
+      <created>1557508595311</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1557508595311</updated>
+    </task>
+    <task id="LOCAL-00067" summary="print results of @staticmethod CarDealerShip(sample) with list []">
+      <created>1557508606980</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1557508606981</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -774,12 +775,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="-4" width="1867" height="1085" extended-state="6" />
+    <frame x="55" y="-4" width="1865" height="1084" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.37821782" side_tool="true" weight="0.25918886" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.7030303" visible="true" weight="0.19901045" />
-      <window_info id="Structure" order="2" sideWeight="0.2969697" side_tool="true" visible="true" weight="0.19901045" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.70151514" visible="true" weight="0.20120946" />
+      <window_info id="Structure" order="2" sideWeight="0.29848486" side_tool="true" visible="true" weight="0.20120946" />
       <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49768364" weight="0.32392472" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5062872" side_tool="true" weight="0.32225063" />
       <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.49966374" weight="0.28542304" />
@@ -839,7 +840,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added function to change global variable" />
     <MESSAGE value="added recursion func(add +1 to recursion)" />
     <MESSAGE value="added func recursion, imported funtools for memorising of function results" />
     <MESSAGE value="added code about inbuild list function" />
@@ -864,7 +864,8 @@
     <MESSAGE value="added class Car(sample)" />
     <MESSAGE value="added class CarDealerShip(sample)" />
     <MESSAGE value="added class refactored CarDealerShip(sample) with list []" />
-    <option name="LAST_COMMIT_MESSAGE" value="added class refactored CarDealerShip(sample) with list []" />
+    <MESSAGE value="print results of @staticmethod CarDealerShip(sample) with list []" />
+    <option name="LAST_COMMIT_MESSAGE" value="print results of @staticmethod CarDealerShip(sample) with list []" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1105,6 +1106,20 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/class_info.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1433111049/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="105" column="8" lean-forward="true" selection-start-line="105" selection-start-column="8" selection-end-line="105" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes_in_Python/my_class_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="172" lean-forward="true" selection-start-line="172" selection-end-line="172" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/03-data-attributes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -1148,20 +1163,6 @@
     </entry>
     <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/12-password-protected-field.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1433111049/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1575">
-          <caret line="105" column="8" lean-forward="true" selection-start-line="105" selection-start-column="8" selection-end-line="105" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classes_in_Python/my_class_info.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
-          <caret line="223" column="29" lean-forward="true" selection-start-line="223" selection-start-column="29" selection-end-line="223" selection-end-column="29" />
-        </state>
-      </provider>
     </entry>
   </component>
   <component name="masterDetails">

@@ -144,8 +144,9 @@ if __name__ == "__main__": # умова якщо наш метод був зап
 """
 
 class Rectangle:
-    def __init__(self, side_a, side_b):
-        self.side_a = side_a
+
+    def __init__(self, side_a, side_b): # метод конструктор який приймає 2 параменти: 2 сторони
+        self.side_a = side_a # атрибут данних
         self.side_b = side_b
 
     def __repr__(self): # метод __repr__ повертає строкове значення об'єкта. Метод конвертує об'єкт в строку
@@ -153,28 +154,18 @@ class Rectangle:
         return "Rectangle(%.1f, %.1f)" % (self.side_a, self.side_b)
 
 class Triangle:
+
     def __init__(self, side):
         self.side = side
 
     def __repr__(self):
         return "Triangle(%.f)" % self.side
 
-    def from_rectangle (self, rectangle):
-        side = Rectangle.side_a
-        return rectangle
+    @classmethod
+    def from_rectangle(cls, rectangle):
+        side = rectangle.side_a
+        return cls(side)
 
-
-    # ...
-    #code
-    #...
-
-#Triangle.from_rectangle()
-
-
-
-
-
-#TODO дописати код
 
 
 """
@@ -222,6 +213,7 @@ class CarDealerShip:
 if __name__ == "__main__":
 
     CarDealerShip.show_cars()
+    print(Triangle.from_rectangle(20))
 
 """
 This is the list of cars in Dealership car_one
