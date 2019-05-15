@@ -221,10 +221,20 @@ This is the list of cars in Dealership car_two
 This is the list of cars in Dealership car_three
 """
 
+#Приклади ІНКАПСУЛЯЦІЯ
 
 
+"""
+ Создайте класс с именем MyObject и атрибутами с именами: простой - attribute, внутренний - inner_attribute, 
+ защищенный - private_attribute и значениями соответственно 2, 3, 4. 
+Создайте объект класса c именем obj
+Выведите на печать атрибут private_attribute объекта obj
+
+"""
 
 
+class MyObject:
+    def __init__(self, attribute
 
 
 
