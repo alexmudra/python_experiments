@@ -262,16 +262,36 @@ This is the list of cars in Dealership car_three
 
 
 class MyObject:
-    def __init__(self, attribute, _inner_attribute, __private_attribute):
+    def __init__(self):
         self.attribute = 2
         self._inner_attribute = 3
         self.__private_attribute = 4
 
 
 obj = MyObject()
+
 print(obj._MyObject__private_attribute)
 
 
-#TODO розробити коректну реалізацію
+"""
+ Используя функции. Напишите геттер с названием get_attribute, 
+ для приватного поля   __private_attribute. И сеттер для этого поля с названием set_attribute, который бы устанавливал 
+ только положительные значения value переменной. 
+"""
+class MyObject:
+    def __init__(self):
+        self.__private_attribute = 0
+
+    def get_attribute(self):
+        return self.__private_attribute
+
+    def set_attribute(self, value):
+        if value < 100:
+            self.__private_attribute = value
+
+
+obj3 = MyObject()
+print(obj3.get_attribute())
+
 
 
