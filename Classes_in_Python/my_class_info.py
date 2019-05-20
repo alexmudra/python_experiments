@@ -293,5 +293,23 @@ class MyObject:
 obj3 = MyObject()
 print(obj3.get_attribute())
 
+"""
+  Используя свойства объекта(декораторы) Напишите методы доступа, 
+  геттер и сеттер для защищенного атрибута __attribute. 
+  Свойство должно называтся attribute, передаваемый параметр сеттера value. 
+"""
 
+
+class MyObject:
+    def __init__(self):
+        self.__attribute = 0 # приватний атрибут
+
+    @property # встановимо метод (декоратор) доступа для геттера
+    def attribute(self):
+        return self.__attribute
+
+
+    @attribute.setter # встановимо сеттер
+    def attribute (self, value):
+        self.__attribute = value
 

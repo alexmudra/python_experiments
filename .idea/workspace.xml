@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed596d89-71b2-429a-b04c-09a902a2a0f0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/homework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/homework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Classes_in_Python/my_class_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes_in_Python/my_class_info.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,63 +21,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Classes_in_Python/my_class_info.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="518">
-              <caret line="274" column="35" selection-start-line="274" selection-start-column="35" selection-end-line="274" selection-end-column="35" />
+            <state relative-caret-position="219">
+              <caret line="311" column="21" lean-forward="true" selection-start-line="311" selection-start-column="21" selection-end-line="311" selection-end-column="21" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Classes_in_Python/05-__init__.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Classes_in_Python/04-methods.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Classes_in_Python/03-data-attributes.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Classes_in_Python/06-methods-outside-a-class.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Classes_in_Python/07-static-methods.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Classes_in_Python/08-class-methods.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Classes_in_Python/09-private-members.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="6" selection-end-line="22" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/11-singleton.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/12-password-protected-field.py">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -88,18 +36,15 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>def</find>
-      <find>appe</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/if else.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/HW_2.py" />
         <option value="$USER_HOME$/Python/Code/shahmati.py" />
         <option value="$PROJECT_DIR$/input numbers.py" />
         <option value="$PROJECT_DIR$/shahmati.py" />
@@ -130,6 +75,7 @@
         <option value="$PROJECT_DIR$/5_dict.py" />
         <option value="$PROJECT_DIR$/schengen_homework_lesson4.py" />
         <option value="$PROJECT_DIR$/recursia.py" />
+        <option value="$PROJECT_DIR$/Info__Dict_List_Tuple_Set/list.py" />
         <option value="$PROJECT_DIR$/work_with_file.py" />
         <option value="$PROJECT_DIR$/week_temp.txt" />
         <option value="$PROJECT_DIR$/week_temper_by_city.py" />
@@ -142,14 +88,9 @@
         <option value="$PROJECT_DIR$/Info__Dict_List_Tuple_Set/dictionary.py" />
         <option value="$PROJECT_DIR$/HomeWork2.py" />
         <option value="$PROJECT_DIR$/enrer_pass_check_pass.py" />
-        <option value="$PROJECT_DIR$/square_with_spaces.py" />
-        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
-        <option value="$PROJECT_DIR$/def_hello_w.py" />
-        <option value="$PROJECT_DIR$/Info__Dict_List_Tuple_Set/list.py" />
         <option value="$PROJECT_DIR$/for.py" />
-        <option value="$USER_HOME$/Downloads/001_Введение в ООП/Examples/03-data-attributes.py" />
-        <option value="$PROJECT_DIR$/1 exersice.py" />
-        <option value="$PROJECT_DIR$/class_info.py" />
+        <option value="$PROJECT_DIR$/square_with_spaces.py" />
+        <option value="$PROJECT_DIR$/def_hello_w.py" />
         <option value="$PROJECT_DIR$/Classes_in_Python/my_class_info.py" />
       </list>
     </option>
@@ -186,10 +127,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/bin" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -200,10 +140,10 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -223,28 +163,7 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.my_class_info">
-    <configuration name="03-data-attributes" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="homework" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads/001_Введение в ООП/Examples" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/001_Введение в ООП/Examples/03-data-attributes.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="class_info" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="def_hello_w" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -256,7 +175,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_info.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/def_hello_w.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -265,21 +184,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="def_hello_w" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="enrer_pass_check_pass" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/def_hello_w.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/enrer_pass_check_pass.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="for" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/for.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -299,27 +239,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/if else.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="list" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="homework" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Info__Dict_List_Tuple_Set" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Info__Dict_List_Tuple_Set/list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -349,26 +268,47 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="square_with_spaces" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\а\PycharmProjects\python_experiments\square_with_spaces_via_for_loop.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.if else" />
-      <item itemvalue="Python.03-data-attributes" />
-      <item itemvalue="Python.class_info" />
+      <item itemvalue="Python.for" />
+      <item itemvalue="Python.enrer_pass_check_pass" />
+      <item itemvalue="Python.square_with_spaces" />
       <item itemvalue="Python.def_hello_w" />
-      <item itemvalue="Python.list" />
       <item itemvalue="Python.my_class_info" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.my_class_info" />
-        <item itemvalue="Python.class_info" />
-        <item itemvalue="Python.03-data-attributes" />
-        <item itemvalue="Python.list" />
         <item itemvalue="Python.def_hello_w" />
+        <item itemvalue="Python.square_with_spaces" />
+        <item itemvalue="Python.for" />
+        <item itemvalue="Python.enrer_pass_check_pass" />
       </list>
     </recent_temporary>
   </component>
   <component name="StructureViewFactory">
-    <option name="ACTIVE_ACTIONS" value=",SHOW_FIELDS,ALPHA_COMPARATOR" />
+    <option name="ACTIVE_ACTIONS" value=",SHOW_FIELDS" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -380,6 +320,146 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538812277279</updated>
+    </task>
+    <task id="LOCAL-00001" summary="added TODO">
+      <created>1541326848105</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1541326848105</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added valueAddedTax and created collors file">
+      <created>1541334486762</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1541334486763</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added more information about while loop">
+      <created>1544475385792</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1544475385792</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added more information about for loop">
+      <created>1544477913506</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1544477913506</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added more information about nested loops(вкладені цикли)">
+      <created>1544478374454</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1544478374454</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added more information about function in Python">
+      <created>1544565847312</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1544565847312</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added function with if...else conditions">
+      <created>1544827349072</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1544827349072</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added code for build in functions complex functions">
+      <created>1545000913374</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1545000913374</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added code for build in functions complex functions">
+      <created>1545000943259</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1545000943259</updated>
+    </task>
+    <task id="LOCAL-00010" summary="added local and global varables in functions">
+      <created>1545003220120</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1545003220120</updated>
+    </task>
+    <task id="LOCAL-00011" summary="added code with IN in lists and strings">
+      <created>1545420315345</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1545420315345</updated>
+    </task>
+    <task id="LOCAL-00012" summary="added append, del(index), fibonachi's numbers. Finish Python Starter">
+      <created>1545425364523</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1545425364523</updated>
+    </task>
+    <task id="LOCAL-00013" summary="added FOR loop to find data_type in json">
+      <created>1545430618644</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1545430618644</updated>
+    </task>
+    <task id="LOCAL-00014" summary="added second solution to find_name_aamount_in_json">
+      <created>1545763904692</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1545763904692</updated>
+    </task>
+    <task id="LOCAL-00015" summary="added type(x) to recognize the type in list">
+      <created>1545768847255</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1545768847255</updated>
+    </task>
+    <task id="LOCAL-00016" summary="added counter to list(needs to be debag)">
+      <created>1545859857011</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1545859857011</updated>
+    </task>
+    <task id="LOCAL-00017" summary="added dict examples(phones)">
+      <created>1547247714937</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1547247714938</updated>
+    </task>
+    <task id="LOCAL-00018" summary="added homework 4, start to add more countries in SET">
+      <created>1547494428822</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1547494428822</updated>
+    </task>
+    <task id="LOCAL-00019" summary="added homework 4,added worm countries, live_24_rate loop">
+      <created>1547503803120</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1547503803120</updated>
+    </task>
+    <task id="LOCAL-00020" summary="added simple recursion func">
+      <created>1548609415925</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1548609415926</updated>
     </task>
     <task id="LOCAL-00021" summary="added view about round, .strip func. Added calculation average temperature in Kiev">
       <created>1548613265331</created>
@@ -479,252 +559,14 @@
       <option name="project" value="LOCAL" />
       <updated>1553548527296</updated>
     </task>
-    <task id="LOCAL-00035" summary="added def func (find 0 and 4n via FOR loop">
-      <created>1554226437147</created>
+    <task id="LOCAL-00035" summary="added conditions for def">
+      <created>1553804186720</created>
       <option name="number" value="00035" />
       <option name="presentableId" value="LOCAL-00035" />
       <option name="project" value="LOCAL" />
-      <updated>1554226437147</updated>
+      <updated>1553804186720</updated>
     </task>
-    <task id="LOCAL-00036" summary="added def func2 (find 0 and 4n via FOR loop">
-      <created>1554226683658</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1554226683658</updated>
-    </task>
-    <task id="LOCAL-00037" summary="added def func2 (find 0 and 4n via FOR loop">
-      <created>1554226689959</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1554226689959</updated>
-    </task>
-    <task id="LOCAL-00038" summary="added def func1 (find 0 and 4n via FOR loop">
-      <created>1554310132338</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1554310132338</updated>
-    </task>
-    <task id="LOCAL-00039" summary="added function with documentary string">
-      <created>1554312072289</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1554312072289</updated>
-    </task>
-    <task id="LOCAL-00040" summary="added function with documentary stting __doc__ console">
-      <created>1554312395239</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1554312395239</updated>
-    </task>
-    <task id="LOCAL-00041" summary="added func print to console max, min, abc values of a,b,c arguments">
-      <created>1554398611104</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1554398611104</updated>
-    </task>
-    <task id="LOCAL-00042" summary="added function to change global variable">
-      <created>1554745393535</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1554745393535</updated>
-    </task>
-    <task id="LOCAL-00043" summary="added recursion func(add +1 to recursion)">
-      <created>1554830837361</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1554830837361</updated>
-    </task>
-    <task id="LOCAL-00044" summary="added func recursion, imported funtools for memorising of function results">
-      <created>1554915255492</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1554915255492</updated>
-    </task>
-    <task id="LOCAL-00045" summary="added code about inbuild list function">
-      <created>1554916657893</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1554916657893</updated>
-    </task>
-    <task id="LOCAL-00046" summary="added how to use in and loop to find value in LIST">
-      <created>1555085854754</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1555085854754</updated>
-    </task>
-    <task id="LOCAL-00047" summary="added view of slices with string">
-      <created>1555088072919</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1555088072919</updated>
-    </task>
-    <task id="LOCAL-00048" summary="added info about slices">
-      <created>1555343508805</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1555343508805</updated>
-    </task>
-    <task id="LOCAL-00049" summary="added how to use len in lists">
-      <created>1555432246349</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1555432246349</updated>
-    </task>
-    <task id="LOCAL-00050" summary="added examples: append, del, change, replace elements in LISTS">
-      <created>1555433532392</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1555433532393</updated>
-    </task>
-    <task id="LOCAL-00051" summary="added square number from list to 2 and used format &quot;{} ^ = {}&quot;...">
-      <created>1555434186142</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1555434186142</updated>
-    </task>
-    <task id="LOCAL-00052" summary="added code with Fibbonachi numbers">
-      <created>1555435230817</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1555435230817</updated>
-    </task>
-    <task id="LOCAL-00053" summary="added code with Fibbonachi numbers to for.py">
-      <created>1555519346335</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1555519346337</updated>
-    </task>
-    <task id="LOCAL-00054" summary="start working with OOP (https://itvdn.com/ru/video/python-essential)">
-      <created>1555520765144</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1555520765144</updated>
-    </task>
-    <task id="LOCAL-00055" summary="start working with OOP (https://itvdn.com/ru/video/python-essential)">
-      <created>1555521579221</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1555521579221</updated>
-    </task>
-    <task id="LOCAL-00056" summary="added example of class">
-      <created>1555521614134</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1555521614135</updated>
-    </task>
-    <task id="LOCAL-00057" summary="added example of class, reasigne class, created instance of Person class">
-      <created>1555951467806</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1555951467807</updated>
-    </task>
-    <task id="LOCAL-00058" summary="added files examples of OOP">
-      <created>1556038638729</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1556038638730</updated>
-    </task>
-    <task id="LOCAL-00059" summary="added class instances">
-      <created>1556038755790</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1556038755790</updated>
-    </task>
-    <task id="LOCAL-00060" summary="added simple example of @staticmethod, how to deal with __init__">
-      <created>1556124648413</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1556124648413</updated>
-    </task>
-    <task id="LOCAL-00061" summary="added simple example of decorator @staticmethod">
-      <created>1556127203346</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1556127203346</updated>
-    </task>
-    <task id="LOCAL-00062" summary="added info about classes in Py., with comments">
-      <created>1556127649319</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1556127649319</updated>
-    </task>
-    <task id="LOCAL-00063" summary="added class Car(sample)">
-      <created>1557245001272</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1557245001274</updated>
-    </task>
-    <task id="LOCAL-00064" summary="added class CarDealerShip(sample)">
-      <created>1557250492264</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1557250492264</updated>
-    </task>
-    <task id="LOCAL-00065" summary="added class refactored CarDealerShip(sample) with list []">
-      <created>1557415660384</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1557415660385</updated>
-    </task>
-    <task id="LOCAL-00066" summary="print results of @staticmethod CarDealerShip(sample) with list []">
-      <created>1557508595311</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1557508595311</updated>
-    </task>
-    <task id="LOCAL-00067" summary="print results of @staticmethod CarDealerShip(sample) with list []">
-      <created>1557508606980</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1557508606981</updated>
-    </task>
-    <task id="LOCAL-00068" summary="implemented &quot;напишите метод класса Triangle, с названием from_rectangle(), &#10;который будет возвращать равносторонний треугольник со стороной side, равной side_a четырехугольника Rectangle.&quot;">
-      <created>1557768147546</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1557768147546</updated>
-    </task>
-    <task id="LOCAL-00069" summary="start learning incapsullation in OOP">
-      <created>1557936607574</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1557936607574</updated>
-    </task>
-    <option name="localTasksCounter" value="70" />
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -769,23 +611,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="-4" width="1867" height="1085" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.37821782" side_tool="true" weight="0.25918886" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.7" visible="true" weight="0.20340846" />
-      <window_info id="Structure" order="2" sideWeight="0.3" side_tool="true" visible="true" weight="0.20340846" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.61584157" visible="true" weight="0.24207859" />
+      <window_info id="Structure" order="2" sideWeight="0.3841584" side_tool="true" visible="true" weight="0.24207859" />
       <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49768364" weight="0.32392472" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5062872" side_tool="true" weight="0.32225063" />
-      <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.49966374" weight="0.28542304" />
+      <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.49966374" weight="0.32258064" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="5" sideWeight="0.4996691" weight="0.32619774" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49371278" visible="true" weight="0.32721713" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.3975535" />
+      <window_info anchor="bottom" id="Version Control" order="5" sideWeight="0.4996691" weight="0.3266129" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49371278" visible="true" weight="0.32123655" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39769822" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" weight="0.32619774" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.3252688" />
       <window_info anchor="right" id="R Graphics" order="0" weight="0.32952252" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="R Packages" order="2" weight="0.32952252" />
@@ -834,32 +676,32 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added code about inbuild list function" />
-    <MESSAGE value="added how to use in and loop to find value in LIST" />
-    <MESSAGE value="added view of slices with string" />
-    <MESSAGE value="added info about slices" />
-    <MESSAGE value="added examples with entry the substring to main string" />
-    <MESSAGE value="added how to use len in lists" />
-    <MESSAGE value="added examples: append, del, change, replace elements in LISTS" />
-    <MESSAGE value="added square number from list to 2 and used format &quot;{} ^ = {}&quot;..." />
-    <MESSAGE value="added code with Fibbonachi numbers" />
-    <MESSAGE value="added code with Fibbonachi numbers to for.py" />
-    <MESSAGE value="start working with OOP (https://itvdn.com/ru/video/python-essential)" />
-    <MESSAGE value="added example of class" />
-    <MESSAGE value="added example of class, reasigne class, created instance of Person class" />
-    <MESSAGE value="added files examples of OOP" />
-    <MESSAGE value="added class instances" />
-    <MESSAGE value="added simple example of @staticmethod, how to deal with __init__" />
-    <MESSAGE value="added simple example of decorator @staticmethod" />
-    <MESSAGE value="added info about classes in Python, with comments" />
-    <MESSAGE value="added info about classes in Py., with comments" />
-    <MESSAGE value="added class Car(sample)" />
-    <MESSAGE value="added class CarDealerShip(sample)" />
-    <MESSAGE value="added class refactored CarDealerShip(sample) with list []" />
-    <MESSAGE value="print results of @staticmethod CarDealerShip(sample) with list []" />
-    <MESSAGE value="implemented &quot;напишите метод класса Triangle, с названием from_rectangle(), &#10;который будет возвращать равносторонний треугольник со стороной side, равной side_a четырехугольника Rectangle.&quot;" />
-    <MESSAGE value="start learning incapsullation in OOP" />
-    <option name="LAST_COMMIT_MESSAGE" value="start learning incapsullation in OOP" />
+    <MESSAGE value="added code with IN in lists and strings" />
+    <MESSAGE value="added append, del(index), fibonachi's numbers. Finish Python Starter" />
+    <MESSAGE value="added FOR loop to find data_type in json" />
+    <MESSAGE value="added second solution to find_name_aamount_in_json" />
+    <MESSAGE value="added type(x) to recognize the type in list" />
+    <MESSAGE value="added counter to list(needs to be debag)" />
+    <MESSAGE value="added dict examples(phones)" />
+    <MESSAGE value="added homework 4, start to add more countries in SET" />
+    <MESSAGE value="added homework 4,added worm countries, live_24_rate loop" />
+    <MESSAGE value="added simple recursion func" />
+    <MESSAGE value="added view about round, .strip func. Added calculation average temperature in Kiev" />
+    <MESSAGE value="added file for avg temperature, write in file avg.temperature" />
+    <MESSAGE value="added loop for read and write to list" />
+    <MESSAGE value="added code for read txt file by lives via loop" />
+    <MESSAGE value="added code for read txt file by lives via loop _2" />
+    <MESSAGE value="added first code with selenium" />
+    <MESSAGE value="added auth locators with selenium" />
+    <MESSAGE value="added login to tender DZO" />
+    <MESSAGE value="added code from itvdn" />
+    <MESSAGE value="added code chek negative numbers with while" />
+    <MESSAGE value="added code check not ever numbers via FOR" />
+    <MESSAGE value="added pass/not pass code via while loop" />
+    <MESSAGE value="added square figure via FOR loop" />
+    <MESSAGE value="added def function square numbers" />
+    <MESSAGE value="added conditions for def" />
+    <option name="LAST_COMMIT_MESSAGE" value="added conditions for def" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -894,6 +736,122 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/abcd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1065">
+          <caret line="71" column="37" selection-start-line="71" selection-start-column="37" selection-end-line="71" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/convert_dict.py" />
+    <entry file="file://$PROJECT_DIR$/convert_json.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="57" column="40" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nested_loops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/find_name_amount_in_json.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="53" column="14" lean-forward="true" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list_definitions.py" />
+    <entry file="file://$PROJECT_DIR$/is_substring_in_main_string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="66" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="178" selection-start-line="178" selection-end-line="178" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shengen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schengen_calculator_via_functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-316" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schengen_homework_lesson4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/countries_sea_shengen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="79" column="3" lean-forward="true" selection-start-line="79" selection-start-column="3" selection-end-line="79" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Info__Dict_List_Tuple_Set/set_mnozhestva.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Info__Dict_List_Tuple_Set/convert_dict.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recursia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pict.jpg" />
+    <entry file="file://$PROJECT_DIR$/my_file.txt" />
+    <entry file="file://$PROJECT_DIR$/work_with_file.py" />
+    <entry file="file://$PROJECT_DIR$/temperature.txt" />
+    <entry file="file://$PROJECT_DIR$/temperature_deviation.txt" />
+    <entry file="file://$PROJECT_DIR$/week_temper_by_city.py" />
+    <entry file="file://$PROJECT_DIR$/week_temp.txt" />
+    <entry file="file://$PROJECT_DIR$/Info__Dict_List_Tuple_Set/list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2745">
+          <caret line="183" selection-start-line="176" selection-end-line="186" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium/geckodriver.log" />
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/selenium/webdriver/remote/errorhandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3550">
+          <caret line="241" selection-start-line="241" selection-end-line="241" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itvdn.py" />
     <entry file="file://$PROJECT_DIR$/if else.py" />
     <entry file="file://$PROJECT_DIR$/average_temperature.txt">
       <provider selected="true" editor-type-id="text-editor" />
@@ -934,6 +892,11 @@
         <state relative-caret-position="272">
           <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1 exersice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-393" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2 exersice (copy).py">
@@ -997,180 +960,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/lib/python3.5/posixpath.py">
+    <entry file="file://$PROJECT_DIR$/while.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="148" selection-start-line="148" selection-end-line="148" />
+        <state relative-caret-position="662">
+          <caret line="131" selection-start-line="131" selection-end-line="131" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/enrer_pass_check_pass.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
+        <state relative-caret-position="306">
           <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/square_with_spaces_via_for_loop.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
+        <state relative-caret-position="187">
           <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/lib/python3.5/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="308" selection-start-line="308" selection-end-line="308" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/while.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1965">
-          <caret line="131" selection-start-line="131" selection-end-line="131" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/def_hello_w.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Info__Dict_List_Tuple_Set/list.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="369" column="35" lean-forward="true" selection-start-line="358" selection-end-line="369" selection-end-column="35" />
+        <state relative-caret-position="101">
+          <caret line="323" selection-start-line="323" selection-end-line="323" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/for.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="584">
-          <caret line="273" column="35" selection-start-line="273" selection-start-column="35" selection-end-line="273" selection-end-column="35" />
+        <state relative-caret-position="662">
+          <caret line="259" column="9" selection-start-line="259" selection-start-column="9" selection-end-line="259" selection-end-column="9" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/function_example.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2670">
-          <caret line="178" selection-start-line="178" selection-end-line="178" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/00-simple-class.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/01-classes-as-objects.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/02-class-attributes.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/04-methods.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1 exersice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/07-static-methods.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-52">
-          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class_info.py" />
-    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1433111049/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1575">
-          <caret line="105" column="8" lean-forward="true" selection-start-line="105" selection-start-column="8" selection-end-line="105" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/03-data-attributes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/05-__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/06-methods-outside-a-class.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/08-class-methods.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="73" selection-start-line="10" selection-start-column="73" selection-end-line="10" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/09-private-members.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/10-magic-methods.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classes_in_Python/04-methods.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classes_in_Python/03-data-attributes.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classes_in_Python/06-methods-outside-a-class.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classes_in_Python/07-static-methods.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classes_in_Python/08-class-methods.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classes_in_Python/09-private-members.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="6" selection-end-line="22" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/11-singleton.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/12-password-protected-field.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classes_in_Python/05-__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Classes_in_Python/my_class_info.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="274" column="35" selection-start-line="274" selection-start-column="35" selection-end-line="274" selection-end-column="35" />
+        <state relative-caret-position="219">
+          <caret line="311" column="21" lean-forward="true" selection-start-line="311" selection-start-column="21" selection-end-line="311" selection-end-column="21" />
         </state>
       </provider>
     </entry>
