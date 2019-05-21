@@ -361,3 +361,20 @@ class Singleton:
 
     def __init__(self):
         self.value = "some value"
+
+
+"""
+Найдите и исправьте ошибку в коде 20
+Класс реализует доступ к закрытому паролем атрибуту sectet_field. Найдите и исправьте ошибку в коде.
+"""
+
+class MyObject:
+    def __init__(self):
+        self.password = None
+
+    def __getattribute__(self, name):
+        if name == "secret_field" and self.password == "12345":
+            return "Secret value"
+        else:
+            return object.__getattribute__(self, name)
+
