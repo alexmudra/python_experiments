@@ -313,3 +313,51 @@ class MyObject:
     def attribute (self, value):
         self.__attribute = value
 
+
+"""
+  Напишите методы перегрузки операторов + и -, которые будут складывать и вычитать прямоугольники. Напишите метод 
+  сравнения прямоугольников, 
+  который возвращает true либо false, в зависимости от того, равны ли у них соответствующие стороны. Методы принимают 
+  два параметра self и other.
+"""
+
+class Rectangle:
+
+    def __init__(self, side_a=0, side_b=0):
+        self.side_a = side_a
+        self.side_b = side_b
+
+    def __repr__(self):
+        return "Rectangle({}, {})".format(self.side_a, self.side_b)
+
+    def __str__(self):
+        return "Rectangle({}, {})".format(self.side_a, self.side_b)
+
+    def __add__(self, other):
+        return self.side_a * self.other
+
+    def __sub__(self, other):
+        return
+
+    def __eq__(self, other):
+        return self.side_a == self.other and self.side_b == self.other
+
+#TODO доробити задачу
+
+
+
+
+"""
+  Класс реализует шаблон Синглтон. Найдите и исправьте ошибку в коде.
+"""
+class Singleton:
+    _instanse = None
+
+    def __new__(cls):
+        if cls._instanse is None:
+            cls._instanse = object.__new__(cls)
+
+        return cls._instanse
+
+    def __init__(self):
+        self.value = "some value"
