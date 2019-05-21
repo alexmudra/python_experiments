@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ed596d89-71b2-429a-b04c-09a902a2a0f0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes_in_Python/my_class_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes_in_Python/my_class_info.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Classes_in_Python/my_class_info.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="378" column="54" lean-forward="true" selection-start-line="370" selection-end-line="378" selection-end-column="54" />
+            <state relative-caret-position="184">
+              <caret line="365" column="3" lean-forward="true" selection-start-line="365" selection-start-column="3" selection-end-line="365" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -125,7 +124,7 @@
             <path>
               <item name="python_experiments" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_experiments" type="462c0819:PsiDirectoryNode" />
-              <item name="Classes_in_Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Inheritance_and_Polimorphizm" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -584,7 +583,14 @@
       <option name="project" value="LOCAL" />
       <updated>1558430220155</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="start learning Inheritance and Polimorphizm">
+      <created>1558441850128</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1558441850128</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -633,11 +639,11 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.37821782" side_tool="true" weight="0.25918886" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.61507934" visible="true" weight="0.24207859" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.61507934" visible="true" weight="0.24207859" />
       <window_info id="Structure" order="2" sideWeight="0.38492063" side_tool="true" visible="true" weight="0.24207859" />
       <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49768364" weight="0.32258064" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5062872" side_tool="true" weight="0.32225063" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="2" sideWeight="0.49966374" visible="true" weight="0.32258064" />
+      <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.49966374" visible="true" weight="0.32258064" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" sideWeight="0.4996691" weight="0.3266129" />
@@ -694,7 +700,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added FOR loop to find data_type in json" />
     <MESSAGE value="added second solution to find_name_aamount_in_json" />
     <MESSAGE value="added type(x) to recognize the type in list" />
     <MESSAGE value="added counter to list(needs to be debag)" />
@@ -719,7 +724,8 @@
     <MESSAGE value="added conditions for def" />
     <MESSAGE value="added example getter and setter" />
     <MESSAGE value="added example one programming pattern Singleton" />
-    <option name="LAST_COMMIT_MESSAGE" value="added example one programming pattern Singleton" />
+    <MESSAGE value="start learning Inheritance and Polimorphizm" />
+    <option name="LAST_COMMIT_MESSAGE" value="start learning Inheritance and Polimorphizm" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1015,8 +1021,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Classes_in_Python/my_class_info.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="378" column="54" lean-forward="true" selection-start-line="370" selection-end-line="378" selection-end-column="54" />
+        <state relative-caret-position="184">
+          <caret line="365" column="3" lean-forward="true" selection-start-line="365" selection-start-column="3" selection-end-line="365" selection-end-column="3" />
         </state>
       </provider>
     </entry>
