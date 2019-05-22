@@ -57,7 +57,7 @@ child_inst.method()
 #Hello from Base
 #Hello from Child
 
-
+#--------------------------------------------------------------------------------
 
 """
   Создайте класс Child, наследник класса Base, который содержит метод child_method(), выводящий на консоль
@@ -86,6 +86,9 @@ child_instance.method()
 
 #Hello from child method!
 #Hello from redefined method!
+
+
+#---------------------------------------------------------------------------------
 
 
 """
@@ -140,7 +143,7 @@ if __name__ == '__main__':
 * * * * * 
 """
 
-
+#----------------------------------------------------------------------------------------------------
 
 """
   Опишите класс Pegasus, который является наследником классов Horse и Bird и умеет, и бегать и летать.
@@ -164,3 +167,55 @@ def main():
 
 if __name__ == main():
     main()
+
+"""
+I'm flying.
+I'm running.
+"""
+#----------------------------------------------------------------------------------------------------
+"""
+  Вы работаете c Python версии 2.x, укажите явно, что класс Base, является классом нового типа.
+"""
+
+class Base:
+    def method(self):
+        print("Method class:", __class__.__name__)
+        print("Instance class:", type(self).__name__)
+
+class Child(Base):
+    pass
+"""
+class Base(object):
+    def method(self):
+        print("Method class:", __class__.__name__)
+        print("Instance class:", type(self).__name__)
+
+class Child(Base):
+    pass
+"""
+
+#-------------------------------------------------------------------------------------------------
+
+"""
+  Выведите на консоль порядок, в котором интерпретатор просматривает базовые классы для класса D.
+"""
+
+class A(object):
+    def method(self):
+        print("A method")
+
+class B(A):
+    pass
+
+class C(A):
+    def method(self):
+        print("C method")
+
+class D(B, C):
+    pass
+
+print(D.__mro__) #приклад виводу лінерізації класів від який успадковується потомок D
+print(D.mro()) #приклад виводу лінерізації класів від який успадковується потомок D (аналог ф-ії __mro__)
+#(<class '__main__.D'>, <class '__main__.B'>, <class '__main__.C'>, <class '__main__.A'>, <class 'object'>)
+# (<class '__main__.D'>, <class '__main__.B'>, <class '__main__.C'>, <class '__main__.A'>, <class 'object'>)
+

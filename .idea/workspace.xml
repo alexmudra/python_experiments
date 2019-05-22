@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ed596d89-71b2-429a-b04c-09a902a2a0f0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes_in_Python/my_class_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes_in_Python/my_class_info.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Inheritance_and_Polimorphizm/00-inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance_and_Polimorphizm/00-inheritance.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Inheritance_and_Polimorphizm/00-inheritance.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="158" column="1" selection-start-line="158" selection-start-column="1" selection-end-line="158" selection-end-column="1" />
+            <state relative-caret-position="354">
+              <caret line="216" lean-forward="true" selection-start-line="216" selection-end-line="216" />
             </state>
           </provider>
         </entry>
@@ -632,7 +631,14 @@
       <option name="project" value="LOCAL" />
       <updated>1558450979571</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="added instance pegasus that multyinheritance 2 methods">
+      <created>1558532490155</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1558532490155</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -681,15 +687,15 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.37821782" side_tool="true" weight="0.25918886" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.6138614" visible="true" weight="0.24207859" />
-      <window_info id="Structure" order="2" sideWeight="0.38613862" side_tool="true" visible="true" weight="0.24207859" />
-      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49768364" weight="0.32258064" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.61507934" visible="true" weight="0.24207859" />
+      <window_info id="Structure" order="2" sideWeight="0.38492063" side_tool="true" visible="true" weight="0.24207859" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" sideWeight="0.49768364" visible="true" weight="0.32258064" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5062872" side_tool="true" weight="0.32225063" />
       <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.49966374" weight="0.32258064" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" sideWeight="0.4996691" weight="0.31989247" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49371278" visible="true" weight="0.32123655" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49371278" weight="0.32123655" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39769822" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -743,7 +749,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
-    <MESSAGE value="added type(x) to recognize the type in list" />
     <MESSAGE value="added counter to list(needs to be debag)" />
     <MESSAGE value="added dict examples(phones)" />
     <MESSAGE value="added homework 4, start to add more countries in SET" />
@@ -768,7 +773,8 @@
     <MESSAGE value="added example one programming pattern Singleton" />
     <MESSAGE value="start learning Inheritance and Polimorphizm" />
     <MESSAGE value="added 12 files learning Inheritance and Polimorphizm" />
-    <option name="LAST_COMMIT_MESSAGE" value="added 12 files learning Inheritance and Polimorphizm" />
+    <MESSAGE value="added instance pegasus that multyinheritance 2 methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="added instance pegasus that multyinheritance 2 methods" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1054,8 +1060,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Inheritance_and_Polimorphizm/00-inheritance.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="158" column="1" selection-start-line="158" selection-start-column="1" selection-end-line="158" selection-end-column="1" />
+        <state relative-caret-position="354">
+          <caret line="216" lean-forward="true" selection-start-line="216" selection-end-line="216" />
         </state>
       </provider>
     </entry>
