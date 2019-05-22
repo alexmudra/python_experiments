@@ -215,7 +215,46 @@ class D(B, C):
     pass
 
 print(D.__mro__) #приклад виводу лінерізації класів від який успадковується потомок D
-print(D.mro()) #приклад виводу лінерізації класів від який успадковується потомок D (аналог ф-ії __mro__)
+print(D.mro()) #приклад виводу лінерізації класів від який успадковується потомок D (аналог атрибуту класу __mro__)
 #(<class '__main__.D'>, <class '__main__.B'>, <class '__main__.C'>, <class '__main__.A'>, <class 'object'>)
 # (<class '__main__.D'>, <class '__main__.B'>, <class '__main__.C'>, <class '__main__.A'>, <class 'object'>)
+
+#-------------------------------------------------------------------------------------------------
+
+"""
+Вивести лінерізацію (mro) для всіх класів включаючи батьківський
+"""
+class A(object): # 1 клас, батьківський
+    def method(self):
+        print("A method")
+
+class B(A): #2 клас
+    pass
+
+class C(A): #3 клас
+    def method(self):
+        print("C method")
+
+class D(B, C):#4 клас, мультинаслідування
+    pass
+
+
+for show_classes in [A,B,C,D]:
+    print(show_classes.__name__ + ":", show_classes.__mro__)
+"""
+A: (<class '__main__.A'>, <class 'object'>)
+B: (<class '__main__.B'>, <class '__main__.A'>, <class 'object'>)
+C: (<class '__main__.C'>, <class '__main__.A'>, <class 'object'>)
+D: (<class '__main__.D'>, <class '__main__.B'>, <class '__main__.C'>, <class '__main__.A'>, <class 'object'>)
+
+"""
+
+
+"""
+   Дан метод Child, наследник Base в котором метод method() переопределен. 
+   Напишите три разных способа вызова метода method() базового класса. 
+   1) Путем явного обращения к атрибуту базового класса 
+   2) Путем передачи имени и ссылки на экземпляр текущего класса конструктору super 
+   3) Путем автоматической передачи параметров конструктору super
+"""
 
