@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ed596d89-71b2-429a-b04c-09a902a2a0f0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes_in_Python/my_class_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes_in_Python/my_class_info.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance_and_Polimorphizm/00-inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance_and_Polimorphizm/00-inheritance.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,13 +17,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Classes_in_Python/my_class_info.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="365" column="3" lean-forward="true" selection-start-line="365" selection-start-column="3" selection-end-line="365" selection-end-column="3" />
+            <state relative-caret-position="7157">
+              <caret line="421" column="17" selection-start-line="421" selection-start-column="17" selection-end-line="421" selection-end-column="17" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Inheritance_and_Polimorphizm/00-inheritance.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="321">
+              <caret line="158" column="1" selection-start-line="158" selection-start-column="1" selection-end-line="158" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classes_in_Python/00-simple-class.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classes_in_Python/01-classes-as-objects.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Inheritance_and_Polimorphizm/01-multiple-inheritance.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Inheritance_and_Polimorphizm/02-mro.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -98,6 +129,7 @@
         <option value="$PROJECT_DIR$/square_with_spaces.py" />
         <option value="$PROJECT_DIR$/def_hello_w.py" />
         <option value="$PROJECT_DIR$/Classes_in_Python/my_class_info.py" />
+        <option value="$PROJECT_DIR$/Inheritance_and_Polimorphizm/00-inheritance.py" />
       </list>
     </option>
   </component>
@@ -113,7 +145,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -124,12 +155,13 @@
             <path>
               <item name="python_experiments" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_experiments" type="462c0819:PsiDirectoryNode" />
-              <item name="Inheritance_and_Polimorphizm" type="462c0819:PsiDirectoryNode" />
+              <item name="Classes_in_Python" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -168,11 +200,35 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.my_class_info">
+  <component name="RunManager" selected="Python.00-inheritance">
+    <configuration name="00-inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Inheritance_and_Polimorphizm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Inheritance_and_Polimorphizm/00-inheritance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="10-magic-methods" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Classes_in_Python" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -200,27 +256,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/def_hello_w.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="for" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="homework" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/for.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -294,19 +329,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.if else" />
-      <item itemvalue="Python.for" />
       <item itemvalue="Python.square_with_spaces" />
       <item itemvalue="Python.def_hello_w" />
       <item itemvalue="Python.my_class_info" />
       <item itemvalue="Python.10-magic-methods" />
+      <item itemvalue="Python.00-inheritance" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.00-inheritance" />
         <item itemvalue="Python.my_class_info" />
         <item itemvalue="Python.10-magic-methods" />
         <item itemvalue="Python.10-magic-methods" />
         <item itemvalue="Python.def_hello_w" />
-        <item itemvalue="Python.square_with_spaces" />
       </list>
     </recent_temporary>
   </component>
@@ -590,7 +625,14 @@
       <option name="project" value="LOCAL" />
       <updated>1558441850128</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="added 12 files learning Inheritance and Polimorphizm">
+      <created>1558450979571</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1558450979571</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -639,15 +681,15 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.37821782" side_tool="true" weight="0.25918886" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.61507934" visible="true" weight="0.24207859" />
-      <window_info id="Structure" order="2" sideWeight="0.38492063" side_tool="true" visible="true" weight="0.24207859" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.6138614" visible="true" weight="0.24207859" />
+      <window_info id="Structure" order="2" sideWeight="0.38613862" side_tool="true" visible="true" weight="0.24207859" />
       <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49768364" weight="0.32258064" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5062872" side_tool="true" weight="0.32225063" />
-      <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.49966374" visible="true" weight="0.32258064" />
+      <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.49966374" weight="0.32258064" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="5" sideWeight="0.4996691" weight="0.3266129" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49371278" weight="0.32123655" />
+      <window_info anchor="bottom" id="Version Control" order="5" sideWeight="0.4996691" weight="0.31989247" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49371278" visible="true" weight="0.32123655" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39769822" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -700,7 +742,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added second solution to find_name_aamount_in_json" />
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
     <MESSAGE value="added type(x) to recognize the type in list" />
     <MESSAGE value="added counter to list(needs to be debag)" />
     <MESSAGE value="added dict examples(phones)" />
@@ -725,7 +767,8 @@
     <MESSAGE value="added example getter and setter" />
     <MESSAGE value="added example one programming pattern Singleton" />
     <MESSAGE value="start learning Inheritance and Polimorphizm" />
-    <option name="LAST_COMMIT_MESSAGE" value="start learning Inheritance and Polimorphizm" />
+    <MESSAGE value="added 12 files learning Inheritance and Polimorphizm" />
+    <option name="LAST_COMMIT_MESSAGE" value="added 12 files learning Inheritance and Polimorphizm" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -760,35 +803,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/convert_dict.py" />
-    <entry file="file://$PROJECT_DIR$/convert_json.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="57" column="40" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nested_loops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/find_name_amount_in_json.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="53" column="14" lean-forward="true" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/list_definitions.py" />
     <entry file="file://$PROJECT_DIR$/is_substring_in_main_string.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -819,13 +833,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
           <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/countries_sea_shengen.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="79" column="3" lean-forward="true" selection-start-line="79" selection-start-column="3" selection-end-line="79" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -889,20 +896,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/average_temp_file.txt">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cheks.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-36">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-306">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/exit2.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1012,6 +1005,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/countries_sea_shengen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-748">
+          <caret line="79" column="3" lean-forward="true" selection-start-line="79" selection-start-column="3" selection-end-line="79" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cheks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes_in_Python/my_class_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7157">
+          <caret line="421" column="17" selection-start-line="421" selection-start-column="17" selection-end-line="421" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes_in_Python/00-simple-class.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes_in_Python/01-classes-as-objects.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inheritance_and_Polimorphizm/01-multiple-inheritance.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inheritance_and_Polimorphizm/02-mro.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Classes_in_Python/10-magic-methods.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -1019,10 +1052,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Classes_in_Python/my_class_info.py">
+    <entry file="file://$PROJECT_DIR$/Inheritance_and_Polimorphizm/00-inheritance.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="365" column="3" lean-forward="true" selection-start-line="365" selection-start-column="3" selection-end-line="365" selection-end-column="3" />
+        <state relative-caret-position="321">
+          <caret line="158" column="1" selection-start-line="158" selection-start-column="1" selection-end-line="158" selection-end-column="1" />
         </state>
       </provider>
     </entry>
