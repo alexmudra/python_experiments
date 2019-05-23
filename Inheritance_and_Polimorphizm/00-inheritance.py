@@ -246,9 +246,8 @@ A: (<class '__main__.A'>, <class 'object'>)
 B: (<class '__main__.B'>, <class '__main__.A'>, <class 'object'>)
 C: (<class '__main__.C'>, <class '__main__.A'>, <class 'object'>)
 D: (<class '__main__.D'>, <class '__main__.B'>, <class '__main__.C'>, <class '__main__.A'>, <class 'object'>)
-
 """
-
+#---------------------------------------------------------------------------------------------------
 
 """
    Дан метод Child, наследник Base в котором метод method() переопределен. 
@@ -257,4 +256,34 @@ D: (<class '__main__.D'>, <class '__main__.B'>, <class '__main__.C'>, <class '__
    2) Путем передачи имени и ссылки на экземпляр текущего класса конструктору super 
    3) Путем автоматической передачи параметров конструктору super
 """
+
+class Base:
+    def method(self):
+        print("Base say Hello!", type(self).__name__)
+
+class Child(Base): #створили екземпляр класу Base
+    def method(self): #переопреділили батьківський метод
+        Base.method(self)
+        super(Child, self).method()
+        super().method()
+
+        print("Hello! I am a", type(self).__name__)
+
+if __name__ == '__main__':
+    chl = Child()
+    chl.method()
+    chl.child_method()
+
+if __name__ == main():
+    main()
+"""
+Base say Hello! Child
+Base say Hello! Child
+Base say Hello! Child
+Hello! I am a Child
+"""
+#---------------------------------------------------------------------------------------------------------------
+
+
+
 

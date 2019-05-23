@@ -28,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Inheritance_and_Polimorphizm/00-inheritance.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret line="241" lean-forward="true" selection-start-line="241" selection-end-line="241" />
+            <state relative-caret-position="236">
+              <caret line="273" column="16" lean-forward="true" selection-start-line="273" selection-start-column="16" selection-end-line="273" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -645,7 +645,14 @@
       <option name="project" value="LOCAL" />
       <updated>1558544401600</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="added example __mro__ ((method resolution order&#10;¬– порядок разрешения методов) for all classes in line">
+      <created>1558545165737</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1558545165737</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -756,7 +763,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
-    <MESSAGE value="added dict examples(phones)" />
     <MESSAGE value="added homework 4, start to add more countries in SET" />
     <MESSAGE value="added homework 4,added worm countries, live_24_rate loop" />
     <MESSAGE value="added simple recursion func" />
@@ -781,7 +787,8 @@
     <MESSAGE value="added 12 files learning Inheritance and Polimorphizm" />
     <MESSAGE value="added instance pegasus that multyinheritance 2 methods" />
     <MESSAGE value="added example __mro__ ((method resolution order&#10;¬– порядок разрешения методов)" />
-    <option name="LAST_COMMIT_MESSAGE" value="added example __mro__ ((method resolution order&#10;¬– порядок разрешения методов)" />
+    <MESSAGE value="added example __mro__ ((method resolution order&#10;¬– порядок разрешения методов) for all classes in line" />
+    <option name="LAST_COMMIT_MESSAGE" value="added example __mro__ ((method resolution order&#10;¬– порядок разрешения методов) for all classes in line" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1067,8 +1074,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Inheritance_and_Polimorphizm/00-inheritance.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="241" lean-forward="true" selection-start-line="241" selection-end-line="241" />
+        <state relative-caret-position="236">
+          <caret line="273" column="16" lean-forward="true" selection-start-line="273" selection-start-column="16" selection-end-line="273" selection-end-column="16" />
         </state>
       </provider>
     </entry>
