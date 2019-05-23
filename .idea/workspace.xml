@@ -28,8 +28,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Inheritance_and_Polimorphizm/00-inheritance.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="273" column="16" lean-forward="true" selection-start-line="273" selection-start-column="16" selection-end-line="273" selection-end-column="16" />
+            <state relative-caret-position="389">
+              <caret line="403" column="3" selection-start-line="403" selection-start-column="3" selection-end-line="403" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/265517505/builtins.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="251" column="80" lean-forward="true" selection-start-line="251" selection-start-column="80" selection-end-line="252" selection-end-column="79" />
             </state>
           </provider>
         </entry>
@@ -652,7 +661,21 @@
       <option name="project" value="LOCAL" />
       <updated>1558545165737</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="added how to invoke parent methods in child classes">
+      <created>1558605553063</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1558605553063</updated>
+    </task>
+    <task id="LOCAL-00044" summary="added pegasus class which invoke from parental classes Bird, Horse. Reasign the parental methods via &quot;super&quot;">
+      <created>1558609748506</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1558609748506</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -763,8 +786,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
-    <MESSAGE value="added homework 4, start to add more countries in SET" />
-    <MESSAGE value="added homework 4,added worm countries, live_24_rate loop" />
     <MESSAGE value="added simple recursion func" />
     <MESSAGE value="added view about round, .strip func. Added calculation average temperature in Kiev" />
     <MESSAGE value="added file for avg temperature, write in file avg.temperature" />
@@ -788,7 +809,9 @@
     <MESSAGE value="added instance pegasus that multyinheritance 2 methods" />
     <MESSAGE value="added example __mro__ ((method resolution order&#10;¬– порядок разрешения методов)" />
     <MESSAGE value="added example __mro__ ((method resolution order&#10;¬– порядок разрешения методов) for all classes in line" />
-    <option name="LAST_COMMIT_MESSAGE" value="added example __mro__ ((method resolution order&#10;¬– порядок разрешения методов) for all classes in line" />
+    <MESSAGE value="added how to invoke parent methods in child classes" />
+    <MESSAGE value="added pegasus class which invoke from parental classes Bird, Horse. Reasign the parental methods via &quot;super&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="added pegasus class which invoke from parental classes Bird, Horse. Reasign the parental methods via &quot;super&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -823,13 +846,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/is_substring_in_main_string.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="66" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/function_example.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="704">
@@ -1072,10 +1088,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/265517505/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="251" column="80" lean-forward="true" selection-start-line="251" selection-start-column="80" selection-end-line="252" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Inheritance_and_Polimorphizm/00-inheritance.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="273" column="16" lean-forward="true" selection-start-line="273" selection-start-column="16" selection-end-line="273" selection-end-column="16" />
+        <state relative-caret-position="389">
+          <caret line="403" column="3" selection-start-line="403" selection-start-column="3" selection-end-line="403" selection-end-column="3" />
         </state>
       </provider>
     </entry>

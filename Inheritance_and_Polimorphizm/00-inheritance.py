@@ -339,3 +339,56 @@ Pegasus:
 Can run: True
 Can fly: True
 """
+
+print("---------------------------------------------------------------------------------------------------------")
+
+"""
+  С помощью функции print() выведите на консоль:
+1)	Является ли объект instance_Abc, экземпляром класса Abc
+2)	Является ли объект instance_A, экземпляром класса B
+3)	Является ли класс A, наследником класса Abc
+4)	Является ли класс B, наследником класса С
+5)	Вывести список базовых классов для класса C
+
+"""
+
+
+class Abc:
+    def __init__(self, a=0):
+        self.a = a
+
+    def method(self):
+        print(a)
+
+
+class A(Abc):
+    pass
+
+
+class B(A):
+    pass
+
+
+class C(B, A):
+    pass
+
+
+inst_Abc = Abc()
+inst_A = A()
+
+print(isinstance(inst_Abc, Abc))
+print(isinstance(inst_A, B))
+print(issubclass(A, Abc))
+print(issubclass(B, C))
+print(issubclass(B, C))
+print(C.__bases__)
+"""
+True
+False
+True
+False
+False
+(<class '__main__.B'>, <class '__main__.A'>)
+"""
+
+print("----------------------------------------------------------------------------------------")
