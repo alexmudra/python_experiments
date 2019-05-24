@@ -2,8 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed596d89-71b2-429a-b04c-09a902a2a0f0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/00-runtime_error.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/01-raise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/02-raise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/03-try_except.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/04-try_except.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/05-incorrect_except_order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/06-multiple_exceptions_in_single_clause.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/07-default_except_clause.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/08-unhandled_exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/09-unhandled_exception_in_inner_try.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/10-exception_in_destructor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/11-raise_in_except.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/12-raise_another_exception_in_except.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/13-raise_from.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/14-raise_from_None.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/15-else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/16-finally.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/17-try-finally.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/18-warnings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/19-lbyl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/20-eafp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/my_file_try_exept.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance_and_Polimorphizm/00-inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance_and_Polimorphizm/00-inheritance.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,57 +38,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Classes_in_Python/my_class_info.py">
+        <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/my_file_try_exept.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7157">
-              <caret line="421" column="17" selection-start-line="421" selection-start-column="17" selection-end-line="421" selection-end-column="17" />
+            <state relative-caret-position="102">
+              <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Inheritance_and_Polimorphizm/00-inheritance.py">
+        <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/03-try_except.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="403" column="3" selection-start-line="403" selection-start-column="3" selection-end-line="403" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/265517505/builtins.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="251" column="80" lean-forward="true" selection-start-line="251" selection-start-column="80" selection-end-line="252" selection-end-column="79" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Classes_in_Python/00-simple-class.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Classes_in_Python/01-classes-as-objects.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Inheritance_and_Polimorphizm/01-multiple-inheritance.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Inheritance_and_Polimorphizm/02-mro.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Classes_in_Python/10-magic-methods.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+            <state relative-caret-position="102">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -87,8 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/if else.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/HW_2.py" />
         <option value="$USER_HOME$/Python/Code/shahmati.py" />
         <option value="$PROJECT_DIR$/input numbers.py" />
@@ -138,6 +119,8 @@
         <option value="$PROJECT_DIR$/def_hello_w.py" />
         <option value="$PROJECT_DIR$/Classes_in_Python/my_class_info.py" />
         <option value="$PROJECT_DIR$/Inheritance_and_Polimorphizm/00-inheritance.py" />
+        <option value="$PROJECT_DIR$/Exeptions_Allerts_Asserts/03-try_except.py" />
+        <option value="$PROJECT_DIR$/Exeptions_Allerts_Asserts/my_file_try_exept.py" />
       </list>
     </option>
   </component>
@@ -163,7 +146,7 @@
             <path>
               <item name="python_experiments" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_experiments" type="462c0819:PsiDirectoryNode" />
-              <item name="Classes_in_Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Exeptions_Allerts_Asserts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -173,6 +156,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ToolWindowThumbnails.ShowToolbar" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/bin" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
@@ -186,10 +170,10 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -208,7 +192,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.00-inheritance">
+  <component name="RunManager" selected="Python.03-try_except">
     <configuration name="00-inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -222,6 +206,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Inheritance_and_Polimorphizm/00-inheritance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03-try_except" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exeptions_Allerts_Asserts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exeptions_Allerts_Asserts/03-try_except.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -245,27 +250,6 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classes_in_Python/10-magic-methods.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="def_hello_w" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="homework" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/def_hello_w.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -314,21 +298,18 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="square_with_spaces" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="my_file_try_exept" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exeptions_Allerts_Asserts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\а\PycharmProjects\python_experiments\square_with_spaces_via_for_loop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exeptions_Allerts_Asserts/my_file_try_exept.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -337,19 +318,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.if else" />
-      <item itemvalue="Python.square_with_spaces" />
-      <item itemvalue="Python.def_hello_w" />
       <item itemvalue="Python.my_class_info" />
       <item itemvalue="Python.10-magic-methods" />
       <item itemvalue="Python.00-inheritance" />
+      <item itemvalue="Python.my_file_try_exept" />
+      <item itemvalue="Python.03-try_except" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.03-try_except" />
+        <item itemvalue="Python.my_file_try_exept" />
+        <item itemvalue="Python.my_file_try_exept" />
         <item itemvalue="Python.00-inheritance" />
         <item itemvalue="Python.my_class_info" />
-        <item itemvalue="Python.10-magic-methods" />
-        <item itemvalue="Python.10-magic-methods" />
-        <item itemvalue="Python.def_hello_w" />
       </list>
     </recent_temporary>
   </component>
@@ -675,7 +656,14 @@
       <option name="project" value="LOCAL" />
       <updated>1558609748506</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="finished Python Essential(less. 2) Inheritance and polimorphizm">
+      <created>1558630201337</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1558630201337</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -726,6 +714,7 @@
       <window_info id="Favorites" order="0" sideWeight="0.37821782" side_tool="true" weight="0.25918886" />
       <window_info content_ui="combo" id="Project" order="1" sideWeight="0.6138614" visible="true" weight="0.24207859" />
       <window_info id="Structure" order="2" sideWeight="0.38613862" side_tool="true" visible="true" weight="0.24207859" />
+      <window_info anchor="bottom" id="Thumbnails" weight="0.3293011" />
       <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49768364" weight="0.32258064" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5062872" side_tool="true" weight="0.32225063" />
       <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.49966374" weight="0.32258064" />
@@ -786,7 +775,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
-    <MESSAGE value="added simple recursion func" />
     <MESSAGE value="added view about round, .strip func. Added calculation average temperature in Kiev" />
     <MESSAGE value="added file for avg temperature, write in file avg.temperature" />
     <MESSAGE value="added loop for read and write to list" />
@@ -811,7 +799,8 @@
     <MESSAGE value="added example __mro__ ((method resolution order&#10;¬– порядок разрешения методов) for all classes in line" />
     <MESSAGE value="added how to invoke parent methods in child classes" />
     <MESSAGE value="added pegasus class which invoke from parental classes Bird, Horse. Reasign the parental methods via &quot;super&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="added pegasus class which invoke from parental classes Bird, Horse. Reasign the parental methods via &quot;super&quot;" />
+    <MESSAGE value="finished Python Essential(less. 2) Inheritance and polimorphizm" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished Python Essential(less. 2) Inheritance and polimorphizm" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -846,32 +835,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/function_example.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="178" selection-start-line="178" selection-end-line="178" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shengen.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/schengen_calculator_via_functions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-316" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/schengen_homework_lesson4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Info__Dict_List_Tuple_Set/set_mnozhestva.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -1062,10 +1025,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Classes_in_Python/my_class_info.py">
+    <entry file="file://$PROJECT_DIR$/Inheritance_and_Polimorphizm/01-multiple-inheritance.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/265517505/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7157">
-          <caret line="421" column="17" selection-start-line="421" selection-start-column="17" selection-end-line="421" selection-end-column="17" />
+        <state relative-caret-position="228">
+          <caret line="251" column="80" lean-forward="true" selection-start-line="251" selection-start-column="80" selection-end-line="252" selection-end-column="79" />
         </state>
       </provider>
     </entry>
@@ -1073,10 +1039,11 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Classes_in_Python/01-classes-as-objects.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Inheritance_and_Polimorphizm/01-multiple-inheritance.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="45" lean-forward="true" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Inheritance_and_Polimorphizm/02-mro.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -1088,17 +1055,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/265517505/builtins.py">
+    <entry file="file://$PROJECT_DIR$/Inheritance_and_Polimorphizm/00-inheritance.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="251" column="80" lean-forward="true" selection-start-line="251" selection-start-column="80" selection-end-line="252" selection-end-column="79" />
+        <state relative-caret-position="-2">
+          <caret line="373" lean-forward="true" selection-start-line="373" selection-end-line="373" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Inheritance_and_Polimorphizm/00-inheritance.py">
+    <entry file="file://$PROJECT_DIR$/Classes_in_Python/my_class_info.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="403" column="3" selection-start-line="403" selection-start-column="3" selection-end-line="403" selection-end-column="3" />
+        <state relative-caret-position="150">
+          <caret line="421" column="17" selection-start-line="421" selection-start-column="17" selection-end-line="421" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/00-runtime_error.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/01-raise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/my_file_try_exept.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/03-try_except.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
