@@ -12,4 +12,17 @@ def Sum(a, b):
   if a < 0:
       raise ValueError("Invalid argument")
 
-       return a + b
+      return a + b
+print("-------------------------------------------------------------------------------")
+
+"""
+  При b = 0, функция генерирует стандартное исключение с текстом - "Division by zero"
+"""
+
+def div(a, b):
+
+    if b==0:
+
+        raise ZeroDivisionError("Division by zero")
+    return a / b
+

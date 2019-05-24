@@ -2,29 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed596d89-71b2-429a-b04c-09a902a2a0f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/00-runtime_error.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/01-raise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/02-raise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/03-try_except.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/04-try_except.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/05-incorrect_except_order.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/06-multiple_exceptions_in_single_clause.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/07-default_except_clause.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/08-unhandled_exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/09-unhandled_exception_in_inner_try.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/10-exception_in_destructor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/11-raise_in_except.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/12-raise_another_exception_in_except.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/13-raise_from.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/14-raise_from_None.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/15-else.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/16-finally.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/17-try-finally.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/18-warnings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/19-lbyl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/20-eafp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/my_file_try_exept.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/03-try_except.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/03-try_except.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/03-try_except.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="372">
+              <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -119,8 +98,8 @@
         <option value="$PROJECT_DIR$/def_hello_w.py" />
         <option value="$PROJECT_DIR$/Classes_in_Python/my_class_info.py" />
         <option value="$PROJECT_DIR$/Inheritance_and_Polimorphizm/00-inheritance.py" />
-        <option value="$PROJECT_DIR$/Exeptions_Allerts_Asserts/03-try_except.py" />
         <option value="$PROJECT_DIR$/Exeptions_Allerts_Asserts/my_file_try_exept.py" />
+        <option value="$PROJECT_DIR$/Exeptions_Allerts_Asserts/03-try_except.py" />
       </list>
     </option>
   </component>
@@ -663,7 +642,14 @@
       <option name="project" value="LOCAL" />
       <updated>1558630201337</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="added sample: raise &amp; ValueError exception">
+      <created>1558714003402</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1558714003402</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -775,7 +761,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
-    <MESSAGE value="added view about round, .strip func. Added calculation average temperature in Kiev" />
     <MESSAGE value="added file for avg temperature, write in file avg.temperature" />
     <MESSAGE value="added loop for read and write to list" />
     <MESSAGE value="added code for read txt file by lives via loop" />
@@ -800,7 +785,8 @@
     <MESSAGE value="added how to invoke parent methods in child classes" />
     <MESSAGE value="added pegasus class which invoke from parental classes Bird, Horse. Reasign the parental methods via &quot;super&quot;" />
     <MESSAGE value="finished Python Essential(less. 2) Inheritance and polimorphizm" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished Python Essential(less. 2) Inheritance and polimorphizm" />
+    <MESSAGE value="added sample: raise &amp; ValueError exception" />
+    <option name="LAST_COMMIT_MESSAGE" value="added sample: raise &amp; ValueError exception" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1088,8 +1074,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/03-try_except.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="372">
+          <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
         </state>
       </provider>
     </entry>
