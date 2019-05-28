@@ -54,7 +54,27 @@ TypeError: unsupported operand type
 print("--------------------------------3-----------------------------------------------")
 
 
-try:
-    raise  ValueError
-except ZeroDivisionError:
-    print("division by zero is prohibited")
+# try:
+#     raise  ValueError
+# except ZeroDivisionError:
+#     print("division by zero is prohibited")
+
+print("--------------------------------4-----------------------------------------------")
+
+
+"""
+ Обработайте ошибку деления на ноль. В случае деления на ноль, функция выдает на консоль слово “Infinity”
+"""
+
+
+def Div(a, b):
+    a = 5
+    b = 0
+
+    try:
+        result = a / b
+
+    except ZeroDivisionError:
+        return print(result)
+
+#TODO доробити код
