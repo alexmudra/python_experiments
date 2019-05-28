@@ -20,7 +20,7 @@ def Sum(a, b):
       raise ValueError("Invalid argument")
 
       return a + b
-print("-------------------------------------------------------------------------------")
+print("-------------------------------1------------------------------------------------")
 
 """
   При b = 0, функция генерирует стандартное исключение с текстом - "Division by zero"
@@ -33,20 +33,28 @@ def div(a, b):
         raise ZeroDivisionError("Division by zero")
     return a / b
 
-print("-------------------------------------------------------------------------------")
+print("--------------------------------2-----------------------------------------------")
 
 """
  При type(arg) == type('str'), функция генерирует стандартное исключение с текстом "unsupported operand type"
 """
-def Exp(arg):
-
-    if type(arg) == type('str'):
-        raise TypeError ("unsupported operand type")
-    return arg ** 2
-
-print(Exp("skdjfkjsd"))
+# def Exp(arg):
+#
+#     if type(arg) == type('str'):
+#         raise TypeError("unsupported operand type")
+#     return arg ** 2
+#
+# print(Exp("skdjfkjsd"))
 
 """
     raise TypeError ("unsupported operand type")
 TypeError: unsupported operand type
 """
+
+print("--------------------------------3-----------------------------------------------")
+
+
+try:
+    raise  ValueError
+except ZeroDivisionError:
+    print("division by zero is prohibited")

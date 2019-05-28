@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed596d89-71b2-429a-b04c-09a902a2a0f0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/homework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/homework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/03-try_except.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/03-try_except.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/02-raise.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/02-raise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/my_file_try_exept.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exeptions_Allerts_Asserts/my_file_try_exept.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,21 +20,61 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/15-else.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/16-finally.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/17-try-finally.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/18-warnings.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/my_file_try_exept.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+            <state relative-caret-position="559">
+              <caret line="59" column="33" selection-start-line="56" selection-end-line="59" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/03-try_except.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/04-try_except.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/01-raise.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/02-raise.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/19-lbyl.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -43,15 +86,18 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>def</find>
+      <find>appe</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/HW_2.py" />
-        <option value="$USER_HOME$/Python/Code/shahmati.py" />
-        <option value="$PROJECT_DIR$/input numbers.py" />
         <option value="$PROJECT_DIR$/shahmati.py" />
         <option value="$PROJECT_DIR$/num_count_10.py" />
         <option value="$PROJECT_DIR$/exit.py" />
@@ -80,7 +126,6 @@
         <option value="$PROJECT_DIR$/5_dict.py" />
         <option value="$PROJECT_DIR$/schengen_homework_lesson4.py" />
         <option value="$PROJECT_DIR$/recursia.py" />
-        <option value="$PROJECT_DIR$/Info__Dict_List_Tuple_Set/list.py" />
         <option value="$PROJECT_DIR$/work_with_file.py" />
         <option value="$PROJECT_DIR$/week_temp.txt" />
         <option value="$PROJECT_DIR$/week_temper_by_city.py" />
@@ -93,13 +138,17 @@
         <option value="$PROJECT_DIR$/Info__Dict_List_Tuple_Set/dictionary.py" />
         <option value="$PROJECT_DIR$/HomeWork2.py" />
         <option value="$PROJECT_DIR$/enrer_pass_check_pass.py" />
-        <option value="$PROJECT_DIR$/for.py" />
         <option value="$PROJECT_DIR$/square_with_spaces.py" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/def_hello_w.py" />
+        <option value="$PROJECT_DIR$/Info__Dict_List_Tuple_Set/list.py" />
+        <option value="$PROJECT_DIR$/for.py" />
+        <option value="$USER_HOME$/Downloads/001_Введение в ООП/Examples/03-data-attributes.py" />
+        <option value="$PROJECT_DIR$/1 exersice.py" />
+        <option value="$PROJECT_DIR$/class_info.py" />
         <option value="$PROJECT_DIR$/Classes_in_Python/my_class_info.py" />
-        <option value="$PROJECT_DIR$/Inheritance_and_Polimorphizm/00-inheritance.py" />
         <option value="$PROJECT_DIR$/Exeptions_Allerts_Asserts/my_file_try_exept.py" />
-        <option value="$PROJECT_DIR$/Exeptions_Allerts_Asserts/03-try_except.py" />
+        <option value="$PROJECT_DIR$/Exeptions_Allerts_Asserts/02-raise.py" />
       </list>
     </option>
   </component>
@@ -125,6 +174,11 @@
             <path>
               <item name="python_experiments" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_experiments" type="462c0819:PsiDirectoryNode" />
+              <item name="Classes_in_Python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_experiments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_experiments" type="462c0819:PsiDirectoryNode" />
               <item name="Exeptions_Allerts_Asserts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -135,10 +189,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="ToolWindowThumbnails.ShowToolbar" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/bin" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -171,29 +225,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.03-try_except">
-    <configuration name="00-inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="homework" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Inheritance_and_Polimorphizm" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Inheritance_and_Polimorphizm/00-inheritance.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="03-try_except" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.02-raise">
+    <configuration name="02-raise" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -205,7 +238,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exeptions_Allerts_Asserts/03-try_except.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exeptions_Allerts_Asserts/02-raise.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -214,7 +247,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="10-magic-methods" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="05-__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -226,9 +259,30 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classes_in_Python/10-magic-methods.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classes_in_Python/05-__init__.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="18-warnings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exeptions_Allerts_Asserts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exeptions_Allerts_Asserts/18-warnings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -281,6 +335,9 @@
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exeptions_Allerts_Asserts" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -288,7 +345,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exeptions_Allerts_Asserts/my_file_try_exept.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -297,24 +354,24 @@
     </configuration>
     <list>
       <item itemvalue="Python.if else" />
+      <item itemvalue="Python.05-__init__" />
       <item itemvalue="Python.my_class_info" />
-      <item itemvalue="Python.10-magic-methods" />
-      <item itemvalue="Python.00-inheritance" />
+      <item itemvalue="Python.18-warnings" />
       <item itemvalue="Python.my_file_try_exept" />
-      <item itemvalue="Python.03-try_except" />
+      <item itemvalue="Python.02-raise" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.03-try_except" />
+        <item itemvalue="Python.02-raise" />
         <item itemvalue="Python.my_file_try_exept" />
-        <item itemvalue="Python.my_file_try_exept" />
-        <item itemvalue="Python.00-inheritance" />
+        <item itemvalue="Python.18-warnings" />
         <item itemvalue="Python.my_class_info" />
+        <item itemvalue="Python.05-__init__" />
       </list>
     </recent_temporary>
   </component>
   <component name="StructureViewFactory">
-    <option name="ACTIVE_ACTIONS" value=",SHOW_FIELDS" />
+    <option name="ACTIVE_ACTIONS" value=",SHOW_FIELDS,ALPHA_COMPARATOR" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -326,160 +383,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538812277279</updated>
-    </task>
-    <task id="LOCAL-00001" summary="added TODO">
-      <created>1541326848105</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1541326848105</updated>
-    </task>
-    <task id="LOCAL-00002" summary="added valueAddedTax and created collors file">
-      <created>1541334486762</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1541334486763</updated>
-    </task>
-    <task id="LOCAL-00003" summary="added more information about while loop">
-      <created>1544475385792</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1544475385792</updated>
-    </task>
-    <task id="LOCAL-00004" summary="added more information about for loop">
-      <created>1544477913506</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1544477913506</updated>
-    </task>
-    <task id="LOCAL-00005" summary="added more information about nested loops(вкладені цикли)">
-      <created>1544478374454</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1544478374454</updated>
-    </task>
-    <task id="LOCAL-00006" summary="added more information about function in Python">
-      <created>1544565847312</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1544565847312</updated>
-    </task>
-    <task id="LOCAL-00007" summary="added function with if...else conditions">
-      <created>1544827349072</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1544827349072</updated>
-    </task>
-    <task id="LOCAL-00008" summary="added code for build in functions complex functions">
-      <created>1545000913374</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1545000913374</updated>
-    </task>
-    <task id="LOCAL-00009" summary="added code for build in functions complex functions">
-      <created>1545000943259</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1545000943259</updated>
-    </task>
-    <task id="LOCAL-00010" summary="added local and global varables in functions">
-      <created>1545003220120</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1545003220120</updated>
-    </task>
-    <task id="LOCAL-00011" summary="added code with IN in lists and strings">
-      <created>1545420315345</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1545420315345</updated>
-    </task>
-    <task id="LOCAL-00012" summary="added append, del(index), fibonachi's numbers. Finish Python Starter">
-      <created>1545425364523</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1545425364523</updated>
-    </task>
-    <task id="LOCAL-00013" summary="added FOR loop to find data_type in json">
-      <created>1545430618644</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1545430618644</updated>
-    </task>
-    <task id="LOCAL-00014" summary="added second solution to find_name_aamount_in_json">
-      <created>1545763904692</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1545763904692</updated>
-    </task>
-    <task id="LOCAL-00015" summary="added type(x) to recognize the type in list">
-      <created>1545768847255</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1545768847255</updated>
-    </task>
-    <task id="LOCAL-00016" summary="added counter to list(needs to be debag)">
-      <created>1545859857011</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1545859857011</updated>
-    </task>
-    <task id="LOCAL-00017" summary="added dict examples(phones)">
-      <created>1547247714937</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1547247714938</updated>
-    </task>
-    <task id="LOCAL-00018" summary="added homework 4, start to add more countries in SET">
-      <created>1547494428822</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1547494428822</updated>
-    </task>
-    <task id="LOCAL-00019" summary="added homework 4,added worm countries, live_24_rate loop">
-      <created>1547503803120</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1547503803120</updated>
-    </task>
-    <task id="LOCAL-00020" summary="added simple recursion func">
-      <created>1548609415925</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1548609415926</updated>
-    </task>
-    <task id="LOCAL-00021" summary="added view about round, .strip func. Added calculation average temperature in Kiev">
-      <created>1548613265331</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1548613265331</updated>
-    </task>
-    <task id="LOCAL-00022" summary="added file for avg temperature, write in file avg.temperature">
-      <created>1549221245157</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1549221245158</updated>
     </task>
     <task id="LOCAL-00023" summary="added loop for read and write to list">
       <created>1549315065273</created>
@@ -565,91 +468,266 @@
       <option name="project" value="LOCAL" />
       <updated>1553548527296</updated>
     </task>
-    <task id="LOCAL-00035" summary="added conditions for def">
-      <created>1553804186720</created>
+    <task id="LOCAL-00035" summary="added def func (find 0 and 4n via FOR loop">
+      <created>1554226437147</created>
       <option name="number" value="00035" />
       <option name="presentableId" value="LOCAL-00035" />
       <option name="project" value="LOCAL" />
-      <updated>1553804186720</updated>
+      <updated>1554226437147</updated>
     </task>
-    <task id="LOCAL-00036" summary="added example getter and setter">
-      <created>1558373421201</created>
+    <task id="LOCAL-00036" summary="added def func2 (find 0 and 4n via FOR loop">
+      <created>1554226683658</created>
       <option name="number" value="00036" />
       <option name="presentableId" value="LOCAL-00036" />
       <option name="project" value="LOCAL" />
-      <updated>1558373421201</updated>
+      <updated>1554226683658</updated>
     </task>
-    <task id="LOCAL-00037" summary="added example one programming pattern Singleton">
-      <created>1558430220155</created>
+    <task id="LOCAL-00037" summary="added def func2 (find 0 and 4n via FOR loop">
+      <created>1554226689959</created>
       <option name="number" value="00037" />
       <option name="presentableId" value="LOCAL-00037" />
       <option name="project" value="LOCAL" />
-      <updated>1558430220155</updated>
+      <updated>1554226689959</updated>
     </task>
-    <task id="LOCAL-00038" summary="start learning Inheritance and Polimorphizm">
-      <created>1558441850128</created>
+    <task id="LOCAL-00038" summary="added def func1 (find 0 and 4n via FOR loop">
+      <created>1554310132338</created>
       <option name="number" value="00038" />
       <option name="presentableId" value="LOCAL-00038" />
       <option name="project" value="LOCAL" />
-      <updated>1558441850128</updated>
+      <updated>1554310132338</updated>
     </task>
-    <task id="LOCAL-00039" summary="added 12 files learning Inheritance and Polimorphizm">
-      <created>1558450979571</created>
+    <task id="LOCAL-00039" summary="added function with documentary string">
+      <created>1554312072289</created>
       <option name="number" value="00039" />
       <option name="presentableId" value="LOCAL-00039" />
       <option name="project" value="LOCAL" />
-      <updated>1558450979571</updated>
+      <updated>1554312072289</updated>
     </task>
-    <task id="LOCAL-00040" summary="added instance pegasus that multyinheritance 2 methods">
-      <created>1558532490155</created>
+    <task id="LOCAL-00040" summary="added function with documentary stting __doc__ console">
+      <created>1554312395239</created>
       <option name="number" value="00040" />
       <option name="presentableId" value="LOCAL-00040" />
       <option name="project" value="LOCAL" />
-      <updated>1558532490155</updated>
+      <updated>1554312395239</updated>
     </task>
-    <task id="LOCAL-00041" summary="added example __mro__ ((method resolution order&#10;¬– порядок разрешения методов)">
-      <created>1558544401600</created>
+    <task id="LOCAL-00041" summary="added func print to console max, min, abc values of a,b,c arguments">
+      <created>1554398611104</created>
       <option name="number" value="00041" />
       <option name="presentableId" value="LOCAL-00041" />
       <option name="project" value="LOCAL" />
-      <updated>1558544401600</updated>
+      <updated>1554398611104</updated>
     </task>
-    <task id="LOCAL-00042" summary="added example __mro__ ((method resolution order&#10;¬– порядок разрешения методов) for all classes in line">
-      <created>1558545165737</created>
+    <task id="LOCAL-00042" summary="added function to change global variable">
+      <created>1554745393535</created>
       <option name="number" value="00042" />
       <option name="presentableId" value="LOCAL-00042" />
       <option name="project" value="LOCAL" />
-      <updated>1558545165737</updated>
+      <updated>1554745393535</updated>
     </task>
-    <task id="LOCAL-00043" summary="added how to invoke parent methods in child classes">
-      <created>1558605553063</created>
+    <task id="LOCAL-00043" summary="added recursion func(add +1 to recursion)">
+      <created>1554830837361</created>
       <option name="number" value="00043" />
       <option name="presentableId" value="LOCAL-00043" />
       <option name="project" value="LOCAL" />
-      <updated>1558605553063</updated>
+      <updated>1554830837361</updated>
     </task>
-    <task id="LOCAL-00044" summary="added pegasus class which invoke from parental classes Bird, Horse. Reasign the parental methods via &quot;super&quot;">
-      <created>1558609748506</created>
+    <task id="LOCAL-00044" summary="added func recursion, imported funtools for memorising of function results">
+      <created>1554915255492</created>
       <option name="number" value="00044" />
       <option name="presentableId" value="LOCAL-00044" />
       <option name="project" value="LOCAL" />
-      <updated>1558609748506</updated>
+      <updated>1554915255492</updated>
     </task>
-    <task id="LOCAL-00045" summary="finished Python Essential(less. 2) Inheritance and polimorphizm">
-      <created>1558630201337</created>
+    <task id="LOCAL-00045" summary="added code about inbuild list function">
+      <created>1554916657893</created>
       <option name="number" value="00045" />
       <option name="presentableId" value="LOCAL-00045" />
       <option name="project" value="LOCAL" />
-      <updated>1558630201337</updated>
+      <updated>1554916657893</updated>
     </task>
-    <task id="LOCAL-00046" summary="added sample: raise &amp; ValueError exception">
-      <created>1558714003402</created>
+    <task id="LOCAL-00046" summary="added how to use in and loop to find value in LIST">
+      <created>1555085854754</created>
       <option name="number" value="00046" />
       <option name="presentableId" value="LOCAL-00046" />
       <option name="project" value="LOCAL" />
-      <updated>1558714003402</updated>
+      <updated>1555085854754</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="added view of slices with string">
+      <created>1555088072919</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1555088072919</updated>
+    </task>
+    <task id="LOCAL-00048" summary="added info about slices">
+      <created>1555343508805</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1555343508805</updated>
+    </task>
+    <task id="LOCAL-00049" summary="added how to use len in lists">
+      <created>1555432246349</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1555432246349</updated>
+    </task>
+    <task id="LOCAL-00050" summary="added examples: append, del, change, replace elements in LISTS">
+      <created>1555433532392</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1555433532393</updated>
+    </task>
+    <task id="LOCAL-00051" summary="added square number from list to 2 and used format &quot;{} ^ = {}&quot;...">
+      <created>1555434186142</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1555434186142</updated>
+    </task>
+    <task id="LOCAL-00052" summary="added code with Fibbonachi numbers">
+      <created>1555435230817</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1555435230817</updated>
+    </task>
+    <task id="LOCAL-00053" summary="added code with Fibbonachi numbers to for.py">
+      <created>1555519346335</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1555519346337</updated>
+    </task>
+    <task id="LOCAL-00054" summary="start working with OOP (https://itvdn.com/ru/video/python-essential)">
+      <created>1555520765144</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1555520765144</updated>
+    </task>
+    <task id="LOCAL-00055" summary="start working with OOP (https://itvdn.com/ru/video/python-essential)">
+      <created>1555521579221</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1555521579221</updated>
+    </task>
+    <task id="LOCAL-00056" summary="added example of class">
+      <created>1555521614134</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1555521614135</updated>
+    </task>
+    <task id="LOCAL-00057" summary="added example of class, reasigne class, created instance of Person class">
+      <created>1555951467806</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1555951467807</updated>
+    </task>
+    <task id="LOCAL-00058" summary="added files examples of OOP">
+      <created>1556038638729</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1556038638730</updated>
+    </task>
+    <task id="LOCAL-00059" summary="added class instances">
+      <created>1556038755790</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1556038755790</updated>
+    </task>
+    <task id="LOCAL-00060" summary="added simple example of @staticmethod, how to deal with __init__">
+      <created>1556124648413</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1556124648413</updated>
+    </task>
+    <task id="LOCAL-00061" summary="added simple example of decorator @staticmethod">
+      <created>1556127203346</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1556127203346</updated>
+    </task>
+    <task id="LOCAL-00062" summary="added info about classes in Py., with comments">
+      <created>1556127649319</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1556127649319</updated>
+    </task>
+    <task id="LOCAL-00063" summary="added class Car(sample)">
+      <created>1557245001272</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1557245001274</updated>
+    </task>
+    <task id="LOCAL-00064" summary="added class CarDealerShip(sample)">
+      <created>1557250492264</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1557250492264</updated>
+    </task>
+    <task id="LOCAL-00065" summary="added class refactored CarDealerShip(sample) with list []">
+      <created>1557415660384</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1557415660385</updated>
+    </task>
+    <task id="LOCAL-00066" summary="print results of @staticmethod CarDealerShip(sample) with list []">
+      <created>1557508595311</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1557508595311</updated>
+    </task>
+    <task id="LOCAL-00067" summary="print results of @staticmethod CarDealerShip(sample) with list []">
+      <created>1557508606980</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1557508606981</updated>
+    </task>
+    <task id="LOCAL-00068" summary="implemented &quot;напишите метод класса Triangle, с названием from_rectangle(), &#10;который будет возвращать равносторонний треугольник со стороной side, равной side_a четырехугольника Rectangle.&quot;">
+      <created>1557768147546</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1557768147546</updated>
+    </task>
+    <task id="LOCAL-00069" summary="start learning incapsullation in OOP">
+      <created>1557936607574</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1557936607574</updated>
+    </task>
+    <task id="LOCAL-00070" summary="added simple, private and protected attributes">
+      <created>1557941810033</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1557941810033</updated>
+    </task>
+    <task id="LOCAL-00071" summary="added get and set functions with (private and protected variables)">
+      <created>1558028402883</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1558028402883</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -694,24 +772,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="55" y="-4" width="1865" height="1084" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.37821782" side_tool="true" weight="0.25918886" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.6138614" visible="true" weight="0.24207859" />
-      <window_info id="Structure" order="2" sideWeight="0.38613862" side_tool="true" visible="true" weight="0.24207859" />
-      <window_info anchor="bottom" id="Thumbnails" weight="0.3293011" />
-      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49768364" weight="0.32258064" />
-      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5062872" side_tool="true" weight="0.32225063" />
-      <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.49966374" weight="0.32258064" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.6969697" visible="true" weight="0.20560747" />
+      <window_info id="Structure" order="2" sideWeight="0.3030303" side_tool="true" visible="true" weight="0.20560747" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49768364" weight="0.32313967" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5068719" side_tool="true" weight="0.32721713" />
+      <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.49917537" weight="0.28542304" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="5" sideWeight="0.4996691" weight="0.31989247" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49371278" visible="true" weight="0.32123655" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.39769822" />
+      <window_info anchor="bottom" id="Version Control" order="5" sideWeight="0.4996691" weight="0.32619774" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.4931281" visible="true" weight="0.32721713" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.3975535" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" weight="0.3252688" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32619774" />
       <window_info anchor="right" id="R Graphics" order="0" weight="0.32952252" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="R Packages" order="2" weight="0.32952252" />
@@ -760,33 +837,32 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
-    <MESSAGE value="added file for avg temperature, write in file avg.temperature" />
-    <MESSAGE value="added loop for read and write to list" />
-    <MESSAGE value="added code for read txt file by lives via loop" />
-    <MESSAGE value="added code for read txt file by lives via loop _2" />
-    <MESSAGE value="added first code with selenium" />
-    <MESSAGE value="added auth locators with selenium" />
-    <MESSAGE value="added login to tender DZO" />
-    <MESSAGE value="added code from itvdn" />
-    <MESSAGE value="added code chek negative numbers with while" />
-    <MESSAGE value="added code check not ever numbers via FOR" />
-    <MESSAGE value="added pass/not pass code via while loop" />
-    <MESSAGE value="added square figure via FOR loop" />
-    <MESSAGE value="added def function square numbers" />
-    <MESSAGE value="added conditions for def" />
-    <MESSAGE value="added example getter and setter" />
-    <MESSAGE value="added example one programming pattern Singleton" />
-    <MESSAGE value="start learning Inheritance and Polimorphizm" />
-    <MESSAGE value="added 12 files learning Inheritance and Polimorphizm" />
-    <MESSAGE value="added instance pegasus that multyinheritance 2 methods" />
-    <MESSAGE value="added example __mro__ ((method resolution order&#10;¬– порядок разрешения методов)" />
-    <MESSAGE value="added example __mro__ ((method resolution order&#10;¬– порядок разрешения методов) for all classes in line" />
-    <MESSAGE value="added how to invoke parent methods in child classes" />
-    <MESSAGE value="added pegasus class which invoke from parental classes Bird, Horse. Reasign the parental methods via &quot;super&quot;" />
-    <MESSAGE value="finished Python Essential(less. 2) Inheritance and polimorphizm" />
-    <MESSAGE value="added sample: raise &amp; ValueError exception" />
-    <option name="LAST_COMMIT_MESSAGE" value="added sample: raise &amp; ValueError exception" />
+    <MESSAGE value="added view of slices with string" />
+    <MESSAGE value="added info about slices" />
+    <MESSAGE value="added examples with entry the substring to main string" />
+    <MESSAGE value="added how to use len in lists" />
+    <MESSAGE value="added examples: append, del, change, replace elements in LISTS" />
+    <MESSAGE value="added square number from list to 2 and used format &quot;{} ^ = {}&quot;..." />
+    <MESSAGE value="added code with Fibbonachi numbers" />
+    <MESSAGE value="added code with Fibbonachi numbers to for.py" />
+    <MESSAGE value="start working with OOP (https://itvdn.com/ru/video/python-essential)" />
+    <MESSAGE value="added example of class" />
+    <MESSAGE value="added example of class, reasigne class, created instance of Person class" />
+    <MESSAGE value="added files examples of OOP" />
+    <MESSAGE value="added class instances" />
+    <MESSAGE value="added simple example of @staticmethod, how to deal with __init__" />
+    <MESSAGE value="added simple example of decorator @staticmethod" />
+    <MESSAGE value="added info about classes in Python, with comments" />
+    <MESSAGE value="added info about classes in Py., with comments" />
+    <MESSAGE value="added class Car(sample)" />
+    <MESSAGE value="added class CarDealerShip(sample)" />
+    <MESSAGE value="added class refactored CarDealerShip(sample) with list []" />
+    <MESSAGE value="print results of @staticmethod CarDealerShip(sample) with list []" />
+    <MESSAGE value="implemented &quot;напишите метод класса Triangle, с названием from_rectangle(), &#10;который будет возвращать равносторонний треугольник со стороной side, равной side_a четырехугольника Rectangle.&quot;" />
+    <MESSAGE value="start learning incapsullation in OOP" />
+    <MESSAGE value="added simple, private and protected attributes" />
+    <MESSAGE value="added get and set functions with (private and protected variables)" />
+    <option name="LAST_COMMIT_MESSAGE" value="added get and set functions with (private and protected variables)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -821,261 +897,242 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Info__Dict_List_Tuple_Set/set_mnozhestva.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Info__Dict_List_Tuple_Set/convert_dict.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recursia.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pict.jpg" />
-    <entry file="file://$PROJECT_DIR$/my_file.txt" />
-    <entry file="file://$PROJECT_DIR$/work_with_file.py" />
-    <entry file="file://$PROJECT_DIR$/temperature.txt" />
-    <entry file="file://$PROJECT_DIR$/temperature_deviation.txt" />
-    <entry file="file://$PROJECT_DIR$/week_temper_by_city.py" />
-    <entry file="file://$PROJECT_DIR$/week_temp.txt" />
-    <entry file="file://$PROJECT_DIR$/Info__Dict_List_Tuple_Set/list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2745">
-          <caret line="183" selection-start-line="176" selection-end-line="186" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium/geckodriver.log" />
-    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/selenium/webdriver/remote/errorhandler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3550">
-          <caret line="241" selection-start-line="241" selection-end-line="241" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/itvdn.py" />
-    <entry file="file://$PROJECT_DIR$/if else.py" />
-    <entry file="file://$PROJECT_DIR$/average_temperature.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium/auth_test_.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5_dict.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/average_temp_file.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exit2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1 exersice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-393" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2 exersice (copy).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-390" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/find_data_type_in_json.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/for_while.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-87">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/format.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1665" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/functions_build_in.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HW2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-104" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Info__Dict_List_Tuple_Set/dictionary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/loops.py" />
-    <entry file="file://$PROJECT_DIR$/my.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5542">
-          <caret line="326" column="27" selection-start-line="326" selection-start-column="27" selection-end-line="326" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWork2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/while.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="662">
-          <caret line="131" selection-start-line="131" selection-end-line="131" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/enrer_pass_check_pass.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
+        <state relative-caret-position="270">
           <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/square_with_spaces_via_for_loop.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="165">
           <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/def_hello_w.py">
+    <entry file="file:///usr/lib/python3.5/codecs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="323" selection-start-line="323" selection-end-line="323" />
+        <state relative-caret-position="188">
+          <caret line="308" selection-start-line="308" selection-end-line="308" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/while.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1965">
+          <caret line="131" selection-start-line="131" selection-end-line="131" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/def_hello_w.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Info__Dict_List_Tuple_Set/list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="369" column="35" lean-forward="true" selection-start-line="358" selection-end-line="369" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/for.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="662">
-          <caret line="259" column="9" selection-start-line="259" selection-start-column="9" selection-end-line="259" selection-end-column="9" />
+        <state relative-caret-position="584">
+          <caret line="273" column="35" selection-start-line="273" selection-start-column="35" selection-end-line="273" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/countries_sea_shengen.py">
+    <entry file="file://$PROJECT_DIR$/function_example.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-748">
-          <caret line="79" column="3" lean-forward="true" selection-start-line="79" selection-start-column="3" selection-end-line="79" selection-end-column="3" />
+        <state relative-caret-position="2670">
+          <caret line="178" selection-start-line="178" selection-end-line="178" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exit.py">
+    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/00-simple-class.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-136">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        <state relative-caret-position="120">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cheks.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Inheritance_and_Polimorphizm/01-multiple-inheritance.py">
+    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/01-classes-as-objects.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/265517505/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="251" column="80" lean-forward="true" selection-start-line="251" selection-start-column="80" selection-end-line="252" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classes_in_Python/00-simple-class.py">
+    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/02-class-attributes.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Classes_in_Python/01-classes-as-objects.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="45" lean-forward="true" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Inheritance_and_Polimorphizm/02-mro.py">
+    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/04-methods.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Classes_in_Python/10-magic-methods.py">
+    <entry file="file://$PROJECT_DIR$/1 exersice.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Inheritance_and_Polimorphizm/00-inheritance.py">
+    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/07-static-methods.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2">
-          <caret line="373" lean-forward="true" selection-start-line="373" selection-end-line="373" />
+        <state relative-caret-position="-52">
+          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="15" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class_info.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1433111049/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="105" column="8" lean-forward="true" selection-start-line="105" selection-start-column="8" selection-end-line="105" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/03-data-attributes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/05-__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/06-methods-outside-a-class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/08-class-methods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="73" selection-start-line="10" selection-start-column="73" selection-end-line="10" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/09-private-members.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/10-magic-methods.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Classes_in_Python/my_class_info.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="421" column="17" selection-start-line="421" selection-start-column="17" selection-end-line="421" selection-end-column="17" />
+        <state relative-caret-position="-794">
+          <caret line="293" column="27" selection-start-line="293" selection-start-column="27" selection-end-line="293" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/00-runtime_error.py">
+    <entry file="file://$PROJECT_DIR$/Classes_in_Python/09-private-members.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/12-password-protected-field.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/01-raise.py">
+    <entry file="file://$PROJECT_DIR$/Classes_in_Python/05-__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="360">
+          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="16" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes_in_Python/04-methods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes_in_Python/03-data-attributes.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes_in_Python/06-methods-outside-a-class.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes_in_Python/08-class-methods.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/001_Введение в ООП/Examples/11-singleton.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes_in_Python/07-static-methods.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/05-incorrect_except_order.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/06-multiple_exceptions_in_single_clause.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/07-default_except_clause.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/08-unhandled_exception.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/09-unhandled_exception_in_inner_try.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/10-exception_in_destructor.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/11-raise_in_except.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/12-raise_another_exception_in_except.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/14-raise_from_None.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/15-else.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/16-finally.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/17-try-finally.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/19-lbyl.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/18-warnings.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/my_file_try_exept.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        <state relative-caret-position="559">
+          <caret line="59" column="33" selection-start-line="56" selection-end-line="59" selection-end-column="43" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/04-try_except.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/01-raise.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/03-try_except.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/02-raise.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
