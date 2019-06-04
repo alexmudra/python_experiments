@@ -34,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/my_file_try_exept.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="469">
-              <caret line="71" column="9" lean-forward="true" selection-start-line="69" selection-end-line="77" />
+            <state relative-caret-position="394">
+              <caret line="88" column="7" lean-forward="true" selection-start-line="88" selection-start-column="7" selection-end-line="88" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -59,7 +59,7 @@
         <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/02-raise.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -67,8 +67,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Classes_in_Python/my_class_info.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="424" column="65" lean-forward="true" selection-start-line="424" selection-start-column="65" selection-end-line="424" selection-end-column="65" />
+            <state relative-caret-position="6360">
+              <caret line="424" column="65" selection-start-line="424" selection-start-column="65" selection-end-line="424" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -165,7 +165,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -173,15 +172,11 @@
               <item name="python_experiments" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_experiments" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="python_experiments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_experiments" type="462c0819:PsiDirectoryNode" />
-              <item name="Exeptions_Allerts_Asserts" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -331,9 +326,6 @@
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exeptions_Allerts_Asserts" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -341,7 +333,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exeptions_Allerts_Asserts/my_file_try_exept.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -359,10 +351,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.my_file_try_exept" />
+        <item itemvalue="Python.my_file_try_exept" />
         <item itemvalue="Python.my_class_info" />
         <item itemvalue="Python.02-raise" />
         <item itemvalue="Python.18-warnings" />
-        <item itemvalue="Python.05-__init__" />
       </list>
     </recent_temporary>
   </component>
@@ -379,13 +371,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538812277279</updated>
-    </task>
-    <task id="LOCAL-00024" summary="added code for read txt file by lives via loop">
-      <created>1549316577049</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1549316577049</updated>
     </task>
     <task id="LOCAL-00025" summary="added code for read txt file by lives via loop _2">
       <created>1551126952038</created>
@@ -723,7 +708,14 @@
       <option name="project" value="LOCAL" />
       <updated>1559027514862</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="added try/except ZeroDivisionError due to a/b">
+      <created>1559064987988</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1559064987988</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -769,14 +761,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-4" width="1867" height="1085" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.37821782" side_tool="true" weight="0.25918886" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.69614834" visible="true" weight="0.20780648" />
-      <window_info id="Structure" order="2" sideWeight="0.30385163" side_tool="true" visible="true" weight="0.20780648" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.6947218" visible="true" weight="0.21000549" />
+      <window_info id="Structure" order="2" sideWeight="0.30527818" side_tool="true" visible="true" weight="0.21000549" />
       <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49768364" weight="0.32313967" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5068719" side_tool="true" weight="0.32721713" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="2" sideWeight="0.49917537" visible="true" weight="0.28542304" />
+      <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.49917537" visible="true" weight="0.28542304" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" sideWeight="0.4996691" weight="0.32619774" />
@@ -833,7 +824,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added info about slices" />
     <MESSAGE value="added examples with entry the substring to main string" />
     <MESSAGE value="added how to use len in lists" />
     <MESSAGE value="added examples: append, del, change, replace elements in LISTS" />
@@ -858,7 +848,8 @@
     <MESSAGE value="added simple, private and protected attributes" />
     <MESSAGE value="added get and set functions with (private and protected variables)" />
     <MESSAGE value="added try/except to ZeroDivisionError" />
-    <option name="LAST_COMMIT_MESSAGE" value="added try/except to ZeroDivisionError" />
+    <MESSAGE value="added try/except ZeroDivisionError due to a/b" />
+    <option name="LAST_COMMIT_MESSAGE" value="added try/except ZeroDivisionError due to a/b" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1108,27 +1099,27 @@
     <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/01-raise.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/19-lbyl.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/02-raise.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Classes_in_Python/my_class_info.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="424" column="65" lean-forward="true" selection-start-line="424" selection-start-column="65" selection-end-line="424" selection-end-column="65" />
+        <state relative-caret-position="6360">
+          <caret line="424" column="65" selection-start-line="424" selection-start-column="65" selection-end-line="424" selection-end-column="65" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/19-lbyl.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/my_file_try_exept.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
-          <caret line="71" column="9" lean-forward="true" selection-start-line="69" selection-end-line="77" />
+        <state relative-caret-position="394">
+          <caret line="88" column="7" lean-forward="true" selection-start-line="88" selection-start-column="7" selection-end-line="88" selection-end-column="7" />
         </state>
       </provider>
     </entry>

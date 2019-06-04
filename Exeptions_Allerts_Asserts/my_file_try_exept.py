@@ -75,6 +75,26 @@ def Div(a, b):
         result = a / b
 
     except ZeroDivisionError:
-        return print(result)
+        return print("Infinity")
 
 #TODO доробити код
+
+
+print("--------------------------------5-----------------------------------------------")
+
+
+
+try:
+    pass
+except:
+    pass
+except Exception1:
+    pass
+except Exception2, Exception3, Exception4:
+    pass
+except Exception5 as exception:
+    pass
+finally:
+    pass
+else:
+    pass
