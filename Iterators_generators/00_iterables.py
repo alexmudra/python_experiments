@@ -12,4 +12,5 @@ for element in my_list:
 
 # Функция enumerate возвращает итерабельный объект, который возвращает пары индекс-значение
 for index, element in enumerate(my_list):
-    print('my_list[{}] = {}'.format(index, element))
+    print('my_list[{}] = {}'.format(index, element)) #використав format з =
+    print('my_list {} is {}'.format(index, element)) #використав format wit hstring and value
