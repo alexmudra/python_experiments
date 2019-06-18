@@ -2,11 +2,12 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/Iterators_generators/00_iterables.py" line="15" />
+    <bookmark url="file://$PROJECT_DIR$/Iterators_generators/my_file_to_iterators_generators.py" line="45" mnemonic="3" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed596d89-71b2-429a-b04c-09a902a2a0f0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Iterators_generators/00_iterables.py" beforeDir="false" afterPath="$PROJECT_DIR$/Iterators_generators/00_iterables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Iterators_generators/my_file_to_iterators_generators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Iterators_generators/my_file_to_iterators_generators.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,32 +20,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/17-try-finally.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/18-warnings.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/my_file_try_exept.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Iterators_generators/my_file_to_iterators_generators.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1080">
-              <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+            <state relative-caret-position="578">
+              <caret line="74" selection-start-line="74" selection-end-line="74" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Iterators_generators/00_iterables.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <caret line="16" selection-start-line="13" selection-end-line="14" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Iterators_generators/01-iterables.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Iterators_generators/02-iterables.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -106,7 +107,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/num_count_10.py" />
         <option value="$PROJECT_DIR$/exit.py" />
         <option value="$PROJECT_DIR$/input10Numbers.py" />
         <option value="$PROJECT_DIR$/pong.py" />
@@ -157,6 +157,7 @@
         <option value="$PROJECT_DIR$/Exeptions_Allerts_Asserts/02-raise.py" />
         <option value="$PROJECT_DIR$/Exeptions_Allerts_Asserts/my_file_try_exept.py" />
         <option value="$PROJECT_DIR$/Iterators_generators/00_iterables.py" />
+        <option value="$PROJECT_DIR$/Iterators_generators/my_file_to_iterators_generators.py" />
       </list>
     </option>
   </component>
@@ -228,7 +229,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.00_iterables">
+  <component name="RunManager" selected="Python.my_file_to_iterators_generators">
     <configuration name="00_iterables" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -263,27 +264,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exeptions_Allerts_Asserts/02-raise.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="18-warnings" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="homework" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exeptions_Allerts_Asserts" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exeptions_Allerts_Asserts/18-warnings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -334,6 +314,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="my_file_to_iterators_generators" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Iterators_generators" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iterators_generators/my_file_to_iterators_generators.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="my_file_try_exept" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -358,18 +359,18 @@
     <list>
       <item itemvalue="Python.if else" />
       <item itemvalue="Python.my_class_info" />
-      <item itemvalue="Python.18-warnings" />
       <item itemvalue="Python.my_file_try_exept" />
       <item itemvalue="Python.02-raise" />
       <item itemvalue="Python.00_iterables" />
+      <item itemvalue="Python.my_file_to_iterators_generators" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.my_file_to_iterators_generators" />
         <item itemvalue="Python.00_iterables" />
         <item itemvalue="Python.my_file_try_exept" />
         <item itemvalue="Python.my_file_try_exept" />
         <item itemvalue="Python.my_class_info" />
-        <item itemvalue="Python.02-raise" />
       </list>
     </recent_temporary>
   </component>
@@ -386,20 +387,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538812277279</updated>
-    </task>
-    <task id="LOCAL-00026" summary="added first code with selenium">
-      <created>1551645832737</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1551645832737</updated>
-    </task>
-    <task id="LOCAL-00027" summary="added auth locators with selenium">
-      <created>1551650757244</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1551650757244</updated>
     </task>
     <task id="LOCAL-00028" summary="added login to tender DZO">
       <created>1552247712014</created>
@@ -730,7 +717,21 @@
       <option name="project" value="LOCAL" />
       <updated>1559670015341</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="start working with iterators and generators, added format and value">
+      <created>1560446926311</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1560446926311</updated>
+    </task>
+    <task id="LOCAL-00076" summary="cover the list + use the format">
+      <created>1560448242710</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1560448242710</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -775,12 +776,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="55" y="-4" width="1865" height="1084" extended-state="6" />
+    <frame x="54" y="-4" width="1867" height="1085" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.37821782" side_tool="true" weight="0.25918886" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.69242424" visible="true" weight="0.2122045" />
-      <window_info id="Structure" order="2" sideWeight="0.30757576" side_tool="true" visible="true" weight="0.2122045" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.6909091" visible="true" weight="0.21440352" />
+      <window_info id="Structure" order="2" sideWeight="0.3090909" side_tool="true" visible="true" weight="0.21440352" />
       <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49768364" weight="0.32221064" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5068719" side_tool="true" weight="0.32721713" />
       <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.49917537" weight="0.28542304" />
@@ -840,8 +841,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added how to use len in lists" />
-    <MESSAGE value="added examples: append, del, change, replace elements in LISTS" />
     <MESSAGE value="added square number from list to 2 and used format &quot;{} ^ = {}&quot;..." />
     <MESSAGE value="added code with Fibbonachi numbers" />
     <MESSAGE value="added code with Fibbonachi numbers to for.py" />
@@ -865,7 +864,9 @@
     <MESSAGE value="added try/except to ZeroDivisionError" />
     <MESSAGE value="added try/except ZeroDivisionError due to a/b" />
     <MESSAGE value="start working with iterators and generators" />
-    <option name="LAST_COMMIT_MESSAGE" value="start working with iterators and generators" />
+    <MESSAGE value="start working with iterators and generators, added format and value" />
+    <MESSAGE value="cover the list + use the format" />
+    <option name="LAST_COMMIT_MESSAGE" value="cover the list + use the format" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -900,27 +901,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/square_with_spaces_via_for_loop.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/lib/python3.5/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="308" selection-start-line="308" selection-end-line="308" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/while.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1965">
-          <caret line="131" selection-start-line="131" selection-end-line="131" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/def_hello_w.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1106,6 +1086,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Iterators_generators/my_file_to_iterators_generators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iterators_generators/00_iterables.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="13" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iterators_generators/01-iterables.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iterators_generators/02-iterables.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/03-try_except.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1131,13 +1131,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Exeptions_Allerts_Asserts/19-lbyl.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Iterators_generators/00_iterables.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
     </entry>
   </component>
   <component name="masterDetails">
