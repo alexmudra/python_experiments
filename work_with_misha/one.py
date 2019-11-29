@@ -19,12 +19,12 @@
 """
 
 #Option 1
-def summ_num (first_num, sec_num, th_num):
-
-    return first_num+sec_num+th_num
-
-
-print(summ_num(12,10,15))
+# def summ_num (first_num, sec_num, th_num):
+#
+#     return first_num + sec_num + th_num
+#
+#
+# print(summ_num(12,10, 20))
 
 
 """
@@ -39,6 +39,7 @@ k = int(input("Введіть к-сть яблук: "))
 
 #перемінну х де яблука ділимо цілочисленно на к-сть учнів
 x = k // n
+print("kdsjfkjnsf", x)
 
 y = k - (x * n)
 print(k // n)
