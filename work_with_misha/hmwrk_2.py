@@ -59,13 +59,13 @@
 Сначала вводите количество чисел N, затем вводится ровно N целых чисел. 
 Какое наименьшее число переменных нужно для решения этой задачи?
 """
-
-n = int(input("Input the quantity of numbers: "))
-
-a = 0
-for i in range(int(input("Enter a number: "))):
-    a += int(input("Add the number to iterator: "))
-    print(i)
+#
+# n = int(input("Input the quantity of numbers: "))
+#
+# a = 0
+# for i in range(int(input("Enter a number: "))):
+#     a += int(input("Add the number to iterator: "))
+#     print(i)
 
 #не розумію
 
@@ -81,16 +81,113 @@ for i in range(int(input("Enter a number: "))):
 
 Для самых умных: массивами и аналогичными структурами данных пользоваться нельзя.
 """
+#
+# n = int(input())
+# sum = 0
+#
+# for i in range(1, n + 1):
+#     sum += i
+#
+# for i in range(1, n):
+#     sum -= int(input())
+#
+# print(sum)
 
-n = int(input())
+
+"""
+В некоторой школе занятия начинаются в 9:00. 
+Продолжительность урока — 45 минут, после 1-го, 3-го, 5-го и т.д.
+уроков перемена 5 минут, а после 2-го, 4-го, 6-го и т.д. — 15 минут.
+
+Дан номер урока (число от 1 до 10). 
+Определите, когда заканчивается указанный урок.
+
+Выведите два целых числа: время окончания урока в часах и минутах.
+"""
+
+# n = int(input("Enter the lesson number: "))
+# minutes_quantity = 0
+#
+# for i in range (1, n):
+#     minutes_quantity = minutes_quantity + 45
+#     if i % 2  == 0:
+#         minutes_quantity += 15
+#     if i % 2 != 0:
+#         minutes_quantity = minutes_quantity + 5
+#
+# add_one_lesson = minutes_quantity + 45
+# print("min:", add_one_lesson)
+#
+# convert_to_hour = add_one_lesson // 60
+# convert_to_min = add_one_lesson % 60
+#
+# print(convert_to_hour + 9)
+# print(convert_to_min)
+
+
+"""
+5)  Улитка ползет по вертикальному шесту высотой h метров, 
+
+поднимаясь за день на a метров, а за ночь спускаясь на b метров. 
+
+На какой день улитка доползет до вершины шеста?
+
+Программа получает на вход натуральные числа h, a, b.
+
+Программа должна вывести одно натуральное число. Гарантируется, что a>b.
+"""
+
+
+# highth = int(input("Visota palki: "))
+# a_up = int(input("Ulitka lezet vverh: "))
+# b_down = int(input("Ulitka opuskaetcya: "))
+
+# c_day = a_up - b_down
+#
+# res = highth / c_day
+#
+# if res != int(res):
+#     res = int(res) + 1
+#
+# print(res)
+
+
+#ulitka with while
+
+# step = 0
+# days = 0
+# while step < highth:
+#     step = step + a_up
+#     step = step - b_down
+#     days = days + 1
+#
+# print("total_days: ", days)
+
+
+
+
+"""
+НА фори
+
+1) Дано несколько чисел. Вычислите их сумму. Сначала вводите количество чисел N, затем вводится ровно N целых чисел.
+Какое наименьшее число переменных нужно для решения этой задачи?
+
+"""
+
+# n = int(input("killkist: "))
 sum = 0
+#
+# for i in range(0, n):
+#     sum += int(input())
+#
+# print("dsfkjdsf", sum)
 
-for i in range(1, n + 1):
-    sum += i
 
-for i in range(1, n):
-    sum -= int(input())
 
-print(sum)
+for i in range(0, int(input("kdksfjkf: "))):
+    sum += int(input())
+
+print("dsfkjdsf", sum)
+
 
 
