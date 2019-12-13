@@ -174,20 +174,47 @@
 
 """
 
-# n = int(input("killkist: "))
-sum = 0
+# # n = int(input("killkist: "))
+# sum = 0
+# #
+# # for i in range(0, n):
+# #     sum += int(input())
+# #
+# # print("dsfkjdsf", sum)
 #
-# for i in range(0, n):
+#
+#
+# for i in range(0, int(input("kdksfjkf: "))):
 #     sum += int(input())
 #
 # print("dsfkjdsf", sum)
 
 
 
-for i in range(0, int(input("kdksfjkf: "))):
-    sum += int(input())
+"""
 
-print("dsfkjdsf", sum)
+2) Для настольной игры используются карточки с номерами от 1 до N. 
+Одна карточка потерялась. 
+
+Найдите ее, зная номера оставшихся карточек.
+
+Дано число N, далее N − 1 номер оставшихся карточек (различные числа от 1 до N). 
+Программа должна вывести номер потерянной карточки.
+
+Для самых умных: массивами и аналогичными структурами данных пользоваться нельзя.
+
+"""
+n = int(input("Input card number: "))
+
+sum = 0
+
+for i in range(1, n + 1):
+    sum += i
+
+for i in range(1, n):
+    sum -= int(input("This is sum: "))
+
+print(sum)
 
 
 
