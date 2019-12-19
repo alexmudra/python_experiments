@@ -207,14 +207,16 @@
 n = int(input("Input card number: "))
 
 sum = 0
-
-for i in range(1, n + 1):
-    sum += i
+difference_sum = 0
 
 for i in range(1, n):
-    sum -= int(input("This is sum: "))
+    sum += int(input("This some number: "))
+    difference_sum += i
 
-print(sum)
+print(sum+n  - difference_sum)
+
+
+
 
 
 

@@ -2,6 +2,7 @@ import re
 
 q = "misha sasha masha kolya masha"
 
+
 print("Довжина стрінги: ",len(q))
 
 print("Результат frfind: ", q.rfind("kolya", 0,28))
@@ -50,3 +51,11 @@ print(a.endswith("SD"))
 # Сборка строки из списка с разделителем S
 print("-".join(["a", "l", "e", "x"]),'a-n-d-r')
 
+
+s = "55 ящик"
+
+result = re.findall(r'\w+$', "55 ящик")
+print("This is the last word: ", (result)[0])
+
+
+result = re.findall(r'\w+$', s)
