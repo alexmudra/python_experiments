@@ -247,10 +247,16 @@ print("=========================================================================
 
 
 num = int(input("Enter the nat. number: "))
+
 n = 0
 
 while num >= 2:
-    if
+    print(num)
+    num = +num % 2
+    if num != 1:
+        print("Num < 1 and =", num)
+    else:
+        print("Num > 1 and = ",num)
 
 print(num)
 
