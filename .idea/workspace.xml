@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed596d89-71b2-429a-b04c-09a902a2a0f0" name="Default Changelist" comment="homework_3 (slises, continue, break ect)">
-      <change afterPath="$PROJECT_DIR$/begin1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work_with_Gennadiy/begin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work_with_misha/for parse json.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/homework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/homework.iml" afterDir="false" />
+    <list default="true" id="ed596d89-71b2-429a-b04c-09a902a2a0f0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/begin1.py" beforeDir="false" afterPath="$PROJECT_DIR$/begin1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work_with_Gennadiy/begin.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_with_Gennadiy/Tasks from Abramyan book .py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +59,7 @@
   <component name="RobotOptionsProvider">
     <option name="capitalizeKeywords" value="true" />
   </component>
-  <component name="RunManager" selected="Python.begin1">
+  <component name="RunManager" selected="Python.Tasks from Abramyan book ">
     <configuration name="Python Console" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -75,6 +73,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="/Python Console" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Tasks from Abramyan book " type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/work_with_Gennadiy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/work_with_Gennadiy/Tasks from Abramyan book .py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,42 +186,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="regular expression" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="homework" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/regular expression.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.if else" />
       <item itemvalue="Python.Python Console" />
       <item itemvalue="Python.hmwrk_2" />
       <item itemvalue="Python.hmwrk_3" />
-      <item itemvalue="Python.regular expression" />
       <item itemvalue="Python.begin1" />
+      <item itemvalue="Python.Tasks from Abramyan book " />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Tasks from Abramyan book " />
         <item itemvalue="Python.begin1" />
         <item itemvalue="Python.hmwrk_3" />
         <item itemvalue="Python.Python Console" />
         <item itemvalue="Python.hmwrk_2" />
-        <item itemvalue="Python.regular expression" />
       </list>
     </recent_temporary>
   </component>
@@ -231,13 +229,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538812277279</updated>
-    </task>
-    <task id="LOCAL-00038" summary="added def func1 (find 0 and 4n via FOR loop">
-      <created>1554310132338</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1554310132338</updated>
     </task>
     <task id="LOCAL-00039" summary="added function with documentary string">
       <created>1554312072289</created>
@@ -575,7 +566,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577388738154</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="start learn Python with Gennadiy(first exercise)">
+      <created>1580911839109</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1580911839110</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TodoView" selected-index="1">
@@ -615,7 +613,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added simple example of decorator @staticmethod" />
     <MESSAGE value="added info about classes in Python, with comments" />
     <MESSAGE value="added info about classes in Py., with comments" />
     <MESSAGE value="added class Car(sample)" />
@@ -640,7 +637,8 @@
     <MESSAGE value="added solution for while" />
     <MESSAGE value="added 1st hmwrk with while" />
     <MESSAGE value="added 1st homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="added 1st homework" />
+    <MESSAGE value="start learn Python with Gennadiy(first exercise)" />
+    <option name="LAST_COMMIT_MESSAGE" value="start learn Python with Gennadiy(first exercise)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="451" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580736160784">
@@ -655,39 +653,39 @@
       <screen x="55" y="24" width="1865" height="1056" />
     </state>
     <state x="675" y="267" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1576001489884" />
-    <state x="599" y="135" key="CommitChangelistDialog2" timestamp="1577388738039">
+    <state x="599" y="135" key="CommitChangelistDialog2" timestamp="1580911838904">
       <screen x="55" y="24" width="1865" height="1056" />
     </state>
-    <state x="599" y="135" key="CommitChangelistDialog2/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1577388738039" />
+    <state x="599" y="135" key="CommitChangelistDialog2/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1580911838904" />
     <state x="599" y="135" key="CommitChangelistDialog2/55.24.1865.1056@55.24.1865.1056" timestamp="1576779158571" />
-    <state x="775" y="311" key="FileChooserDialogImpl" timestamp="1580735994935">
+    <state x="775" y="311" key="FileChooserDialogImpl" timestamp="1581078834507">
       <screen x="55" y="24" width="1865" height="1056" />
     </state>
-    <state x="775" y="311" key="FileChooserDialogImpl/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1580735994935" />
-    <state width="861" height="306" key="GridCell.Tab.0.bottom" timestamp="1580738674930">
+    <state x="775" y="311" key="FileChooserDialogImpl/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1581078834507" />
+    <state width="1842" height="306" key="GridCell.Tab.0.bottom" timestamp="1581097510041">
       <screen x="55" y="24" width="1865" height="1056" />
     </state>
-    <state width="861" height="306" key="GridCell.Tab.0.bottom/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1580738674930" />
+    <state width="1842" height="306" key="GridCell.Tab.0.bottom/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1581097510041" />
     <state width="1819" height="296" key="GridCell.Tab.0.bottom/55.24.1865.1056@55.24.1865.1056" timestamp="1576778574674" />
-    <state width="861" height="306" key="GridCell.Tab.0.center" timestamp="1580738674930">
+    <state width="1842" height="306" key="GridCell.Tab.0.center" timestamp="1581097510041">
       <screen x="55" y="24" width="1865" height="1056" />
     </state>
-    <state width="861" height="306" key="GridCell.Tab.0.center/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1580738674930" />
+    <state width="1842" height="306" key="GridCell.Tab.0.center/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1581097510041" />
     <state width="1819" height="296" key="GridCell.Tab.0.center/55.24.1865.1056@55.24.1865.1056" timestamp="1576778574674" />
-    <state width="861" height="306" key="GridCell.Tab.0.left" timestamp="1580738674930">
+    <state width="1842" height="306" key="GridCell.Tab.0.left" timestamp="1581097510041">
       <screen x="55" y="24" width="1865" height="1056" />
     </state>
-    <state width="861" height="306" key="GridCell.Tab.0.left/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1580738674930" />
+    <state width="1842" height="306" key="GridCell.Tab.0.left/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1581097510041" />
     <state width="1819" height="296" key="GridCell.Tab.0.left/55.24.1865.1056@55.24.1865.1056" timestamp="1576778574673" />
-    <state width="861" height="306" key="GridCell.Tab.0.right" timestamp="1580738674930">
+    <state width="1842" height="306" key="GridCell.Tab.0.right" timestamp="1581097510041">
       <screen x="55" y="24" width="1865" height="1056" />
     </state>
-    <state width="861" height="306" key="GridCell.Tab.0.right/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1580738674930" />
+    <state width="1842" height="306" key="GridCell.Tab.0.right/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1581097510041" />
     <state width="1819" height="296" key="GridCell.Tab.0.right/55.24.1865.1056@55.24.1865.1056" timestamp="1576778574674" />
-    <state x="481" y="188" key="SettingsEditor" timestamp="1580737871675">
+    <state x="481" y="188" key="SettingsEditor" timestamp="1581088661572">
       <screen x="55" y="24" width="1865" height="1056" />
     </state>
-    <state x="481" y="188" key="SettingsEditor/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1580737871675" />
+    <state x="481" y="188" key="SettingsEditor/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1581088661572" />
     <state x="587" y="275" key="Vcs.Push.Dialog.v2" timestamp="1577388167958">
       <screen x="55" y="24" width="1865" height="1056" />
     </state>
