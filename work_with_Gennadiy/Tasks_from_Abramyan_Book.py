@@ -33,7 +33,7 @@ def begin_3 ():
     print("Perimetr of square", perimetr)
 
 
-begin_3()
+#begin_3()
 
 #======================================= 4 ==================================================
 
@@ -48,7 +48,7 @@ def begin_3_or_pi ():
     print(cirkle_lenth)
     print("Резалт при використанніокругление до ближайшего большего числа.", math.ceil(cirkle_lenth))
 
-begin_3_or_pi()
+#begin_3_or_pi()
 
 
 
@@ -68,7 +68,7 @@ def begin_5_rebro_kuba():
     print("v_cub is = ", v_cube)
     print("s_cube is", s_cube)
 
-begin_5_rebro_kuba()
+#begin_5_rebro_kuba()
 
 
 
@@ -91,7 +91,7 @@ def begin_6_square_side():
     print("The square of square is: ",s_square)
 
 
-begin_6_square_side()
+#begin_6_square_side()
 
 
 #======================================= 7 ==================================================
@@ -111,9 +111,7 @@ def begin_7_lenth_square_sircle():
     print("circle length is: ", l_circle)
     print("square of cirlce is: ", s_circle)
 
-begin_7_lenth_square_sircle()
-
-
+#begin_7_lenth_square_sircle()
 
 #======================================= 8 ==================================================
 
@@ -128,7 +126,64 @@ def average_arithmetic ():
 
     print("average value a, b is: ", average_betuw_numbers)
 
-average_arithmetic()
+#average_arithmetic()
+
+
+#======================================= 9 ==================================================
+# Begin9◦
+#
+# . Даны два неотрицательных числа a и b. Найти их среднее геометри-
+# ческое, то есть квадратный корень из их произведения: √
+#
+# a·b.
+# зробити
+
+def begin_9 ():
+    a = float(input("a number? = "))
+    b = float(input("b number? = "))
+
+    average = sqrt(a*b)
+    print(average)
+
+#begin_9()
+
+
+
+
+
+#======================================= 13 ==================================================
+
+
+# Begin16◦
+# . Найти расстояние между двумя точками с заданными координатами x1 и x2 на числовой оси: |x2 − x1|.
+# Begin17◦
+# . Даны три точки A, B, C на числовой оси. Найти длины отрезков AC
+# и BC и их сумму
+
+def begin_13():
+    r1 = float(input("r1? = "))
+    r2 = float(input("r2? = "))
+
+    s1 = pi*r1*r1
+    s2 = pi*r2*r2
+    s3 = abs(s1-s2)
+
+    print("s1 = %5.3f " % s1)
+    print("s2 = %5.3f " % s2)
+    print("s3 = %5.3f " % s3)
+
+#begin_13()
+
+#======================================= 14 ==================================================
+
+
+
+
+
+
+
+
+
 
 #======================================= 20 ==================================================
 
@@ -137,6 +192,8 @@ average_arithmetic()
 # Расстояние вычисляется по формуле
 # q
 # (x 2 − x 1 ) 2 + (y 2 − y 1 ) 2"
+
+#abs по модулю
 
 
 def begin_20():
@@ -148,7 +205,7 @@ def begin_20():
     q = sqrt(pow(x2-x1,2)+ pow(y2-y1,2))
     print("q = ", q)
 
-begin_20()
+#begin_20()
 
 
 
