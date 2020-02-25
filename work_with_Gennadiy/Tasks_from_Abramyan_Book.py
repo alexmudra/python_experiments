@@ -263,9 +263,23 @@ def begin_21():
     x3 = float(input("x3 = "))
     y3 = float(input("y3 = "))
 
-    q = sqrt(pow(x2-x1,2)+pow(y2-y1,2))+pow(y3-y2,2)+pow(x3-x2,2)
-    ab = sqrt(sqrt(x2 - x1) + sqrt(y2 - y1))
+    a = sqrt(pow(x2-x1,2)+pow(y2-y1,2)) #взнаємо відстань від вершини до вершини, що і є сторона трикутника
+    b = sqrt(pow(x3-x2,2)+pow(y3-y2,2))
+    c = sqrt(pow(x1-x3,2)+pow(y1-y3,2))
 
-    print(ab)
+    p = (a+b+c)/2 #взнаємо полупериметрт
+    s = sqrt(p*(p-a)*(p-b)*(p-c)) #знахоимо плошу за формулою Герона
+
+
+    print("a is: ", a)
+    print("b is: ", b)
+    print("c is: ", c)
+    print("p is: ", p)
+    print("s is: ", s)
+
 begin_21()
+
+
+#======================================= 22 ==================================================
+
 
