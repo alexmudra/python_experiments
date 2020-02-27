@@ -308,9 +308,11 @@ def begin_23():
     b = float(input("b = "))
     c = float(input("c = "))
 
+    tmp = a
+
     a = b
     b = c
-    c = a
+    c = tmp
 
     print("a is b", a)
     print("b is c", b)
