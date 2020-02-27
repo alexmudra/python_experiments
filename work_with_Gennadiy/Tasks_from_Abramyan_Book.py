@@ -320,4 +320,34 @@ def begin_23():
 
 
 
-begin_23()
+#begin_23()
+
+
+#======================================= 24 ==================================================
+
+# Begin24 ◦ . Даны переменные A, B, C. Изменить их значения, переместив содер-
+# жимое A в C, C — в B, B — в A, и вывести новые значения переменных A,
+# B, C.
+
+def begin_24():
+
+    a = float(input("a = "))
+    b = float(input("b = "))
+    c = float(input("c = "))
+
+    tmpA = a
+    tmpB = b
+    tmpC = c
+
+    c = a
+    b = tmpC
+    a = tmpB
+
+
+    print("a to c",c)
+    print("c to b",b)
+    print("b to a",a)
+
+
+
+#begin_24()
