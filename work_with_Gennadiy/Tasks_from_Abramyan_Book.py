@@ -382,9 +382,12 @@ def begin_26():
 
     x = float(input("x = "))
 
-    y = 4*x-3**6 - 7*x-3**3+2
+    y = 4*(x-3)**6 - 7*(x-3)**3+2
+    z = 4*pow(x-3,6)- 7*pow(x-3,3)+2
+
 
     print("res of task 26 is: ", y)
+    print("res of task 26 is: ", z)
 
 #begin_26()
 
@@ -419,24 +422,18 @@ def begin_28():
     a = float(input("a = "))
 
     b = a * a
-    c = a * b
-
     print("a ^ 2: ", b)
 
     c = b * a
     print("a ^ 3:", c)
 
-    c = c * a
-    print("a ^ 5:", c)
+    b = c * b
+    print("a ^ 5:", b)
 
-    b = c * c
-    print("a ^ 10:", b) #чому тут не видає некоректний результат?
-    ca = a ** 10
-    print("a ^ 10:", ca)
+    c = b * b
+    print("c ^ 10:", c)
 
     c = b * c
-    print("a ^ 15", c)
-    ca_10 = a ** 15
     print("a ^ 15", c)
 
 
@@ -464,7 +461,9 @@ def begin_30():
 
     a_radian = float(input("a = "))
 
+    conv = a_radian*180/pi
     print(degrees(a_radian))
+    print(conv)
 
 #begin_30()
 
@@ -499,7 +498,7 @@ def begin_32():
     t_far_is=9/5*cels+32 # треба пояснення стосовно цього
     print(t_far_is)
 
-begin_32()
+#begin_32()
 
 #======================================= 33 ==================================================
 
@@ -508,12 +507,22 @@ begin_32()
 
 def begin_33():
 
-    candies = float(input("candies = "))
-    one_kg_price = float(input("price for kg is:"))
+    candies_kg = float(input("candies kg = "))
+    cost = float(input("cost = "))
 
-    kg_is = one_kg_price * candies
 
-    print(kg_is)
+    one_kg_price = cost/ candies_kg
 
-begin_33()
+
+    print(one_kg_price)
+
+    next_kg = float(input("next kg = "))
+
+    next_cost = next_kg * one_kg_price
+    print("next cost is: ", next_cost)
+
+#begin_33()
+
+#======================================= 34 ==================================================
+#домашня робота
 
