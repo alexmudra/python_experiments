@@ -524,5 +524,54 @@ def begin_33():
 #begin_33()
 
 #======================================= 34 ==================================================
-#домашня робота
+# Begin34 ◦ . Известно, что X кг шоколадных конфет стоит A рублей, а Y кг ири-
+# сок стоит B рублей. Определить, сколько стоит 1 кг шоколадных конфет,
+# 1 кг ирисок, а также во сколько раз шоколадные конфеты дороже ирисок.
 
+def begin_34():
+
+    x = float(input("x is: ")) # Известно, что X кг
+    x_cost = float(input("x_cost is: ")) #шоколадных конфет стоит A рублей,
+    y = float(input("y is: ")) # а Y кг ириcjr
+    y_cost = float(input("y_cost is: "))  # стоит B рублей.
+
+
+    one_kg_x_prince = x_cost/x
+    print(one_kg_x_prince)
+
+    one_kg_y_price = y_cost/y
+    print(one_kg_y_price)
+
+    differ_price = int((x_cost/y_cost*0.01)*100) #визначаємо різницю в разах
+    print(differ_price)
+
+#begin_34()
+
+#======================================= 35 ==================================================
+
+# Begin35 ◦ . Скорость лодки в стоячей воде V км/ч, скорость течения реки U км/ч
+# (U < V ). Время движения лодки по озеру T 1 ч, а по реке (против течения)
+# — T 2 ч. Определить путь S, пройденный лодкой (путь = время · скорость).
+# Учесть, что при движении против течения скорость лодки уменьшается
+# на величину скорости течения.
+
+def begin_35():
+
+    v = float(input("boat speed in no flow is: "))
+    u = float(input("river flow speed is: "))
+
+    time_one_speed_lake = float(input("time lake speed is: "))
+    time_two_speed_river = float(input("time river speed is: "))
+
+    s_in_lake = time_one_speed_lake * v
+    s_in_river = time_two_speed_river * u
+
+    s = v * time_one_speed_lake+(v-u)*time_two_speed_river
+
+
+
+    print("s in lake", s_in_lake, "km")
+    print("s in river", s_in_river, "km")
+    print("s difference", s,"km")
+
+begin_35()
