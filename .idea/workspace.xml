@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed596d89-71b2-429a-b04c-09a902a2a0f0" name="Default Changelist" comment="added 2-8 solution (exercise) from book">
+    <list default="true" id="ed596d89-71b2-429a-b04c-09a902a2a0f0" name="Default Changelist" comment="added 30-33 solution from Abramyan_s book (needs to be finished)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/work_with_Gennadiy/Tasks_from_Abramyan_Book.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_with_Gennadiy/Tasks_from_Abramyan_Book.py" afterDir="false" />
     </list>
@@ -37,7 +37,7 @@
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -229,76 +229,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538812277279</updated>
-    </task>
-    <task id="LOCAL-00041" summary="added func print to console max, min, abc values of a,b,c arguments">
-      <created>1554398611104</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1554398611104</updated>
-    </task>
-    <task id="LOCAL-00042" summary="added function to change global variable">
-      <created>1554745393535</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1554745393535</updated>
-    </task>
-    <task id="LOCAL-00043" summary="added recursion func(add +1 to recursion)">
-      <created>1554830837361</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1554830837361</updated>
-    </task>
-    <task id="LOCAL-00044" summary="added func recursion, imported funtools for memorising of function results">
-      <created>1554915255492</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1554915255492</updated>
-    </task>
-    <task id="LOCAL-00045" summary="added code about inbuild list function">
-      <created>1554916657893</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1554916657893</updated>
-    </task>
-    <task id="LOCAL-00046" summary="added how to use in and loop to find value in LIST">
-      <created>1555085854754</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1555085854754</updated>
-    </task>
-    <task id="LOCAL-00047" summary="added view of slices with string">
-      <created>1555088072919</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1555088072919</updated>
-    </task>
-    <task id="LOCAL-00048" summary="added info about slices">
-      <created>1555343508805</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1555343508805</updated>
-    </task>
-    <task id="LOCAL-00049" summary="added how to use len in lists">
-      <created>1555432246349</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1555432246349</updated>
-    </task>
-    <task id="LOCAL-00050" summary="added examples: append, del, change, replace elements in LISTS">
-      <created>1555433532392</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1555433532393</updated>
     </task>
     <task id="LOCAL-00051" summary="added square number from list to 2 and used format &quot;{} ^ = {}&quot;...">
       <created>1555434186142</created>
@@ -573,7 +503,77 @@
       <option name="project" value="LOCAL" />
       <updated>1582566875052</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="added 21 solution (exercise) from book(needs to be finished)">
+      <created>1582568133100</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1582568133100</updated>
+    </task>
+    <task id="LOCAL-00091" summary="added 21 solution with Geron (exercise) from book(needs to be finished)">
+      <created>1582655379629</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1582655379629</updated>
+    </task>
+    <task id="LOCAL-00092" summary="added 22 and 23 solution with Geron (exercise) from book(needs to be finished)">
+      <created>1582742300602</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1582742300603</updated>
+    </task>
+    <task id="LOCAL-00093" summary="added 23 solution with Geron (exercise) from book(needs to be finished)">
+      <created>1582826801661</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1582826801661</updated>
+    </task>
+    <task id="LOCAL-00094" summary="added 24 solution with Geron (exercise) from book(needs to be finished)">
+      <created>1582827810301</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1582827810301</updated>
+    </task>
+    <task id="LOCAL-00095" summary="added 26 solution from Abramyan_s book (needs to be finished)">
+      <created>1583150885051</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1583150885051</updated>
+    </task>
+    <task id="LOCAL-00096" summary="added 28-29 solution from Abramyan_s book (needs to be finished)">
+      <created>1583258100248</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1583258100248</updated>
+    </task>
+    <task id="LOCAL-00097" summary="added 30-33 solution from Abramyan_s book (needs to be finished)">
+      <created>1583260070734</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1583260070734</updated>
+    </task>
+    <task id="LOCAL-00098" summary="added 30-33 solution from Abramyan_s book (needs to be finished)">
+      <created>1583260097885</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1583260097885</updated>
+    </task>
+    <task id="LOCAL-00099" summary="added and corrected 26-33 solution from Abramyan_s book (needs to be finished)">
+      <created>1583329097492</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1583329097493</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="TodoView" selected-index="1">
@@ -613,15 +613,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added class Car(sample)" />
-    <MESSAGE value="added class CarDealerShip(sample)" />
-    <MESSAGE value="added class refactored CarDealerShip(sample) with list []" />
-    <MESSAGE value="print results of @staticmethod CarDealerShip(sample) with list []" />
-    <MESSAGE value="implemented &quot;напишите метод класса Triangle, с названием from_rectangle(), &#10;который будет возвращать равносторонний треугольник со стороной side, равной side_a четырехугольника Rectangle.&quot;" />
-    <MESSAGE value="start learning incapsullation in OOP" />
-    <MESSAGE value="added simple, private and protected attributes" />
-    <MESSAGE value="added get and set functions with (private and protected variables)" />
-    <MESSAGE value="added try/except to ZeroDivisionError" />
     <MESSAGE value="added try/except ZeroDivisionError due to a/b" />
     <MESSAGE value="start working with iterators and generators" />
     <MESSAGE value="start working with iterators and generators, added format and value" />
@@ -638,7 +629,16 @@
     <MESSAGE value="start learn Python with Gennadiy(first exercise)" />
     <MESSAGE value="added 2-8 solution (exercise) from book" />
     <MESSAGE value="added 18, 19 solution (exercise) from book" />
-    <option name="LAST_COMMIT_MESSAGE" value="added 18, 19 solution (exercise) from book" />
+    <MESSAGE value="added 21 solution (exercise) from book(needs to be finished)" />
+    <MESSAGE value="added 21 solution with Geron (exercise) from book(needs to be finished)" />
+    <MESSAGE value="added 22 and 23 solution with Geron (exercise) from book(needs to be finished)" />
+    <MESSAGE value="added 23 solution with Geron (exercise) from book(needs to be finished)" />
+    <MESSAGE value="added 24 solution with Geron (exercise) from book(needs to be finished)" />
+    <MESSAGE value="added 26 solution from Abramyan_s book (needs to be finished)" />
+    <MESSAGE value="added 28-29 solution from Abramyan_s book (needs to be finished)" />
+    <MESSAGE value="added 30-33 solution from Abramyan_s book (needs to be finished)" />
+    <MESSAGE value="added and corrected 26-33 solution from Abramyan_s book (needs to be finished)" />
+    <option name="LAST_COMMIT_MESSAGE" value="added and corrected 26-33 solution from Abramyan_s book (needs to be finished)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="451" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580736160784">
@@ -653,61 +653,66 @@
       <screen x="55" y="24" width="1865" height="1056" />
     </state>
     <state x="675" y="267" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1576001489884" />
-    <state x="599" y="135" key="CommitChangelistDialog2" timestamp="1582568087489">
+    <state x="599" y="135" key="CommitChangelistDialog2" timestamp="1583431875560">
       <screen x="55" y="24" width="1865" height="1056" />
     </state>
     <state x="599" y="135" key="CommitChangelistDialog2/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1581435862371" />
-    <state x="599" y="135" key="CommitChangelistDialog2/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1582568087489" />
+    <state x="599" y="135" key="CommitChangelistDialog2/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1583431875560" />
     <state x="599" y="135" key="CommitChangelistDialog2/55.24.1865.1056@55.24.1865.1056" timestamp="1576779158571" />
     <state x="775" y="311" key="FileChooserDialogImpl" timestamp="1581504899212">
       <screen x="55" y="24" width="1865" height="1056" />
     </state>
     <state x="775" y="311" key="FileChooserDialogImpl/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1581504899212" />
-    <state width="1842" height="306" key="GridCell.Tab.0.bottom" timestamp="1582568028776">
+    <state width="1842" height="306" key="GridCell.Tab.0.bottom" timestamp="1583433423870">
       <screen x="55" y="24" width="1865" height="1056" />
     </state>
     <state width="1842" height="306" key="GridCell.Tab.0.bottom/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1581504723158" />
-    <state width="1842" height="306" key="GridCell.Tab.0.bottom/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1582568028776" />
+    <state width="1842" height="306" key="GridCell.Tab.0.bottom/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1583433423870" />
     <state width="1819" height="296" key="GridCell.Tab.0.bottom/55.24.1865.1056@55.24.1865.1056" timestamp="1576778574674" />
-    <state width="1842" height="306" key="GridCell.Tab.0.center" timestamp="1582568028776">
+    <state width="1842" height="306" key="GridCell.Tab.0.center" timestamp="1583433423870">
       <screen x="55" y="24" width="1865" height="1056" />
     </state>
     <state width="1842" height="306" key="GridCell.Tab.0.center/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1581504723157" />
-    <state width="1842" height="306" key="GridCell.Tab.0.center/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1582568028776" />
+    <state width="1842" height="306" key="GridCell.Tab.0.center/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1583433423870" />
     <state width="1819" height="296" key="GridCell.Tab.0.center/55.24.1865.1056@55.24.1865.1056" timestamp="1576778574674" />
-    <state width="1842" height="306" key="GridCell.Tab.0.left" timestamp="1582568028776">
+    <state width="1842" height="306" key="GridCell.Tab.0.left" timestamp="1583433423870">
       <screen x="55" y="24" width="1865" height="1056" />
     </state>
     <state width="1842" height="306" key="GridCell.Tab.0.left/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1581504723157" />
-    <state width="1842" height="306" key="GridCell.Tab.0.left/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1582568028776" />
+    <state width="1842" height="306" key="GridCell.Tab.0.left/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1583433423870" />
     <state width="1819" height="296" key="GridCell.Tab.0.left/55.24.1865.1056@55.24.1865.1056" timestamp="1576778574673" />
-    <state width="1842" height="306" key="GridCell.Tab.0.right" timestamp="1582568028776">
+    <state width="1842" height="306" key="GridCell.Tab.0.right" timestamp="1583433423870">
       <screen x="55" y="24" width="1865" height="1056" />
     </state>
     <state width="1842" height="306" key="GridCell.Tab.0.right/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1581504723158" />
-    <state width="1842" height="306" key="GridCell.Tab.0.right/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1582568028776" />
+    <state width="1842" height="306" key="GridCell.Tab.0.right/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1583433423870" />
     <state width="1819" height="296" key="GridCell.Tab.0.right/55.24.1865.1056@55.24.1865.1056" timestamp="1576778574674" />
-    <state x="55" y="-4" width="1865" height="1084" key="SettingsEditor" timestamp="1581507074374">
+    <state x="55" y="24" width="1865" height="1056" key="SettingsEditor" timestamp="1582903560311">
       <screen x="55" y="24" width="1865" height="1056" />
     </state>
     <state x="55" y="-4" width="1865" height="1084" key="SettingsEditor/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1581507074374" />
-    <state x="587" y="275" key="Vcs.Push.Dialog.v2" timestamp="1582566878349">
+    <state x="55" y="24" width="1865" height="1056" key="SettingsEditor/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1582903560311" />
+    <state x="587" y="275" key="Vcs.Push.Dialog.v2" timestamp="1582655381869">
       <screen x="55" y="24" width="1865" height="1056" />
     </state>
     <state x="587" y="275" key="Vcs.Push.Dialog.v2/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1581097620970" />
-    <state x="587" y="275" key="Vcs.Push.Dialog.v2/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1582566878349" />
+    <state x="587" y="275" key="Vcs.Push.Dialog.v2/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1582655381869" />
     <state x="587" y="275" key="Vcs.Push.Dialog.v2/55.24.1865.1056@55.24.1865.1056" timestamp="1576779171801" />
-    <state x="649" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1582565404446">
+    <state x="649" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1583430293170">
       <screen x="55" y="24" width="1865" height="1056" />
     </state>
     <state x="649" y="381" key="com.intellij.ide.util.TipDialog/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1581507092179" />
-    <state x="649" y="381" key="com.intellij.ide.util.TipDialog/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1582565404446" />
+    <state x="649" y="381" key="com.intellij.ide.util.TipDialog/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1583430293170" />
     <state x="649" y="381" key="com.intellij.ide.util.TipDialog/55.24.1865.1056@55.24.1865.1056" timestamp="1576775000368" />
-    <state x="760" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582565280287">
+    <state x="760" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582654265465">
       <screen x="55" y="24" width="1865" height="1056" />
     </state>
     <state x="760" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1576174053878" />
-    <state x="760" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1582565280287" />
+    <state x="760" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1582654265465" />
+    <state x="650" y="236" width="672" height="678" key="search.everywhere.popup" timestamp="1583328900243">
+      <screen x="55" y="24" width="1865" height="1056" />
+    </state>
+    <state x="650" y="236" width="672" height="678" key="search.everywhere.popup/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1583328900243" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
