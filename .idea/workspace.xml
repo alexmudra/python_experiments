@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed596d89-71b2-429a-b04c-09a902a2a0f0" name="Default Changelist" comment="added 30-33 solution from Abramyan_s book (needs to be finished)">
+    <list default="true" id="ed596d89-71b2-429a-b04c-09a902a2a0f0" name="Default Changelist" comment="added 34-35 solution from Abramyan_s book (needs to be finished)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/work_with_Gennadiy/Tasks_from_Abramyan_Book.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_with_Gennadiy/Tasks_from_Abramyan_Book.py" afterDir="false" />
     </list>
@@ -229,27 +229,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538812277279</updated>
-    </task>
-    <task id="LOCAL-00051" summary="added square number from list to 2 and used format &quot;{} ^ = {}&quot;...">
-      <created>1555434186142</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1555434186142</updated>
-    </task>
-    <task id="LOCAL-00052" summary="added code with Fibbonachi numbers">
-      <created>1555435230817</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1555435230817</updated>
-    </task>
-    <task id="LOCAL-00053" summary="added code with Fibbonachi numbers to for.py">
-      <created>1555519346335</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1555519346337</updated>
     </task>
     <task id="LOCAL-00054" summary="start working with OOP (https://itvdn.com/ru/video/python-essential)">
       <created>1555520765144</created>
@@ -573,7 +552,28 @@
       <option name="project" value="LOCAL" />
       <updated>1583329097493</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="added 34-35 solution from Abramyan_s book (needs to be finished)">
+      <created>1583433475859</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1583433475861</updated>
+    </task>
+    <task id="LOCAL-00101" summary="added 34-35 solution from Abramyan_s book (needs to be finished)">
+      <created>1583863640022</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1583863640022</updated>
+    </task>
+    <task id="LOCAL-00102" summary="added 36 solution from Abramyan_s book (needs to be finished)">
+      <created>1583931287339</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1583931287341</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="TodoView" selected-index="1">
@@ -613,8 +613,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added try/except ZeroDivisionError due to a/b" />
-    <MESSAGE value="start working with iterators and generators" />
     <MESSAGE value="start working with iterators and generators, added format and value" />
     <MESSAGE value="cover the list + use the format" />
     <MESSAGE value="homework_2 task about 3 numbers" />
@@ -638,7 +636,9 @@
     <MESSAGE value="added 28-29 solution from Abramyan_s book (needs to be finished)" />
     <MESSAGE value="added 30-33 solution from Abramyan_s book (needs to be finished)" />
     <MESSAGE value="added and corrected 26-33 solution from Abramyan_s book (needs to be finished)" />
-    <option name="LAST_COMMIT_MESSAGE" value="added and corrected 26-33 solution from Abramyan_s book (needs to be finished)" />
+    <MESSAGE value="added 34-35 solution from Abramyan_s book (needs to be finished)" />
+    <MESSAGE value="added 36 solution from Abramyan_s book (needs to be finished)" />
+    <option name="LAST_COMMIT_MESSAGE" value="added 36 solution from Abramyan_s book (needs to be finished)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="451" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580736160784">
@@ -653,62 +653,62 @@
       <screen x="55" y="24" width="1865" height="1056" />
     </state>
     <state x="675" y="267" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1576001489884" />
-    <state x="599" y="135" key="CommitChangelistDialog2" timestamp="1583431875560">
+    <state x="789" y="170" key="CommitChangelistDialog2" timestamp="1583931318220">
       <screen x="55" y="24" width="1865" height="1056" />
     </state>
     <state x="599" y="135" key="CommitChangelistDialog2/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1581435862371" />
-    <state x="599" y="135" key="CommitChangelistDialog2/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1583431875560" />
+    <state x="789" y="170" key="CommitChangelistDialog2/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1583931318220" />
     <state x="599" y="135" key="CommitChangelistDialog2/55.24.1865.1056@55.24.1865.1056" timestamp="1576779158571" />
     <state x="775" y="311" key="FileChooserDialogImpl" timestamp="1581504899212">
       <screen x="55" y="24" width="1865" height="1056" />
     </state>
     <state x="775" y="311" key="FileChooserDialogImpl/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1581504899212" />
-    <state width="1842" height="306" key="GridCell.Tab.0.bottom" timestamp="1583433423870">
+    <state width="1842" height="306" key="GridCell.Tab.0.bottom" timestamp="1583933689397">
       <screen x="55" y="24" width="1865" height="1056" />
     </state>
     <state width="1842" height="306" key="GridCell.Tab.0.bottom/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1581504723158" />
-    <state width="1842" height="306" key="GridCell.Tab.0.bottom/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1583433423870" />
+    <state width="1842" height="306" key="GridCell.Tab.0.bottom/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1583933689397" />
     <state width="1819" height="296" key="GridCell.Tab.0.bottom/55.24.1865.1056@55.24.1865.1056" timestamp="1576778574674" />
-    <state width="1842" height="306" key="GridCell.Tab.0.center" timestamp="1583433423870">
+    <state width="1842" height="306" key="GridCell.Tab.0.center" timestamp="1583933689397">
       <screen x="55" y="24" width="1865" height="1056" />
     </state>
     <state width="1842" height="306" key="GridCell.Tab.0.center/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1581504723157" />
-    <state width="1842" height="306" key="GridCell.Tab.0.center/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1583433423870" />
+    <state width="1842" height="306" key="GridCell.Tab.0.center/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1583933689397" />
     <state width="1819" height="296" key="GridCell.Tab.0.center/55.24.1865.1056@55.24.1865.1056" timestamp="1576778574674" />
-    <state width="1842" height="306" key="GridCell.Tab.0.left" timestamp="1583433423870">
+    <state width="1842" height="306" key="GridCell.Tab.0.left" timestamp="1583933689397">
       <screen x="55" y="24" width="1865" height="1056" />
     </state>
     <state width="1842" height="306" key="GridCell.Tab.0.left/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1581504723157" />
-    <state width="1842" height="306" key="GridCell.Tab.0.left/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1583433423870" />
+    <state width="1842" height="306" key="GridCell.Tab.0.left/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1583933689397" />
     <state width="1819" height="296" key="GridCell.Tab.0.left/55.24.1865.1056@55.24.1865.1056" timestamp="1576778574673" />
-    <state width="1842" height="306" key="GridCell.Tab.0.right" timestamp="1583433423870">
+    <state width="1842" height="306" key="GridCell.Tab.0.right" timestamp="1583933689397">
       <screen x="55" y="24" width="1865" height="1056" />
     </state>
     <state width="1842" height="306" key="GridCell.Tab.0.right/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1581504723158" />
-    <state width="1842" height="306" key="GridCell.Tab.0.right/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1583433423870" />
+    <state width="1842" height="306" key="GridCell.Tab.0.right/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1583933689397" />
     <state width="1819" height="296" key="GridCell.Tab.0.right/55.24.1865.1056@55.24.1865.1056" timestamp="1576778574674" />
     <state x="55" y="24" width="1865" height="1056" key="SettingsEditor" timestamp="1582903560311">
       <screen x="55" y="24" width="1865" height="1056" />
     </state>
     <state x="55" y="-4" width="1865" height="1084" key="SettingsEditor/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1581507074374" />
     <state x="55" y="24" width="1865" height="1056" key="SettingsEditor/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1582903560311" />
-    <state x="587" y="275" key="Vcs.Push.Dialog.v2" timestamp="1582655381869">
+    <state x="587" y="275" key="Vcs.Push.Dialog.v2" timestamp="1583863661011">
       <screen x="55" y="24" width="1865" height="1056" />
     </state>
     <state x="587" y="275" key="Vcs.Push.Dialog.v2/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1581097620970" />
-    <state x="587" y="275" key="Vcs.Push.Dialog.v2/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1582655381869" />
+    <state x="587" y="275" key="Vcs.Push.Dialog.v2/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1583863661011" />
     <state x="587" y="275" key="Vcs.Push.Dialog.v2/55.24.1865.1056@55.24.1865.1056" timestamp="1576779171801" />
-    <state x="649" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1583430293170">
+    <state x="649" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1583930673240">
       <screen x="55" y="24" width="1865" height="1056" />
     </state>
     <state x="649" y="381" key="com.intellij.ide.util.TipDialog/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1581507092179" />
-    <state x="649" y="381" key="com.intellij.ide.util.TipDialog/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1583430293170" />
+    <state x="649" y="381" key="com.intellij.ide.util.TipDialog/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1583930673240" />
     <state x="649" y="381" key="com.intellij.ide.util.TipDialog/55.24.1865.1056@55.24.1865.1056" timestamp="1576775000368" />
-    <state x="760" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582654265465">
+    <state x="760" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583933687975">
       <screen x="55" y="24" width="1865" height="1056" />
     </state>
     <state x="760" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1576174053878" />
-    <state x="760" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1582654265465" />
+    <state x="760" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1583933687975" />
     <state x="650" y="236" width="672" height="678" key="search.everywhere.popup" timestamp="1583328900243">
       <screen x="55" y="24" width="1865" height="1056" />
     </state>
