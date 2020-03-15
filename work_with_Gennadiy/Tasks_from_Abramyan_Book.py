@@ -234,5 +234,31 @@ def begin_36():
     t_hours = distance + all_distance
     print("distance via t hours is:", t_hours)
 
-begin_36()
+#begin_36()
 
+#======================================= 9 ==================================================
+# Integer9◦
+# . Дано трехзначное число. Используя одну операцию деления нацело,
+# вывести первую цифру данного числа (сотни).
+
+def integer_9 ():
+    int_1 = int(input("our number is = "))
+    res = int_1//100
+    print("the first numb. is ",res )
+
+#integer_9()
+
+#======================================= 10 ==================================================
+# Integer10◦
+# . Дано трехзначное число. Вывести вначале его последнюю цифру
+# (единицы), а затем — его среднюю цифру (десятки).
+
+def integer_10 ():
+    int_1 = int(input("our number is = "))
+    res = int_1%10
+    res2 = int_1//10
+    res3 = res2%10
+    print("the last numb. is ",res)
+    print("the second numb. is ",res3)
+
+integer_10()
