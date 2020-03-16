@@ -14,6 +14,25 @@ from math import degrees
 #======================================= Integer11 ==================================================
 #Integer11 ◦ . Дано трехзначное число. Найти сумму и произведение его цифр.
 
+def integer_11():
+    n = int(input("n = "))
+
+    find_1_num = n // 100
+    print("firs num is",find_1_num)
+
+    find_2_num = n // 10
+    #print("find_2_num is", find_2_num)
+
+
+    find_2_num_2 = find_2_num % 10
+    print("second num is",find_2_num_2)
+
+    find_3 = n % 100
+    print("third num is", find_3)
+
+
+integer_11()
+
 
 
 
@@ -30,7 +49,7 @@ def integer_8():
 
     print(find_10, find_1)
 
-integer_8()
+#integer_8()
 
 
 #======================================= Integer7 ==================================================
@@ -46,7 +65,7 @@ def integer_7():
     sum = find_1 + find_10
     print(sum)
 
-integer_7()
+#integer_7()
 
 
 
