@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed596d89-71b2-429a-b04c-09a902a2a0f0" name="Default Changelist" comment="added 34-35 solution from Abramyan_s book (needs to be finished)">
+    <list default="true" id="ed596d89-71b2-429a-b04c-09a902a2a0f0" name="Default Changelist" comment="added 38/29/40 solution from Abramyan_s book (needs to be finished)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/work_with_Gennadiy/Tasks_from_Abramyan_Book.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_with_Gennadiy/Tasks_from_Abramyan_Book.py" afterDir="false" />
     </list>
@@ -37,7 +37,7 @@
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -229,41 +229,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538812277279</updated>
-    </task>
-    <task id="LOCAL-00054" summary="start working with OOP (https://itvdn.com/ru/video/python-essential)">
-      <created>1555520765144</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1555520765144</updated>
-    </task>
-    <task id="LOCAL-00055" summary="start working with OOP (https://itvdn.com/ru/video/python-essential)">
-      <created>1555521579221</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1555521579221</updated>
-    </task>
-    <task id="LOCAL-00056" summary="added example of class">
-      <created>1555521614134</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1555521614135</updated>
-    </task>
-    <task id="LOCAL-00057" summary="added example of class, reasigne class, created instance of Person class">
-      <created>1555951467806</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1555951467807</updated>
-    </task>
-    <task id="LOCAL-00058" summary="added files examples of OOP">
-      <created>1556038638729</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1556038638730</updated>
     </task>
     <task id="LOCAL-00059" summary="added class instances">
       <created>1556038755790</created>
@@ -573,7 +538,42 @@
       <option name="project" value="LOCAL" />
       <updated>1583931287341</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="added 38/29/40 solution from Abramyan_s book (needs to be finished)">
+      <created>1583933707311</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1583933707311</updated>
+    </task>
+    <task id="LOCAL-00104" summary="added integer tasks 1-8 solution from Abramyan_s book (needs to be finished)">
+      <created>1584036521341</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1584036521342</updated>
+    </task>
+    <task id="LOCAL-00105" summary="added 1-8 integer solution from Abramyan_s book (needs to be finished)">
+      <created>1584352498222</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1584352498223</updated>
+    </task>
+    <task id="LOCAL-00106" summary="added 1-8 integer solution from Abramyan_s book (needs to be finished)">
+      <created>1584352769166</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1584352769166</updated>
+    </task>
+    <task id="LOCAL-00107" summary="added integer 11 solution from Abramyan_s book (needs to be finished)">
+      <created>1584355084662</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1584355084662</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="TodoView" selected-index="1">
@@ -613,10 +613,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="start working with iterators and generators, added format and value" />
-    <MESSAGE value="cover the list + use the format" />
-    <MESSAGE value="homework_2 task about 3 numbers" />
-    <MESSAGE value="homework_3 (slises, continue, break ect)" />
     <MESSAGE value="lessons 3 and 4. JSON,differences between dump, dumps, load, loads ect" />
     <MESSAGE value="homework_3. Added 8, 9, 10, 11 tasks" />
     <MESSAGE value="homework_2 (slises)" />
@@ -638,7 +634,11 @@
     <MESSAGE value="added and corrected 26-33 solution from Abramyan_s book (needs to be finished)" />
     <MESSAGE value="added 34-35 solution from Abramyan_s book (needs to be finished)" />
     <MESSAGE value="added 36 solution from Abramyan_s book (needs to be finished)" />
-    <option name="LAST_COMMIT_MESSAGE" value="added 36 solution from Abramyan_s book (needs to be finished)" />
+    <MESSAGE value="added 38/29/40 solution from Abramyan_s book (needs to be finished)" />
+    <MESSAGE value="added integer tasks 1-8 solution from Abramyan_s book (needs to be finished)" />
+    <MESSAGE value="added 1-8 integer solution from Abramyan_s book (needs to be finished)" />
+    <MESSAGE value="added integer 11 solution from Abramyan_s book (needs to be finished)" />
+    <option name="LAST_COMMIT_MESSAGE" value="added integer 11 solution from Abramyan_s book (needs to be finished)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="451" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580736160784">
@@ -653,62 +653,74 @@
       <screen x="55" y="24" width="1865" height="1056" />
     </state>
     <state x="675" y="267" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1576001489884" />
-    <state x="789" y="170" key="CommitChangelistDialog2" timestamp="1583931318220">
+    <state x="789" y="170" key="CommitChangelistDialog2" timestamp="1584355084528">
       <screen x="55" y="24" width="1865" height="1056" />
     </state>
     <state x="599" y="135" key="CommitChangelistDialog2/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1581435862371" />
-    <state x="789" y="170" key="CommitChangelistDialog2/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1583931318220" />
+    <state x="789" y="170" key="CommitChangelistDialog2/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1584355084528" />
     <state x="599" y="135" key="CommitChangelistDialog2/55.24.1865.1056@55.24.1865.1056" timestamp="1576779158571" />
+    <state x="154" y="96" width="1667" height="885" key="DiffContextDialog" timestamp="1584353209224">
+      <screen x="55" y="24" width="1865" height="1056" />
+    </state>
+    <state x="154" y="96" width="1667" height="885" key="DiffContextDialog/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1584353209224" />
     <state x="775" y="311" key="FileChooserDialogImpl" timestamp="1581504899212">
       <screen x="55" y="24" width="1865" height="1056" />
     </state>
     <state x="775" y="311" key="FileChooserDialogImpl/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1581504899212" />
-    <state width="1842" height="306" key="GridCell.Tab.0.bottom" timestamp="1583933689397">
+    <state width="1842" height="306" key="GridCell.Tab.0.bottom" timestamp="1584433821929">
       <screen x="55" y="24" width="1865" height="1056" />
     </state>
     <state width="1842" height="306" key="GridCell.Tab.0.bottom/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1581504723158" />
-    <state width="1842" height="306" key="GridCell.Tab.0.bottom/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1583933689397" />
+    <state width="1842" height="306" key="GridCell.Tab.0.bottom/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1584433821929" />
     <state width="1819" height="296" key="GridCell.Tab.0.bottom/55.24.1865.1056@55.24.1865.1056" timestamp="1576778574674" />
-    <state width="1842" height="306" key="GridCell.Tab.0.center" timestamp="1583933689397">
+    <state width="1842" height="306" key="GridCell.Tab.0.center" timestamp="1584433821929">
       <screen x="55" y="24" width="1865" height="1056" />
     </state>
     <state width="1842" height="306" key="GridCell.Tab.0.center/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1581504723157" />
-    <state width="1842" height="306" key="GridCell.Tab.0.center/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1583933689397" />
+    <state width="1842" height="306" key="GridCell.Tab.0.center/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1584433821929" />
     <state width="1819" height="296" key="GridCell.Tab.0.center/55.24.1865.1056@55.24.1865.1056" timestamp="1576778574674" />
-    <state width="1842" height="306" key="GridCell.Tab.0.left" timestamp="1583933689397">
+    <state width="1842" height="306" key="GridCell.Tab.0.left" timestamp="1584433821929">
       <screen x="55" y="24" width="1865" height="1056" />
     </state>
     <state width="1842" height="306" key="GridCell.Tab.0.left/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1581504723157" />
-    <state width="1842" height="306" key="GridCell.Tab.0.left/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1583933689397" />
+    <state width="1842" height="306" key="GridCell.Tab.0.left/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1584433821929" />
     <state width="1819" height="296" key="GridCell.Tab.0.left/55.24.1865.1056@55.24.1865.1056" timestamp="1576778574673" />
-    <state width="1842" height="306" key="GridCell.Tab.0.right" timestamp="1583933689397">
+    <state width="1842" height="306" key="GridCell.Tab.0.right" timestamp="1584433821929">
       <screen x="55" y="24" width="1865" height="1056" />
     </state>
     <state width="1842" height="306" key="GridCell.Tab.0.right/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1581504723158" />
-    <state width="1842" height="306" key="GridCell.Tab.0.right/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1583933689397" />
+    <state width="1842" height="306" key="GridCell.Tab.0.right/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1584433821929" />
     <state width="1819" height="296" key="GridCell.Tab.0.right/55.24.1865.1056@55.24.1865.1056" timestamp="1576778574674" />
-    <state x="55" y="24" width="1865" height="1056" key="SettingsEditor" timestamp="1582903560311">
+    <state x="241" y="102" key="MergeDialog" timestamp="1584352622989">
+      <screen x="55" y="24" width="1865" height="1056" />
+    </state>
+    <state x="241" y="102" key="MergeDialog/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1584352622989" />
+    <state x="697" y="255" key="MultipleFileMergeDialog" timestamp="1584433760560">
+      <screen x="55" y="24" width="1865" height="1056" />
+    </state>
+    <state x="697" y="255" key="MultipleFileMergeDialog/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1584433760560" />
+    <state x="55" y="24" width="1865" height="1056" key="SettingsEditor" timestamp="1584353208864">
       <screen x="55" y="24" width="1865" height="1056" />
     </state>
     <state x="55" y="-4" width="1865" height="1084" key="SettingsEditor/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1581507074374" />
-    <state x="55" y="24" width="1865" height="1056" key="SettingsEditor/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1582903560311" />
-    <state x="587" y="275" key="Vcs.Push.Dialog.v2" timestamp="1583863661011">
+    <state x="55" y="24" width="1865" height="1056" key="SettingsEditor/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1584353208864" />
+    <state x="587" y="275" width="1047" height="526" key="Vcs.Push.Dialog.v2" timestamp="1584355114891">
       <screen x="55" y="24" width="1865" height="1056" />
     </state>
     <state x="587" y="275" key="Vcs.Push.Dialog.v2/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1581097620970" />
-    <state x="587" y="275" key="Vcs.Push.Dialog.v2/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1583863661011" />
+    <state x="587" y="275" width="1047" height="526" key="Vcs.Push.Dialog.v2/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1584355114891" />
     <state x="587" y="275" key="Vcs.Push.Dialog.v2/55.24.1865.1056@55.24.1865.1056" timestamp="1576779171801" />
-    <state x="649" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1583930673240">
+    <state x="649" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1584033564187">
       <screen x="55" y="24" width="1865" height="1056" />
     </state>
     <state x="649" y="381" key="com.intellij.ide.util.TipDialog/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1581507092179" />
-    <state x="649" y="381" key="com.intellij.ide.util.TipDialog/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1583930673240" />
+    <state x="649" y="381" key="com.intellij.ide.util.TipDialog/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1584033564187" />
     <state x="649" y="381" key="com.intellij.ide.util.TipDialog/55.24.1865.1056@55.24.1865.1056" timestamp="1576775000368" />
-    <state x="760" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583933687975">
+    <state x="760" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584433747387">
       <screen x="55" y="24" width="1865" height="1056" />
     </state>
     <state x="760" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1576174053878" />
-    <state x="760" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1583933687975" />
+    <state x="760" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1584433747387" />
     <state x="650" y="236" width="672" height="678" key="search.everywhere.popup" timestamp="1583328900243">
       <screen x="55" y="24" width="1865" height="1056" />
     </state>

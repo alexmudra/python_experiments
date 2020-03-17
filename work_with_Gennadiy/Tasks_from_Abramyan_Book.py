@@ -25,7 +25,7 @@ def integer_14():
     n = n // 10
     d3 = n % 10
 
-    print("Сумма цифр числа:", d1, d3, d2)
+    print("виводим цифри:", d2, d1, d3)
 
 integer_14()
 
