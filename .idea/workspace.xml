@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed596d89-71b2-429a-b04c-09a902a2a0f0" name="Default Changelist" comment="added 38/29/40 solution from Abramyan_s book (needs to be finished)">
+    <list default="true" id="ed596d89-71b2-429a-b04c-09a902a2a0f0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/homework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/homework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work_with_Gennadiy/Tasks_from_Abramyan_Book.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_with_Gennadiy/Tasks_from_Abramyan_Book.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +25,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
-  <component name="ProjectId" id="1UQE86ta5o2SJVv9Ut9FPOLXwjy" />
+  <component name="ProjectId" id="1XRUVPnXgGRlx4RQrGzwydBaOBR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,12 +33,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/bin" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -48,40 +49,18 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/work_with_Gennadiy" />
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RobotOptionsProvider">
     <option name="capitalizeKeywords" value="true" />
   </component>
-  <component name="RunManager" selected="Python.Tasks_from_Abramyan_Book">
-    <configuration name="Python Console" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="homework" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="/Python Console" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Tasks from Abramyan book " type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.integer from Abramyan book (1)">
+    <configuration name="begin_from abramyan_book" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,7 +72,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/work_with_Gennadiy/Tasks from Abramyan book .py" />
+      <option name="SCRIPT_NAME" value="C:\Users\alex\PycharmProjects\python_experiments\work_with_Gennadiy\begin_from abramyan_book.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Tasks_from_Abramyan_Book" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="begin_from abramyan_book" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,7 +93,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/work_with_Gennadiy/Tasks_from_Abramyan_Book.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\alex\PycharmProjects\python_experiments\work_with_Gennadiy\begin_from abramyan_book.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="begin1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="boolean from Abramyan book" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,32 +110,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/work_with_Gennadiy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/begin1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="hmwrk_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="homework" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/hmwrk_3.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\alex\PycharmProjects\python_experiments\work_with_Gennadiy\boolean from Abramyan book.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,35 +144,86 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="integer from Abramyan book (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/work_with_Gennadiy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/work_with_Gennadiy/integer from Abramyan book.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="integer from Abramyan book" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/work_with_Gennadiy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\alex\PycharmProjects\python_experiments\work_with_Gennadiy\integer from Abramyan book.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="my_file_to_iterators_generators" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Iterators_generators" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iterators_generators/my_file_to_iterators_generators.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.if else" />
-      <item itemvalue="Python.Python Console" />
-      <item itemvalue="Python.Tasks from Abramyan book " />
-      <item itemvalue="Python.begin1" />
-      <item itemvalue="Python.hmwrk_3" />
-      <item itemvalue="Python.Tasks_from_Abramyan_Book" />
+      <item itemvalue="Python.my_file_to_iterators_generators" />
+      <item itemvalue="Python.begin_from abramyan_book" />
+      <item itemvalue="Python.integer from Abramyan book" />
+      <item itemvalue="Python.boolean from Abramyan book" />
+      <item itemvalue="Python.integer from Abramyan book (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Tasks_from_Abramyan_Book" />
-        <item itemvalue="Python.Tasks from Abramyan book " />
-        <item itemvalue="Python.begin1" />
-        <item itemvalue="Python.hmwrk_3" />
-        <item itemvalue="Python.Python Console" />
+        <item itemvalue="Python.integer from Abramyan book (1)" />
+        <item itemvalue="Python.integer from Abramyan book" />
+        <item itemvalue="Python.boolean from Abramyan book" />
+        <item itemvalue="Python.begin_from abramyan_book" />
+        <item itemvalue="Python.begin_from abramyan_book" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="StructureViewFactory">
     <option name="ACTIVE_ACTIONS" value=",SHOW_FIELDS,ALPHA_COMPARATOR" />
@@ -229,6 +238,160 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538812277279</updated>
+    </task>
+    <task id="LOCAL-00037" summary="added def func2 (find 0 and 4n via FOR loop">
+      <created>1554226689959</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1554226689959</updated>
+    </task>
+    <task id="LOCAL-00038" summary="added def func1 (find 0 and 4n via FOR loop">
+      <created>1554310132338</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1554310132338</updated>
+    </task>
+    <task id="LOCAL-00039" summary="added function with documentary string">
+      <created>1554312072289</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1554312072289</updated>
+    </task>
+    <task id="LOCAL-00040" summary="added function with documentary stting __doc__ console">
+      <created>1554312395239</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1554312395239</updated>
+    </task>
+    <task id="LOCAL-00041" summary="added func print to console max, min, abc values of a,b,c arguments">
+      <created>1554398611104</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1554398611104</updated>
+    </task>
+    <task id="LOCAL-00042" summary="added function to change global variable">
+      <created>1554745393535</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1554745393535</updated>
+    </task>
+    <task id="LOCAL-00043" summary="added recursion func(add +1 to recursion)">
+      <created>1554830837361</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1554830837361</updated>
+    </task>
+    <task id="LOCAL-00044" summary="added func recursion, imported funtools for memorising of function results">
+      <created>1554915255492</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1554915255492</updated>
+    </task>
+    <task id="LOCAL-00045" summary="added code about inbuild list function">
+      <created>1554916657893</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1554916657893</updated>
+    </task>
+    <task id="LOCAL-00046" summary="added how to use in and loop to find value in LIST">
+      <created>1555085854754</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1555085854754</updated>
+    </task>
+    <task id="LOCAL-00047" summary="added view of slices with string">
+      <created>1555088072919</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1555088072919</updated>
+    </task>
+    <task id="LOCAL-00048" summary="added info about slices">
+      <created>1555343508805</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1555343508805</updated>
+    </task>
+    <task id="LOCAL-00049" summary="added how to use len in lists">
+      <created>1555432246349</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1555432246349</updated>
+    </task>
+    <task id="LOCAL-00050" summary="added examples: append, del, change, replace elements in LISTS">
+      <created>1555433532392</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1555433532393</updated>
+    </task>
+    <task id="LOCAL-00051" summary="added square number from list to 2 and used format &quot;{} ^ = {}&quot;...">
+      <created>1555434186142</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1555434186142</updated>
+    </task>
+    <task id="LOCAL-00052" summary="added code with Fibbonachi numbers">
+      <created>1555435230817</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1555435230817</updated>
+    </task>
+    <task id="LOCAL-00053" summary="added code with Fibbonachi numbers to for.py">
+      <created>1555519346335</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1555519346337</updated>
+    </task>
+    <task id="LOCAL-00054" summary="start working with OOP (https://itvdn.com/ru/video/python-essential)">
+      <created>1555520765144</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1555520765144</updated>
+    </task>
+    <task id="LOCAL-00055" summary="start working with OOP (https://itvdn.com/ru/video/python-essential)">
+      <created>1555521579221</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1555521579221</updated>
+    </task>
+    <task id="LOCAL-00056" summary="added example of class">
+      <created>1555521614134</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1555521614135</updated>
+    </task>
+    <task id="LOCAL-00057" summary="added example of class, reasigne class, created instance of Person class">
+      <created>1555951467806</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1555951467807</updated>
+    </task>
+    <task id="LOCAL-00058" summary="added files examples of OOP">
+      <created>1556038638729</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1556038638730</updated>
     </task>
     <task id="LOCAL-00059" summary="added class instances">
       <created>1556038755790</created>
@@ -356,225 +519,103 @@
       <option name="project" value="LOCAL" />
       <updated>1560448242710</updated>
     </task>
-    <task id="LOCAL-00077" summary="homework_2 task about 3 numbers">
-      <created>1575303813986</created>
+    <task id="LOCAL-00077" summary="added 13 task use the format">
+      <created>1582525249708</created>
       <option name="number" value="00077" />
       <option name="presentableId" value="LOCAL-00077" />
       <option name="project" value="LOCAL" />
-      <updated>1575303813987</updated>
+      <updated>1582525249709</updated>
     </task>
-    <task id="LOCAL-00078" summary="homework_3 (slises, continue, break ect)">
-      <created>1575536004539</created>
+    <task id="LOCAL-00078" summary="added 17 task use the format">
+      <created>1582573417919</created>
       <option name="number" value="00078" />
       <option name="presentableId" value="LOCAL-00078" />
       <option name="project" value="LOCAL" />
-      <updated>1575536004539</updated>
+      <updated>1582573417919</updated>
     </task>
-    <task id="LOCAL-00079" summary="homework_3 (slises, continue, break ect)">
-      <created>1575536075550</created>
+    <task id="LOCAL-00079" summary="added test task use the format">
+      <created>1583878001247</created>
       <option name="number" value="00079" />
       <option name="presentableId" value="LOCAL-00079" />
       <option name="project" value="LOCAL" />
-      <updated>1575536075550</updated>
+      <updated>1583878001249</updated>
     </task>
-    <task id="LOCAL-00080" summary="lessons 3 and 4. JSON,differences between dump, dumps, load, loads ect">
-      <created>1575656067493</created>
+    <task id="LOCAL-00080" summary="added 36 task(t_distance to some hours)">
+      <created>1583878947395</created>
       <option name="number" value="00080" />
       <option name="presentableId" value="LOCAL-00080" />
       <option name="project" value="LOCAL" />
-      <updated>1575656067493</updated>
+      <updated>1583878947395</updated>
     </task>
-    <task id="LOCAL-00081" summary="homework_3. Added 8, 9, 10, 11 tasks">
-      <created>1575915791986</created>
+    <task id="LOCAL-00081" summary="added 10 task(t_distance to some hours)">
+      <created>1584302666798</created>
       <option name="number" value="00081" />
       <option name="presentableId" value="LOCAL-00081" />
       <option name="project" value="LOCAL" />
-      <updated>1575915791986</updated>
+      <updated>1584302666798</updated>
     </task>
-    <task id="LOCAL-00082" summary="homework_2 (slises)">
-      <created>1576170492362</created>
+    <task id="LOCAL-00082" summary="added 11-13 task(t_distance to some hours)">
+      <created>1584394928902</created>
       <option name="number" value="00082" />
       <option name="presentableId" value="LOCAL-00082" />
       <option name="project" value="LOCAL" />
-      <updated>1576170492362</updated>
+      <updated>1584394928903</updated>
     </task>
-    <task id="LOCAL-00083" summary="homework_2_task with up down is DONE">
-      <created>1576174115512</created>
+    <task id="LOCAL-00083" summary="added boolean file">
+      <created>1584718078683</created>
       <option name="number" value="00083" />
       <option name="presentableId" value="LOCAL-00083" />
       <option name="project" value="LOCAL" />
-      <updated>1576174115512</updated>
+      <updated>1584718078684</updated>
     </task>
-    <task id="LOCAL-00084" summary="added solution for while">
-      <created>1576779158718</created>
+    <task id="LOCAL-00084" summary="renamed to begin, added integer, boolean files">
+      <created>1584720949568</created>
       <option name="number" value="00084" />
       <option name="presentableId" value="LOCAL-00084" />
       <option name="project" value="LOCAL" />
-      <updated>1576779158718</updated>
+      <updated>1584720949568</updated>
     </task>
-    <task id="LOCAL-00085" summary="added 1st hmwrk with while">
-      <created>1577388143936</created>
+    <task id="LOCAL-00085" summary="added ex 28 to integer from Abramyan book">
+      <created>1584792622315</created>
       <option name="number" value="00085" />
       <option name="presentableId" value="LOCAL-00085" />
       <option name="project" value="LOCAL" />
-      <updated>1577388143937</updated>
+      <updated>1584792622316</updated>
     </task>
-    <task id="LOCAL-00086" summary="added 1st homework">
-      <created>1577388738154</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1577388738154</updated>
-    </task>
-    <task id="LOCAL-00087" summary="start learn Python with Gennadiy(first exercise)">
-      <created>1580911839109</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
-      <option name="project" value="LOCAL" />
-      <updated>1580911839110</updated>
-    </task>
-    <task id="LOCAL-00088" summary="added 2-8 solution (exercise) from book">
-      <created>1581097616397</created>
-      <option name="number" value="00088" />
-      <option name="presentableId" value="LOCAL-00088" />
-      <option name="project" value="LOCAL" />
-      <updated>1581097616397</updated>
-    </task>
-    <task id="LOCAL-00089" summary="added 18, 19 solution (exercise) from book">
-      <created>1582566875051</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1582566875052</updated>
-    </task>
-    <task id="LOCAL-00090" summary="added 21 solution (exercise) from book(needs to be finished)">
-      <created>1582568133100</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1582568133100</updated>
-    </task>
-    <task id="LOCAL-00091" summary="added 21 solution with Geron (exercise) from book(needs to be finished)">
-      <created>1582655379629</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1582655379629</updated>
-    </task>
-    <task id="LOCAL-00092" summary="added 22 and 23 solution with Geron (exercise) from book(needs to be finished)">
-      <created>1582742300602</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1582742300603</updated>
-    </task>
-    <task id="LOCAL-00093" summary="added 23 solution with Geron (exercise) from book(needs to be finished)">
-      <created>1582826801661</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1582826801661</updated>
-    </task>
-    <task id="LOCAL-00094" summary="added 24 solution with Geron (exercise) from book(needs to be finished)">
-      <created>1582827810301</created>
-      <option name="number" value="00094" />
-      <option name="presentableId" value="LOCAL-00094" />
-      <option name="project" value="LOCAL" />
-      <updated>1582827810301</updated>
-    </task>
-    <task id="LOCAL-00095" summary="added 26 solution from Abramyan_s book (needs to be finished)">
-      <created>1583150885051</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1583150885051</updated>
-    </task>
-    <task id="LOCAL-00096" summary="added 28-29 solution from Abramyan_s book (needs to be finished)">
-      <created>1583258100248</created>
-      <option name="number" value="00096" />
-      <option name="presentableId" value="LOCAL-00096" />
-      <option name="project" value="LOCAL" />
-      <updated>1583258100248</updated>
-    </task>
-    <task id="LOCAL-00097" summary="added 30-33 solution from Abramyan_s book (needs to be finished)">
-      <created>1583260070734</created>
-      <option name="number" value="00097" />
-      <option name="presentableId" value="LOCAL-00097" />
-      <option name="project" value="LOCAL" />
-      <updated>1583260070734</updated>
-    </task>
-    <task id="LOCAL-00098" summary="added 30-33 solution from Abramyan_s book (needs to be finished)">
-      <created>1583260097885</created>
-      <option name="number" value="00098" />
-      <option name="presentableId" value="LOCAL-00098" />
-      <option name="project" value="LOCAL" />
-      <updated>1583260097885</updated>
-    </task>
-    <task id="LOCAL-00099" summary="added and corrected 26-33 solution from Abramyan_s book (needs to be finished)">
-      <created>1583329097492</created>
-      <option name="number" value="00099" />
-      <option name="presentableId" value="LOCAL-00099" />
-      <option name="project" value="LOCAL" />
-      <updated>1583329097493</updated>
-    </task>
-    <task id="LOCAL-00100" summary="added 34-35 solution from Abramyan_s book (needs to be finished)">
-      <created>1583433475859</created>
-      <option name="number" value="00100" />
-      <option name="presentableId" value="LOCAL-00100" />
-      <option name="project" value="LOCAL" />
-      <updated>1583433475861</updated>
-    </task>
-    <task id="LOCAL-00101" summary="added 34-35 solution from Abramyan_s book (needs to be finished)">
-      <created>1583863640022</created>
-      <option name="number" value="00101" />
-      <option name="presentableId" value="LOCAL-00101" />
-      <option name="project" value="LOCAL" />
-      <updated>1583863640022</updated>
-    </task>
-    <task id="LOCAL-00102" summary="added 36 solution from Abramyan_s book (needs to be finished)">
-      <created>1583931287339</created>
-      <option name="number" value="00102" />
-      <option name="presentableId" value="LOCAL-00102" />
-      <option name="project" value="LOCAL" />
-      <updated>1583931287341</updated>
-    </task>
-    <task id="LOCAL-00103" summary="added 38/29/40 solution from Abramyan_s book (needs to be finished)">
-      <created>1583933707311</created>
-      <option name="number" value="00103" />
-      <option name="presentableId" value="LOCAL-00103" />
-      <option name="project" value="LOCAL" />
-      <updated>1583933707311</updated>
-    </task>
-    <task id="LOCAL-00104" summary="added integer tasks 1-8 solution from Abramyan_s book (needs to be finished)">
-      <created>1584036521341</created>
-      <option name="number" value="00104" />
-      <option name="presentableId" value="LOCAL-00104" />
-      <option name="project" value="LOCAL" />
-      <updated>1584036521342</updated>
-    </task>
-    <task id="LOCAL-00105" summary="added 1-8 integer solution from Abramyan_s book (needs to be finished)">
-      <created>1584352498222</created>
-      <option name="number" value="00105" />
-      <option name="presentableId" value="LOCAL-00105" />
-      <option name="project" value="LOCAL" />
-      <updated>1584352498223</updated>
-    </task>
-    <task id="LOCAL-00106" summary="added 1-8 integer solution from Abramyan_s book (needs to be finished)">
-      <created>1584352769166</created>
-      <option name="number" value="00106" />
-      <option name="presentableId" value="LOCAL-00106" />
-      <option name="project" value="LOCAL" />
-      <updated>1584352769166</updated>
-    </task>
-    <task id="LOCAL-00107" summary="added integer 11 solution from Abramyan_s book (needs to be finished)">
-      <created>1584355084662</created>
-      <option name="number" value="00107" />
-      <option name="presentableId" value="LOCAL-00107" />
-      <option name="project" value="LOCAL" />
-      <updated>1584355084662</updated>
-    </task>
-    <option name="localTasksCounter" value="108" />
+    <option name="localTasksCounter" value="86" />
     <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Doctests_in_abcd - 2018.10.22 at 08h 05m 13s.xml">
+      <configuration name="Doctests in abcd" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_abcd - 2018.10.22 at 08h 21m 40s.xml">
+      <configuration name="Doctests in abcd" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_abcd - 2018.10.22 at 08h 22m 32s.xml">
+      <configuration name="Doctests in abcd" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_abcd - 2018.10.22 at 08h 24m 11s.xml">
+      <configuration name="Doctests in abcd" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_abcd - 2018.10.22 at 08h 26m 29s.xml">
+      <configuration name="Doctests in abcd" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_abcd - 2018.10.22 at 08h 27m 47s.xml">
+      <configuration name="Doctests in abcd" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_abcd - 2018.10.22 at 08h 35m 12s.xml">
+      <configuration name="Doctests in abcd" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_abcd - 2018.10.22 at 08h 36m 29s.xml">
+      <configuration name="Doctests in abcd" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_abcd - 2018.10.22 at 22h 43m 50s.xml">
+      <configuration name="Doctests in abcd" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_abcd - 2018.10.23 at 22h 16m 45s.xml">
+      <configuration name="Doctests in abcd" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -613,118 +654,90 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="lessons 3 and 4. JSON,differences between dump, dumps, load, loads ect" />
-    <MESSAGE value="homework_3. Added 8, 9, 10, 11 tasks" />
-    <MESSAGE value="homework_2 (slises)" />
-    <MESSAGE value="homework_2_task with up down is DONE" />
-    <MESSAGE value="added solution for while" />
-    <MESSAGE value="added 1st hmwrk with while" />
-    <MESSAGE value="added 1st homework" />
-    <MESSAGE value="start learn Python with Gennadiy(first exercise)" />
-    <MESSAGE value="added 2-8 solution (exercise) from book" />
-    <MESSAGE value="added 18, 19 solution (exercise) from book" />
-    <MESSAGE value="added 21 solution (exercise) from book(needs to be finished)" />
-    <MESSAGE value="added 21 solution with Geron (exercise) from book(needs to be finished)" />
-    <MESSAGE value="added 22 and 23 solution with Geron (exercise) from book(needs to be finished)" />
-    <MESSAGE value="added 23 solution with Geron (exercise) from book(needs to be finished)" />
-    <MESSAGE value="added 24 solution with Geron (exercise) from book(needs to be finished)" />
-    <MESSAGE value="added 26 solution from Abramyan_s book (needs to be finished)" />
-    <MESSAGE value="added 28-29 solution from Abramyan_s book (needs to be finished)" />
-    <MESSAGE value="added 30-33 solution from Abramyan_s book (needs to be finished)" />
-    <MESSAGE value="added and corrected 26-33 solution from Abramyan_s book (needs to be finished)" />
-    <MESSAGE value="added 34-35 solution from Abramyan_s book (needs to be finished)" />
-    <MESSAGE value="added 36 solution from Abramyan_s book (needs to be finished)" />
-    <MESSAGE value="added 38/29/40 solution from Abramyan_s book (needs to be finished)" />
-    <MESSAGE value="added integer tasks 1-8 solution from Abramyan_s book (needs to be finished)" />
-    <MESSAGE value="added 1-8 integer solution from Abramyan_s book (needs to be finished)" />
-    <MESSAGE value="added integer 11 solution from Abramyan_s book (needs to be finished)" />
-    <option name="LAST_COMMIT_MESSAGE" value="added integer 11 solution from Abramyan_s book (needs to be finished)" />
+    <MESSAGE value="added simple example of decorator @staticmethod" />
+    <MESSAGE value="added info about classes in Python, with comments" />
+    <MESSAGE value="added info about classes in Py., with comments" />
+    <MESSAGE value="added class Car(sample)" />
+    <MESSAGE value="added class CarDealerShip(sample)" />
+    <MESSAGE value="added class refactored CarDealerShip(sample) with list []" />
+    <MESSAGE value="print results of @staticmethod CarDealerShip(sample) with list []" />
+    <MESSAGE value="implemented &quot;напишите метод класса Triangle, с названием from_rectangle(), &#10;который будет возвращать равносторонний треугольник со стороной side, равной side_a четырехугольника Rectangle.&quot;" />
+    <MESSAGE value="start learning incapsullation in OOP" />
+    <MESSAGE value="added simple, private and protected attributes" />
+    <MESSAGE value="added get and set functions with (private and protected variables)" />
+    <MESSAGE value="added try/except to ZeroDivisionError" />
+    <MESSAGE value="added try/except ZeroDivisionError due to a/b" />
+    <MESSAGE value="start working with iterators and generators" />
+    <MESSAGE value="start working with iterators and generators, added format and value" />
+    <MESSAGE value="cover the list + use the format" />
+    <MESSAGE value="added 13 task use the format" />
+    <MESSAGE value="added 17 task use the format" />
+    <MESSAGE value="added test task use the format" />
+    <MESSAGE value="added 36 task(t_distance to some hours)" />
+    <MESSAGE value="added 10 task(t_distance to some hours)" />
+    <MESSAGE value="added 11-13 task(t_distance to some hours)" />
+    <MESSAGE value="added boolean file" />
+    <MESSAGE value="renamed to begin, added integer, boolean files" />
+    <MESSAGE value="added ex 28 to integer from Abramyan book" />
+    <option name="LAST_COMMIT_MESSAGE" value="added ex 28 to integer from Abramyan book" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="451" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580736160784">
-      <screen x="55" y="24" width="1865" height="1056" />
+    <state x="561" y="119" key="CommitChangelistDialog2" timestamp="1584792621435">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="451" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1580736160784" />
-    <state x="693" y="344" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575653022920">
-      <screen x="55" y="24" width="1865" height="1056" />
+    <state x="561" y="119" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1584792621435" />
+    <state x="92" y="92" width="1736" height="866" key="DiffContextDialog" timestamp="1584302741803">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="693" y="344" key="#com.intellij.fileTypes.FileTypeChooser/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1575653022920" />
-    <state x="675" y="267" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1576001489884">
-      <screen x="55" y="24" width="1865" height="1056" />
+    <state x="92" y="92" width="1736" height="866" key="DiffContextDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584302741803" />
+    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1581356219139">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="675" y="267" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1576001489884" />
-    <state x="789" y="170" key="CommitChangelistDialog2" timestamp="1584355084528">
-      <screen x="55" y="24" width="1865" height="1056" />
+    <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1581356219139" />
+    <state width="1899" height="281" key="GridCell.Tab.0.bottom" timestamp="1584792523847">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="599" y="135" key="CommitChangelistDialog2/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1581435862371" />
-    <state x="789" y="170" key="CommitChangelistDialog2/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1584355084528" />
-    <state x="599" y="135" key="CommitChangelistDialog2/55.24.1865.1056@55.24.1865.1056" timestamp="1576779158571" />
-    <state x="154" y="96" width="1667" height="885" key="DiffContextDialog" timestamp="1584353209224">
-      <screen x="55" y="24" width="1865" height="1056" />
+    <state width="1899" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1584792523847" />
+    <state width="1899" height="281" key="GridCell.Tab.0.center" timestamp="1584792523847">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="154" y="96" width="1667" height="885" key="DiffContextDialog/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1584353209224" />
-    <state x="775" y="311" key="FileChooserDialogImpl" timestamp="1581504899212">
-      <screen x="55" y="24" width="1865" height="1056" />
+    <state width="1899" height="281" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1584792523847" />
+    <state width="1899" height="281" key="GridCell.Tab.0.left" timestamp="1584792523847">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="775" y="311" key="FileChooserDialogImpl/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1581504899212" />
-    <state width="1842" height="306" key="GridCell.Tab.0.bottom" timestamp="1584433821929">
-      <screen x="55" y="24" width="1865" height="1056" />
+    <state width="1899" height="281" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1584792523847" />
+    <state width="1899" height="281" key="GridCell.Tab.0.right" timestamp="1584792523847">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1842" height="306" key="GridCell.Tab.0.bottom/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1581504723158" />
-    <state width="1842" height="306" key="GridCell.Tab.0.bottom/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1584433821929" />
-    <state width="1819" height="296" key="GridCell.Tab.0.bottom/55.24.1865.1056@55.24.1865.1056" timestamp="1576778574674" />
-    <state width="1842" height="306" key="GridCell.Tab.0.center" timestamp="1584433821929">
-      <screen x="55" y="24" width="1865" height="1056" />
+    <state width="1899" height="281" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1584792523847" />
+    <state x="184" y="93" key="MergeDialog" timestamp="1583877816039">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1842" height="306" key="GridCell.Tab.0.center/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1581504723157" />
-    <state width="1842" height="306" key="GridCell.Tab.0.center/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1584433821929" />
-    <state width="1819" height="296" key="GridCell.Tab.0.center/55.24.1865.1056@55.24.1865.1056" timestamp="1576778574674" />
-    <state width="1842" height="306" key="GridCell.Tab.0.left" timestamp="1584433821929">
-      <screen x="55" y="24" width="1865" height="1056" />
+    <state x="184" y="93" key="MergeDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1583877816039" />
+    <state x="672" y="242" key="MultipleFileMergeDialog" timestamp="1584450749866">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1842" height="306" key="GridCell.Tab.0.left/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1581504723157" />
-    <state width="1842" height="306" key="GridCell.Tab.0.left/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1584433821929" />
-    <state width="1819" height="296" key="GridCell.Tab.0.left/55.24.1865.1056@55.24.1865.1056" timestamp="1576778574673" />
-    <state width="1842" height="306" key="GridCell.Tab.0.right" timestamp="1584433821929">
-      <screen x="55" y="24" width="1865" height="1056" />
+    <state x="672" y="242" key="MultipleFileMergeDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584450749866" />
+    <state x="461" y="168" key="SettingsEditor" timestamp="1584536462608">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1842" height="306" key="GridCell.Tab.0.right/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1581504723158" />
-    <state width="1842" height="306" key="GridCell.Tab.0.right/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1584433821929" />
-    <state width="1819" height="296" key="GridCell.Tab.0.right/55.24.1865.1056@55.24.1865.1056" timestamp="1576778574674" />
-    <state x="241" y="102" key="MergeDialog" timestamp="1584352622989">
-      <screen x="55" y="24" width="1865" height="1056" />
+    <state x="461" y="168" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1584536462608" />
+    <state x="551" y="258" key="Vcs.Push.Dialog.v2" timestamp="1584394940850">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="241" y="102" key="MergeDialog/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1584352622989" />
-    <state x="697" y="255" key="MultipleFileMergeDialog" timestamp="1584433760560">
-      <screen x="55" y="24" width="1865" height="1056" />
+    <state x="551" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1584394940850" />
+    <state x="656" y="350" key="com.intellij.ide.util.TipDialog" timestamp="1584790912642">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="697" y="255" key="MultipleFileMergeDialog/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1584433760560" />
-    <state x="55" y="24" width="1865" height="1056" key="SettingsEditor" timestamp="1584353208864">
-      <screen x="55" y="24" width="1865" height="1056" />
+    <state x="656" y="350" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584790912642" />
+    <state x="769" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584450741619">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="55" y="-4" width="1865" height="1084" key="SettingsEditor/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1581507074374" />
-    <state x="55" y="24" width="1865" height="1056" key="SettingsEditor/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1584353208864" />
-    <state x="587" y="275" width="1047" height="526" key="Vcs.Push.Dialog.v2" timestamp="1584355114891">
-      <screen x="55" y="24" width="1865" height="1056" />
+    <state x="769" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1584450741619" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1584482749352">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="587" y="275" key="Vcs.Push.Dialog.v2/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1581097620970" />
-    <state x="587" y="275" width="1047" height="526" key="Vcs.Push.Dialog.v2/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1584355114891" />
-    <state x="587" y="275" key="Vcs.Push.Dialog.v2/55.24.1865.1056@55.24.1865.1056" timestamp="1576779171801" />
-    <state x="649" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1584033564187">
-      <screen x="55" y="24" width="1865" height="1056" />
-    </state>
-    <state x="649" y="381" key="com.intellij.ide.util.TipDialog/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1581507092179" />
-    <state x="649" y="381" key="com.intellij.ide.util.TipDialog/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1584033564187" />
-    <state x="649" y="381" key="com.intellij.ide.util.TipDialog/55.24.1865.1056@55.24.1865.1056" timestamp="1576775000368" />
-    <state x="760" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584433747387">
-      <screen x="55" y="24" width="1865" height="1056" />
-    </state>
-    <state x="760" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/55.24.1865.1056/1920.0.1920.1080@55.24.1865.1056" timestamp="1576174053878" />
-    <state x="760" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1584433747387" />
-    <state x="650" y="236" width="672" height="678" key="search.everywhere.popup" timestamp="1583328900243">
-      <screen x="55" y="24" width="1865" height="1056" />
-    </state>
-    <state x="650" y="236" width="672" height="678" key="search.everywhere.popup/55.24.1865.1056/1920.0.1920.1200@55.24.1865.1056" timestamp="1583328900243" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1584482749352" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
