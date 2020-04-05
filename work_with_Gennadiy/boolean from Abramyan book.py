@@ -730,4 +730,4 @@ def bool_40():
 
     print(ok)
 
-bool_40()
+#bool_40()
