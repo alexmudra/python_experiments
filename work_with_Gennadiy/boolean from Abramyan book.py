@@ -690,7 +690,7 @@ def bool_38():
     x2 = int(input("x2? = "))
     y2 = int(input("y2? = "))
 
-    ok = x1 != x2 and y1 != y2  #слон ходить по діагоналі.
+    ok = abs(x1 - x2) == abs(y1 - y2) #комірки змінюються одночасно для слона/офіцер/бішоп
 
     print(ok)
 
@@ -707,7 +707,10 @@ def bool_39():
     x2 = int(input("x2? = "))
     y2 = int(input("y2? = "))
 
-    ok = x1==x2 and y1==y2 and x1-y1 == x2-y2 and x1+y1 == x2+y2 #треба щоб пояснили. Не розумію.
+    #ферзь це поєднання тури або слона(або)
+    ok1 =  ok = x1 == x2 or y1 == y2  #код для тури
+    ok2 = abs(x1 - x2) == abs(y1 - y2) #комірки змінюються одночасно для слона/офіцер/бішоп
+    ok = ok1 or ok2
 
     print(ok)
 
@@ -725,8 +728,9 @@ def bool_40():
     x2 = int(input("x2? = "))
     y2 = int(input("y2? = "))
 
-    ok =(abs(x2-x1) + abs(y2-y1) == 3 and (x2-x1)*(y2-y1) != 0) #адаптував із гугла - треба розібратися
-
+    ok1 = abs(x2-x1)== 2 and abs(y2-y1) == 1
+    ok2 = abs(x2-x1)== 1 and abs(y2-y1) == 2
+    ok = ok1 or ok2
 
     print(ok)
 

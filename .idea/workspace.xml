@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed596d89-71b2-429a-b04c-09a902a2a0f0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/homework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/homework.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="ed596d89-71b2-429a-b04c-09a902a2a0f0" name="Default Changelist" comment="added if py file to project (page 19) from  Abramyan book">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work_with_Gennadiy/boolean from Abramyan book.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_with_Gennadiy/boolean from Abramyan book.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work_with_Gennadiy/if_from_Abramyan_book.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_with_Gennadiy/if_from_Abramyan_book.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +38,7 @@
     <property name="ignore.virus.scanning.warn.message" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/bin" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -59,7 +59,7 @@
   <component name="RobotOptionsProvider">
     <option name="capitalizeKeywords" value="true" />
   </component>
-  <component name="RunManager" selected="Python.integer from Abramyan book (1)">
+  <component name="RunManager" selected="Python.if_from_Abramyan_book">
     <configuration name="begin_from abramyan_book" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="begin_from abramyan_book" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="boolean from Abramyan book (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,7 +93,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\alex\PycharmProjects\python_experiments\work_with_Gennadiy\begin_from abramyan_book.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/work_with_Gennadiy/boolean from Abramyan book.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,6 +144,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="if_from_Abramyan_book" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/work_with_Gennadiy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/work_with_Gennadiy/if_from_Abramyan_book.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="integer from Abramyan book (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -186,42 +207,22 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="my_file_to_iterators_generators" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="homework" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Iterators_generators" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iterators_generators/my_file_to_iterators_generators.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.if else" />
-      <item itemvalue="Python.my_file_to_iterators_generators" />
       <item itemvalue="Python.begin_from abramyan_book" />
-      <item itemvalue="Python.integer from Abramyan book" />
+      <item itemvalue="Python.boolean from Abramyan book (1)" />
       <item itemvalue="Python.boolean from Abramyan book" />
       <item itemvalue="Python.integer from Abramyan book (1)" />
+      <item itemvalue="Python.integer from Abramyan book" />
+      <item itemvalue="Python.if_from_Abramyan_book" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.if_from_Abramyan_book" />
+        <item itemvalue="Python.boolean from Abramyan book (1)" />
         <item itemvalue="Python.integer from Abramyan book (1)" />
         <item itemvalue="Python.integer from Abramyan book" />
         <item itemvalue="Python.boolean from Abramyan book" />
-        <item itemvalue="Python.begin_from abramyan_book" />
-        <item itemvalue="Python.begin_from abramyan_book" />
       </list>
     </recent_temporary>
   </component>
@@ -238,41 +239,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538812277279</updated>
-    </task>
-    <task id="LOCAL-00037" summary="added def func2 (find 0 and 4n via FOR loop">
-      <created>1554226689959</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1554226689959</updated>
-    </task>
-    <task id="LOCAL-00038" summary="added def func1 (find 0 and 4n via FOR loop">
-      <created>1554310132338</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1554310132338</updated>
-    </task>
-    <task id="LOCAL-00039" summary="added function with documentary string">
-      <created>1554312072289</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1554312072289</updated>
-    </task>
-    <task id="LOCAL-00040" summary="added function with documentary stting __doc__ console">
-      <created>1554312395239</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1554312395239</updated>
-    </task>
-    <task id="LOCAL-00041" summary="added func print to console max, min, abc values of a,b,c arguments">
-      <created>1554398611104</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1554398611104</updated>
     </task>
     <task id="LOCAL-00042" summary="added function to change global variable">
       <created>1554745393535</created>
@@ -582,7 +548,42 @@
       <option name="project" value="LOCAL" />
       <updated>1584792622316</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="added ex 28 to integer from Abramyan book">
+      <created>1584792679185</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1584792679185</updated>
+    </task>
+    <task id="LOCAL-00087" summary="added ex 24-29 to bool (page 18) from Abramyan book">
+      <created>1585507941420</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1585507941421</updated>
+    </task>
+    <task id="LOCAL-00088" summary="added ex 30-40 to bool (page 19) from Abramyan book">
+      <created>1586117971066</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1586117971066</updated>
+    </task>
+    <task id="LOCAL-00089" summary="added if py file to project (page 19) from Abramyan book">
+      <created>1586118152098</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1586118152098</updated>
+    </task>
+    <task id="LOCAL-00090" summary="added if_1 to if py file (page 20) from  Abramyan book">
+      <created>1586118491581</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1586118491581</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -654,11 +655,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added simple example of decorator @staticmethod" />
-    <MESSAGE value="added info about classes in Python, with comments" />
-    <MESSAGE value="added info about classes in Py., with comments" />
-    <MESSAGE value="added class Car(sample)" />
-    <MESSAGE value="added class CarDealerShip(sample)" />
     <MESSAGE value="added class refactored CarDealerShip(sample) with list []" />
     <MESSAGE value="print results of @staticmethod CarDealerShip(sample) with list []" />
     <MESSAGE value="implemented &quot;напишите метод класса Triangle, с названием from_rectangle(), &#10;который будет возвращать равносторонний треугольник со стороной side, равной side_a четырехугольника Rectangle.&quot;" />
@@ -679,13 +675,22 @@
     <MESSAGE value="added boolean file" />
     <MESSAGE value="renamed to begin, added integer, boolean files" />
     <MESSAGE value="added ex 28 to integer from Abramyan book" />
-    <option name="LAST_COMMIT_MESSAGE" value="added ex 28 to integer from Abramyan book" />
+    <MESSAGE value="added ex 24-29 to bool (page 18) from Abramyan book" />
+    <MESSAGE value="added ex 30-40 to bool (page 19) from Abramyan book" />
+    <MESSAGE value="added if py file to project (page 19) from Abramyan book" />
+    <MESSAGE value="added if py file to project (page 19) from  Abramyan book" />
+    <MESSAGE value="added if_1 to if py file (page 20) from  Abramyan book" />
+    <option name="LAST_COMMIT_MESSAGE" value="added if_1 to if py file (page 20) from  Abramyan book" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="561" y="119" key="CommitChangelistDialog2" timestamp="1584792621435">
+    <state x="552" y="187" key="#Notifications" timestamp="1586117997976">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="561" y="119" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1584792621435" />
+    <state x="552" y="187" key="#Notifications/0.0.1920.1050@0.0.1920.1050" timestamp="1586117997976" />
+    <state x="561" y="119" key="CommitChangelistDialog2" timestamp="1586118490603">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="561" y="119" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1586118490603" />
     <state x="92" y="92" width="1736" height="866" key="DiffContextDialog" timestamp="1584302741803">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -694,22 +699,22 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1581356219139" />
-    <state width="1899" height="281" key="GridCell.Tab.0.bottom" timestamp="1584792523847">
+    <state width="1899" height="281" key="GridCell.Tab.0.bottom" timestamp="1586330845865">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1584792523847" />
-    <state width="1899" height="281" key="GridCell.Tab.0.center" timestamp="1584792523847">
+    <state width="1899" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1586330845865" />
+    <state width="1899" height="281" key="GridCell.Tab.0.center" timestamp="1586330845865">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1584792523847" />
-    <state width="1899" height="281" key="GridCell.Tab.0.left" timestamp="1584792523847">
+    <state width="1899" height="281" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1586330845865" />
+    <state width="1899" height="281" key="GridCell.Tab.0.left" timestamp="1586330845864">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1584792523847" />
-    <state width="1899" height="281" key="GridCell.Tab.0.right" timestamp="1584792523847">
+    <state width="1899" height="281" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1586330845864" />
+    <state width="1899" height="281" key="GridCell.Tab.0.right" timestamp="1586330845865">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1584792523847" />
+    <state width="1899" height="281" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1586330845865" />
     <state x="184" y="93" key="MergeDialog" timestamp="1583877816039">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -718,18 +723,18 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="672" y="242" key="MultipleFileMergeDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584450749866" />
-    <state x="461" y="168" key="SettingsEditor" timestamp="1584536462608">
+    <state x="461" y="168" key="SettingsEditor" timestamp="1586101326645">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="461" y="168" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1584536462608" />
-    <state x="551" y="258" key="Vcs.Push.Dialog.v2" timestamp="1584394940850">
+    <state x="461" y="168" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1586101326645" />
+    <state x="551" y="258" key="Vcs.Push.Dialog.v2" timestamp="1586118497303">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="551" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1584394940850" />
-    <state x="656" y="350" key="com.intellij.ide.util.TipDialog" timestamp="1584790912642">
+    <state x="551" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1586118497303" />
+    <state x="656" y="350" key="com.intellij.ide.util.TipDialog" timestamp="1586326936813">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="656" y="350" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584790912642" />
+    <state x="656" y="350" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1586326936813" />
     <state x="769" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584450741619">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -754,22 +759,6 @@
         <watch expression="5" language="Python" />
       </configuration>
     </watches-manager>
-  </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="breakpointCondition">
-      <expression>
-        <expression-string>2.3</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
-    <expressions id="watch">
-      <expression>
-        <expression-string>5</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
   </component>
   <component name="masterDetails">
     <states>
