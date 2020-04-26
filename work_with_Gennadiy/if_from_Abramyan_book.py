@@ -667,7 +667,7 @@ def if_28():
 
     print(days)
 
-if_28()
+#if_28()
 
 
 
@@ -692,7 +692,7 @@ def if_29():
 
     print(answer)
 
-if_29()
+#if_29()
 
 
 
@@ -701,7 +701,33 @@ if_29()
 # и т. д.
 
 
-def if_29():
-    x = int(input("x? = "))
+def if_30():
+    x = int(input("x in range 1-1999? = "))
+
+    if x % 2 == 0:
+        answer = " parne"
+    else:
+        answer = "ne parne"
+
+    if x > 1 and x <= 99:
+        answer += " dvoznachne"
+    if x >=100 and x <= 999:
+        answer += " trohznachne"
+    if x >= 1000 and x <=1999:
+        answer += " chotiriohnachne"
+
+    answer += " chislo"
+
+
+
+    print(answer)
+
+if_30()
+
+
+
+
+
+
 
 
