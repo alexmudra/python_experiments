@@ -718,8 +718,6 @@ def if_30():
 
     answer += " chislo"
 
-
-
     print(answer)
 
 if_30()
@@ -727,6 +725,38 @@ if_30()
 
 
 
+def is_odd(x):
+    if x % 2 == 0:
+        answer = " parne"
+    else:
+        answer = "ne parne"
+    return answer
+
+
+def which_number(x):
+
+    answer = ""
+    if x >=1 and x <=9:
+       answer += "odnoznachne"
+    if x >= 10 and x <= 99:
+       answer += "dvoznachne"
+    if x >= 100 and x <= 999:
+       answer += "trohznachne"
+    if x >= 1000 and x <= 1999:
+       answer += "chotiriohnachne"
+    return answer
+
+
+def if_30a():
+
+    x = int(input("x in range 1-1999? = "))
+
+    de_odd = is_odd(x)
+    w_num = which_number(x)
+
+    print(de_odd, w_num, "chislo")
+
+if_30a()
 
 
 
