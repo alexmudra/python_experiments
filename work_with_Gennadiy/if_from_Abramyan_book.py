@@ -726,32 +726,50 @@ if_30()
 
 
 def is_odd(x):
-    if x % 2 == 0:
-        answer = " parne"
-    else:
-        answer = "ne parne"
-    return answer
+    # if x % 2 == 0:
+    #     answer = " parne"
+    # else:
+    #     answer = "ne parne"
+    # return answer
+    return x % 2 == 0
 
 
 def which_number(x):
 
-    answer = ""
+    answer = "unknown"
     if x >=1 and x <=9:
        answer += "odnoznachne"
-    if x >= 10 and x <= 99:
+    elif x >= 10 and x <= 99:
        answer += "dvoznachne"
-    if x >= 100 and x <= 999:
+    elif x >= 100 and x <= 999:
        answer += "trohznachne"
-    if x >= 1000 and x <= 1999:
+    elif x >= 1000 and x <= 1999:
        answer += "chotiriohnachne"
     return answer
+
+
+
+def which_number_1(x):
+
+    if x >=1 and x <=9:
+       return  "odnoznachne" #можна в функціях в if використовувати return
+    elif x >= 10 and x <= 99:
+       return "dvoznachne"
+    elif x >= 100 and x <= 999:
+       return "trohznachne"
+    elif x >= 1000 and x <= 1999:
+       return "chotiriohnachne"
+    else:
+        return "unknown"
 
 
 def if_30a():
 
     x = int(input("x in range 1-1999? = "))
 
-    de_odd = is_odd(x)
+    de_odd = "parne"
+    if not is_odd(x):
+        de_odd = "ne parne"
     w_num = which_number(x)
 
     print(de_odd, w_num, "chislo")

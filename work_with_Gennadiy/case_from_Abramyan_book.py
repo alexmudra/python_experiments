@@ -57,13 +57,15 @@ def case2():
 
 def case_3():
     month = int(input("input month(1-12) = "))
-    season = "winter"
+    season = "error"
     if month in [2,3,4]:
         season = "spring"
     elif month in [5,6,7]:
         season = "summer"
     elif month in [8,9,10]:
         season = "outhem"
+    elif month in [11,12,1]:
+        season = "winter"
 
     print(season)
 
@@ -129,3 +131,91 @@ def case_4():
     print("days = ", month_days)
 
 #case_4()
+
+
+#
+# Case5. Арифметические действия над числами пронумерованы следующим
+# образом: 1 — сложение, 2 — вычитание, 3 — умножение, 4 — деление. Дан
+# номер действия N (целое число в диапазоне 1–4) и вещественные числа A
+# и B (B не равно 0). Выполнить над числами указанное действие и вывести
+# результат
+
+
+def case_5():
+    a = int(input("input A = "))
+    while True:
+        b = int(input("input B = "))
+        if b != 0:
+            break
+    operations = input("operation (+ - * /)= ")
+
+    if operations == "+":
+        answer = a + b
+    elif operations == "-":
+        answer = a - b
+    elif operations == "*":
+        answer = a * b
+    elif operations == "/":
+        answer = a / b
+    else:
+        answer = "unknown operation"
+
+    print(answer)
+
+#case_5()
+
+
+def test():
+    a = int(input("input A = "))
+    b = int(input("input B = "))
+    try:
+        z = a / b
+    except:
+        print("error.Divisin by ZERO is not alloved")
+
+
+#test()
+
+# Case6. Единицы длины пронумерованы следующим образом: 1 — дециметр,
+# 2 — километр, 3 — метр, 4 — миллиметр, 5 — сантиметр. Дан номер
+# единицы длины (целое число в диапазоне 1–5) и длина отрезка в этих
+# единицах (вещественное число). Найти длину отрезка в метрах.
+
+
+def case_6():
+    print("1 - decimetr")
+    print("2 - km")
+    print("3 - metr")
+    print("4 - milimetr")
+    print("5 - santimert")
+    n = int(input("input n(1 2 3 4 5) = "))
+    lenghth = int(input("input length = "))
+
+    if n == 1:
+        answer = lenghth / 10
+    elif n == 2:
+        answer = lenghth * 1000
+    elif n == 3:
+        answer = lenghth
+    elif n == 4:
+        answer = lenghth / 1000
+    elif n == 5:
+        answer = lenghth / 100
+    else:
+        answer = "error"
+
+    print(answer)
+
+case_6()
+
+# Case7. Единицы массы пронумерованы следующим образом: 1 — килограмм,
+# 2 — миллиграмм, 3 — грамм, 4 — тонна, 5 — центнер. Дан номер единицы массы (целое число в диапазоне 1–5) и масса тела в этих единицах
+# (вещественное число). Найти массу тела в килограммах.
+
+
+
+# Case8. Даны два целых числа: D (день) и M (месяц), определяющие правильную дату невисокосного года. Вывести значения D и M для даты,
+# предшествующей указанной.
+# Case9◦
+# . Даны два целых числа: D (день) и M (месяц), определяющие правильную дату невисокосного года. Вывести значения D и M для даты,
+# следующей за указанной.
