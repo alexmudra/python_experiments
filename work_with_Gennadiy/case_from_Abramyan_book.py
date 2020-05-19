@@ -1,3 +1,6 @@
+import math
+from math import pi
+
 #Case1. Дано целое число в диапазоне 1–7. Вывести строку — название дня
 # недели, соответствующее данному числу (1 — «понедельник», 2 — «вторник» и т. д.).
 
@@ -206,16 +209,321 @@ def case_6():
 
     print(answer)
 
-case_6()
+#case_6()
 
 # Case7. Единицы массы пронумерованы следующим образом: 1 — килограмм,
 # 2 — миллиграмм, 3 — грамм, 4 — тонна, 5 — центнер. Дан номер единицы массы (целое число в диапазоне 1–5) и масса тела в этих единицах
 # (вещественное число). Найти массу тела в килограммах.
 
+def case_7():
+    print("1 - kilogram")
+    print("2 - miligramm")
+    print("3 - gramm")
+    print("4 - tonna")
+    print("5 - centner")
+    n = int(input("input № mass value: 1, 2, 3, 4, 5) = "))
+    mass = float(input("input mass = "))
 
+    if n == 1:
+        answer = mass
+    elif n == 2:
+        answer = mass * 1000
+    elif n == 3:
+        answer = mass * 1000
+    elif n == 4:
+        answer = mass / 1000
+    elif n == 5:
+        answer = mass * 100
+    else:
+        answer = "input other value"
+
+    print(answer)
+
+#case_7()
 
 # Case8. Даны два целых числа: D (день) и M (месяц), определяющие правильную дату невисокосного года. Вывести значения D и M для даты,
 # предшествующей указанной.
+
+def case_8():
+    d = int(input("input day: 1-31) = "))
+    m = int(input("input month: 1-12) = "))
+    y = int(input("input year: ) = "))
+
+    if d > 1:
+        d -= 1
+    else: #тут ми розглядаємо 1 число місяця
+        m -= 1
+        if m == 0: # внутрішня умова, якщо т == 0 (наприклад 1-1), то буде 12
+            m = 12
+            y -= 1
+        d = get_month_days(m,y)
+
+    print(d,m,y)
+
+#case_8()
+
+
 # Case9◦
 # . Даны два целых числа: D (день) и M (месяц), определяющие правильную дату невисокосного года. Вывести значения D и M для даты,
 # следующей за указанной.
+
+#дз
+def case_9():
+    d = int(input("input day: (1-31) = "))
+    m = int(input("input month: (1-12) = "))
+    y = int(input("input year: ) = "))
+
+    if d > 1:
+        d += 1
+    else: #тут ми розглядаємо 1 число місяця
+        m += 1
+        if m == 0: # внутрішня умова, якщо т == 0 (наприклад 1-1), то буде 12
+            m = 12
+            y += 1
+        d = get_month_days(m,y)
+
+    print(d,m,y)
+#case_9()
+
+
+
+# Case10◦. Робот может перемещаться в четырех направлениях («С» — север,
+# «З» — запад, «Ю» — юг, «В» — восток) и принимать три цифровые ко-
+# манды: 0 — продолжать движение, 1 — поворот налево, −1 — поворот
+# направо. Дан символ C — исходное направление робота и целое число N
+# — посланная ему команда. Вывести направление робота после выполне-
+# ния полученной команды.
+
+
+def case_10():
+    x = 0 #початкова точка у робота
+    y = 0
+    direction = "north"
+
+    while True:
+        print(x,y,direction) # робот показує свій поточний стан
+        command = input("command (right, left, go, exit)= ")
+        if command == "right":
+            if direction == "north":
+                direction = "east"
+            elif direction == "east":
+                direction = "south"
+            elif direction == "south":
+                direction = "west"
+            elif direction == "west":
+                direction = "north"
+        if command == "left":
+            if direction == "north":
+                direction = "west"
+            elif direction == "east":
+                direction = "north"
+            elif direction == "south":
+                direction = "east"
+            elif direction == "west":
+                direction = "south"
+        if command == "go":
+            if direction == "north":
+                y = y + 1
+            elif direction == "east":
+                x = x + 1
+            elif direction == "south":
+                y = y - 1
+            elif direction == "west":
+                x = x - 1
+        if command == "exit":
+            break
+
+#case_10()
+
+
+# Case11. Локатор ориентирован на одну из сторон света («С» — север, «З» —
+# запад, «Ю» — юг, «В» — восток) и может принимать три цифровые коман-
+# ды поворота: 1 — поворот налево, −1 — поворот направо, 2 — поворот на
+# 180◦. Дан символ C — исходная ориентация локатора и целые числа N1
+# и N2 — две посланные команды. Вывести ориентацию локатора после
+# выполнения этих команд.
+
+
+def case_11():
+    x = 0 #початкова точка із координатами локатора
+    y = 0
+    direction = ""
+
+    while True:
+        print(x,y,direction) # робот показує свій поточний стан
+        command = input("command (left, right, turn 180, exit)= ")
+
+        if command == "left":
+            direction = "west"
+
+
+
+
+# Case12. Элементы окружности пронумерованы следующим образом: 1 — ра-
+# диус R, 2 — диаметр D = 2·R, 3 — длина L = 2·π·R, 4 — площадь кру-
+# га S = π·R2. Дан номер одного из этих элементов и его значение. Вывести
+# значения остальных элементов данной окружности (в том же порядке). В
+# качестве значения π использовать 3.14.
+def case_12():
+    value = float(input("enter value: "))
+    tr_element = input("element (r, d , l , s): ")
+
+
+    if tr_element == "r":
+        r = value
+        d = 2 * r
+        l = 2*pi*r
+        s = pi * r*math.sqrt(2)
+    if tr_element == "d":
+        d = value
+        r = d / 2
+        l = 2*pi*r
+        s = pi*r*math.sqrt(2)
+    if tr_element == "l":
+        l = value
+        r = l / 2 * pi
+        d = r * 2
+        s = pi*r*math.sqrt(2)
+    if tr_element == "s":
+        s = value
+        r = s / pi * math.sqrt(2)
+        d = r * 2
+        l = 2*pi *r
+
+    print(r, d , l , s)
+
+#case_12()
+
+
+
+# Case13. Элементы равнобедренного прямоугольного треугольника пронуме-
+# рованы следующим образом: 1 — катет a, 2 — гипотенуза c = a·
+# √
+# 2, 3 —
+# высота h, опущенная на гипотенузу (h = c/2), 4 — площадь S = c·h/2.
+# Дан номер одного из этих элементов и его значение. Вывести значения
+# остальных элементов данного треугольника (в том же порядке)
+
+def case_13():
+    value = float(input("enter value: "))
+    tr_element = input("element (a, c , h , s): ")
+
+    if tr_element == "a":
+        a = value
+        c = a * math.sqrt(2)
+        h = c / 2
+        s = c * h / 2
+    if tr_element == "c":
+        c = value
+        a = c / math.sqrt(2)
+        h = c / 2
+        s = c * h / 2
+    if tr_element == "h":
+        h = value
+        c = 2 * h
+        a = c / math.sqrt(2)
+        s = c * h / 2
+    if tr_element == "s":
+        s = value
+        h = math.sqrt(s)
+        c = 2 * h
+        a = c / math.sqrt(2)
+
+    print(a , c , h , s)
+
+
+#case_13()
+
+
+# Case14. Элементы равностороннего треугольника пронумерованы следую-
+# щим образом: 1 — сторона a, 2 — радиус R1 вписанной окружности
+# (R1 = a·
+# √
+# 3/6), 3 — радиус R2 описанной окружности (R2 = 2·R1), 4 —
+# площадь S = a2·
+# √
+# 3/4. Дан номер одного из этих элементов и его значение.
+# Вывести значения остальных элементов данного треугольника (в том же
+# порядке).
+
+#dz
+
+def case_14():
+    value = float(input("enter value: "))
+    tr_element = input("element (a, r1, r2, s): ")
+
+    if tr_element == "a":
+        a = value
+        r1 = a*math.sqrt(3/6) #радіус вписаної окружності
+        r2 = 2 * r1
+        s = pow(a,2)*math.sqrt(3/4)
+    if tr_element == "r1":
+        r1 = value
+        a = r1 / math.sqrt(3/6)
+        r2 = 2 * r1
+        s = pow(a,2)*math.sqrt(3/4)
+    if tr_element == "r2":
+        r2 = value
+        r1 = r2 / 2
+        a = r1 / math.sqrt(3/6)
+        s = pow(a,2)*math.sqrt(3/4)
+    if tr_element == "s":
+        s = value
+        a = s / a * math.sqrt(3/4)
+        r1 = a * math.sqrt(3 / 6)
+        r2 = 2 * r1
+    print("(a, r1, r2, s", a, r1, r2, s)
+
+#case_14()
+
+
+
+
+
+# Case15. Мастям игральных карт присвоены порядковые номера: 1 — пики,
+# 2 — трефы, 3 — бубны, 4 — червы. Достоинству карт, старших десятки,
+# присвоены номера: 11 — валет, 12 — дама, 13 — король, 14 — туз. Даны
+# два целых числа: N — достоинство (6 ≤ N ≤ 14) и M — масть карты
+# (1 ≤ M ≤ 4). Вывести название соответствующей карты вида «шестерка
+# бубен», «дама червей», «туз треф» и т. п.
+
+
+def case_15():
+    n = int(input("enter dostoinstvo karti: "))
+    m_suit = input("suit ((s)pade, (c)lubs, (h)arts, (d)iamants) = ")
+
+    while True:
+        if n == 6:
+            n = "six"
+            if m_suit == "s":
+                m_suit = "spade"
+            elif m_suit == "c":
+                m_suit = "clubs"
+            elif m_suit == "h":
+                m_suit = "harts"
+            elif m_suit == "d":
+                m_suit = "diamants"
+
+        print(n, m_suit)
+
+case_15()
+
+#
+# def case_10():
+#     x = 0 #початкова точка у робота
+#     y = 0
+#     direction = "north"
+#
+#     while True:
+#         print(x,y,direction) # робот показує свій поточний стан
+#         command = input("command (right, left, go, exit)= ")
+#         if command == "right":
+#             if direction == "north":
+#                 direction = "east"
+#             elif direction == "east":
+#                 direction = "south"
+#             elif direction == "south":
+#                 direction = "west"
+#             elif direction == "west":
+#                 direction = "north"
+#         if command == "left":
