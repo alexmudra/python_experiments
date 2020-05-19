@@ -273,17 +273,21 @@ def case_9():
     m = int(input("input month: (1-12) = "))
     y = int(input("input year: ) = "))
 
-    if d > 1:
+
+    last_day = get_month_days(m,y) #взнаємо останній день місяці
+
+    if d < last_day:
         d += 1
-    else: #тут ми розглядаємо 1 число місяця
+    else: #тут ми розглядаємо останній день місяця
         m += 1
-        if m == 0: # внутрішня умова, якщо т == 0 (наприклад 1-1), то буде 12
-            m = 12
+        if m == 13: # внутрішня умова, якщо т == 0 (наприклад 1-1), то буде 12
+            m = 1
             y += 1
-        d = get_month_days(m,y)
+        d = 1
+
 
     print(d,m,y)
-#case_9()
+case_9()
 
 
 
@@ -489,24 +493,36 @@ def case_14():
 
 
 def case_15():
-    n = int(input("enter dostoinstvo karti: "))
-    m_suit = input("suit ((s)pade, (c)lubs, (h)arts, (d)iamants) = ")
 
     while True:
-        if n == 6:
-            n = "six"
-            if m_suit == "s":
-                m_suit = "spade"
-            elif m_suit == "c":
-                m_suit = "clubs"
-            elif m_suit == "h":
-                m_suit = "harts"
-            elif m_suit == "d":
-                m_suit = "diamants"
+        n = input("enter karti(6,7,8,9,T,J,Q,K,A): ")
+        m_suit = input("suit ((s)pade, (c)lubs, (h)arts, (d)iamants) = ")
 
-        print(n, m_suit)
+        result = ""
 
-case_15()
+        if n == "6":
+            result = "six "
+        elif n == "7":
+            result = "seven "
+        else:
+            result += "error "
+        #etc
+
+
+        if m_suit == "s":
+            result += "spade"
+        elif m_suit == "c":
+            result += "clubs"
+        elif m_suit == "h":
+            result += "harts"
+        elif m_suit == "d":
+            result += "diamonds"
+        else:
+            result += "error "
+
+        print(result)
+
+#case_15()
 
 #
 # def case_10():
