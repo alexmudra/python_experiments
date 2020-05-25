@@ -287,7 +287,8 @@ def case_9():
 
 
     print(d,m,y)
-case_9()
+
+#case_9()
 
 
 
@@ -349,16 +350,47 @@ def case_10():
 
 
 def case_11():
-    x = 0 #початкова точка із координатами локатора
-    y = 0
-    direction = ""
+    direction = "south"
 
     while True:
-        print(x,y,direction) # робот показує свій поточний стан
+        print(direction) # робот показує свій поточний стан
         command = input("command (left, right, turn 180, exit)= ")
 
         if command == "left":
-            direction = "west"
+            if direction == "south":
+                direction = "east"
+            elif direction == "north":
+                direction = "west"
+            elif direction == "west":
+                direction = "south"
+            elif direction == "east":
+                direction = "north"
+
+        if command == "right":
+            if direction == "south":
+                direction = "west"
+            elif direction == "north":
+                direction = "east"
+            elif direction == "west":
+                direction = "north"
+            elif direction == "east":
+                direction = "south"
+
+        if command == "turn 180":
+            if direction == "south":
+                direction = "north"
+            elif direction == "north":
+                direction = "south"
+            elif direction == "west":
+                direction = "east"
+            elif direction == "east":
+                direction = "west"
+
+        if command == "exit":
+            break
+
+#case_11()
+
 
 
 
@@ -524,22 +556,62 @@ def case_15():
 
 #case_15()
 
-#
-# def case_10():
-#     x = 0 #початкова точка у робота
-#     y = 0
-#     direction = "north"
-#
-#     while True:
-#         print(x,y,direction) # робот показує свій поточний стан
-#         command = input("command (right, left, go, exit)= ")
-#         if command == "right":
-#             if direction == "north":
-#                 direction = "east"
-#             elif direction == "east":
-#                 direction = "south"
-#             elif direction == "south":
-#                 direction = "west"
-#             elif direction == "west":
-#                 direction = "north"
-#         if command == "left":
+# Case20. Даны два целых числа: D (день) и M (месяц), определяющие пра-
+# вильную дату. Вывести знак Зодиака, соответствующий этой дате: «Водо-
+# лей» (20.1–18.2), «Рыбы» (19.2–20.3), «Овен» (21.3–19.4), «Телец» (20.4–
+# 20.5), «Близнецы» (21.5–21.6), «Рак» (22.6–22.7), «Лев» (23.7–22.8), «Де-
+# ва» (23.8–22.9), «Весы» (23.9–22.10), «Скорпион» (23.10–22.11), «Стре-
+# лец» (23.11–21.12), «Козерог» (22.12–19.1).
+
+
+def is_month (m , month):
+    month = 12
+    if month > 12:
+        raise Exception ("You input over 12 month. Try again, pls")
+
+
+def case_20():
+    d = int(input("enter day (1-31): "))
+    m = int(input("enter month (1-12): "))
+    result = "Input correct value"
+
+    # while True:
+    if (d >= 18 and m >= 1) or (d <= 20 and m <= 2):
+        result = "Vodoley"
+    if (d >= 19 and m >=2) or (d <= 20 and m <=3):
+        result = "Fish"
+    if (d >= 21 and m >=3) or (d <= 19 and m <=4):
+        result = "Oven"
+    if (d >= 20 and m >=4) or (d <= 20 and m <= 5):
+        result = "Telec"
+    if (d >= 21 and m >=5) or (d <=21 and m <= 6):
+        result = "Bliznetci"
+    if (d >= 22 and m >=6) or (d <= 22 and m <=7):
+        result = "Rack"
+    if (d >= 23 and m >=7) or (d <= 22 and m <=23):
+        result = "Lev"
+    if (d >= 23 and m >=8) or (d <=22 and m <= 9):
+        result = "Deva"
+    if (d >= 23 and m >=9) or (d <= 22 and m <= 10):
+        result = "Vesi"
+    if (d >= 23 and m >= 10) or (d <= 22 and m <= 11):
+        result = "Scorpion"
+    if (d >= 23 and m >= 11) or ( d <= 21 and m <= 12):
+        result = "Streletc"
+    if (d >= 22 and m == 12) or (d <= 19 and m == 1):
+        result = "Kozerog"
+
+    print(result)
+
+        # try:
+        #     x = is_month(m,12)
+        #     print(x)
+        # except Exception as f:
+        #     print(f)
+
+
+case_20()
+
+
+
+
