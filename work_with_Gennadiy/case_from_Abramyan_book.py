@@ -572,12 +572,15 @@ def is_month (m , month):
 
 def case_20():
     d = int(input("enter day (1-31): "))
-    m = int(input("enter month (1-12): "))
+
+    while True:
+        m = int(input("enter month (1-12): ")) #перевіряємо коректність вводу місяців
+        if 1 <= m and m <= 12:
+            break
+        print("Incorrect month. Try again...")
     result = "Input correct value"
 
-    # while True:
-    if (d >= 18 and m >= 1) or (d <= 20 and m <= 2):
-        result = "Vodoley"
+    if (d >= 18 and m >= 1) or (d <= 20 and m <= 2): result = "Vodoley"
     if (d >= 19 and m >=2) or (d <= 20 and m <=3):
         result = "Fish"
     if (d >= 21 and m >=3) or (d <= 19 and m <=4):
