@@ -142,19 +142,15 @@ def for_8():
 # For9. Даны два целых числа A и B (A < B). Найти сумму квадратов всех целых
 # чисел от A до B включительно.
 def for_9():
-    pass
+    a = int(input("Input a: "))
+    b = int(input("Input b: "))
+    sum = 1
+
+    for i in range(a,b+1):
+        sum = sum + sqrt(i)
+    print(sum)
+
 
 
 for_9()
 
-
-
-
-
-
-
-
-
-
-# For9. Даны два целых числа A и B (A < B). Найти сумму квадратов всех целых
-# чисел от A до B включительно.
