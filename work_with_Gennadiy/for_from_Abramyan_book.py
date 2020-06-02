@@ -147,7 +147,7 @@ def for_9():
     sum = 1
 
     for i in range(a,b+1):
-        sum = sum + sqrt(i)
+        sum = i ** 2
     print(sum)
 
 
