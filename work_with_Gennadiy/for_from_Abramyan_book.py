@@ -10,9 +10,16 @@ def for_1 ():
     k = int(input("Input K: "))
     n = int(input("Input N: "))
 
-    for k in range(1,n):
+    for i in range(n):
         print(k)
 
+#Input K: 3
+# Input N: 5
+# 3
+# 3
+# 3
+# 3
+# 3
 
 
 
@@ -24,20 +31,23 @@ def coror():
         i += 1
 
 
+
 # For2. Даны два целых числа A и B (A < B). Вывести в порядке возрастания все
 # целые числа, расположенные между A и B (включая сами числа A и B), а
 # также количество N этих чисел.
 
 
 def for_2():
-    a = int(input("Input a: "))
-    b = int(input("Input b: "))
+    while True:
+        a = int(input("Input a: "))
+        b = int(input("Input b: "))
 
-    if a < b:
-        for n in range (a,b+1):
-            print(n)
-    else:
-        print("Enter a < b")
+        if a < b:
+            for n in range (a,b+1):
+                print(n)
+            break #вихід із циклу while
+        else:
+            print("Enter a < b")
 
 
 
@@ -68,9 +78,10 @@ def for_3():
 def for_4():
     kandy_price = int(input("Input price: "))
 
-    for i in range(10):
+    for i in range(1, 10+1):
         sum = kandy_price * i
         print("Total sum for kandy price", i,"is:", sum)
+
 
 
 # For5◦. Дано вещественное число — цена 1 кг конфет. Вывести стоимость 0.1,
@@ -78,9 +89,12 @@ def for_4():
 
 def for_5():
     one_kg_price = float(input("Input price: "))
+    weight = 0.1
+    for i in range (100):
+        cost = one_kg_price*weight
+        print("%7.3f"%weight, ' кг. коштує - ', "%7.2f"%cost, "UAH")
+        weight +=0.1
 
-    for i in range (1, 10, 1):
-        print(i / 10, ' кг. коштує - ', one_kg_price * (i / 10), "UAH")
 
 
 #or6. Дано вещественное число — цена 1 кг конфет. Вывести стоимость 1.2,
@@ -91,18 +105,20 @@ def for_5():
 def for_6():
     one_kg_price = float(input("Input price: "))
 
-    for i in range (1,20,1):
-        print(1+i/10, ' кг. коштує - ', one_kg_price * 1+i /10, "UAH")
+    weight = 1.2
+    for i in range (5):
+        cost = one_kg_price * weight
+        print("%7.3f" % weight, ' кг. коштує - ', "%7.2f" % cost, "UAH")
+        weight += 0.2
 
-#Input price: 200
-# 1.1  кг. коштує -  200.1 UAH
-# 1.2  кг. коштує -  200.2 UAH
-# 1.3  кг. коштує -  200.3 UAH
-# 1.4  кг. коштує -  200.4 UAH
-# 1.5  кг. коштує -  200.5 UAH
-# 1.6  кг. коштує -  200.6 UAH
+# Input price: 2
+#   1.200  кг. коштує -     2.40 UAH
+#   1.400  кг. коштує -     2.80 UAH
+#   1.600  кг. коштує -     3.20 UAH
+#   1.800  кг. коштує -     3.60 UAH
+#   2.000  кг. коштує -     4.00 UAH
 
-
+#=================================================================================
 
 
 # For7. Даны два целых числа A и B (A < B). Найти сумму всех целых чисел
@@ -114,10 +130,9 @@ def for_7():
 
     sum = 0
 
-    if a < b:
-        for i in range(a,b+1):
-            sum = sum + i;
-        print(sum)
+    for i in range(a,b+1):
+        sum = sum + i;
+    print(sum)
 # Input a: 1
 # Input b: 3
 # 6
@@ -130,11 +145,11 @@ def for_7():
 def for_8():
     a = int(input("Input a: "))
     b = int(input("Input b: "))
-    sum = 1
+    product = 1
 
     for i in range(a,b+1):
-        sum = sum*i
-    print(sum)
+        product = product*i
+    print(product)
 
 #=================================================================================
 
@@ -144,12 +159,11 @@ def for_8():
 def for_9():
     a = int(input("Input a: "))
     b = int(input("Input b: "))
-    sum = 1
+    sum = 0
 
     for i in range(a,b+1):
-        sum = i ** 2
+        sum += i ** 2
     print(sum)
-
 
 #=================================================================================
 
@@ -158,25 +172,59 @@ def for_9():
 
 def for_10():
     n = int(input("Input n: "))
-    result = 1
+    result = 0
 
     for i in range(1,n+1):
         result = result +1/i
 
     print(result)
 
-
 #=================================================================================
 # For11. Дано целое число N (> 0). Найти сумму N2 + (N + 1)2 + (N + 2)2 +…+ (2*N)2 (целое число).
 
 def for_11():
     n = int(input("Input n: "))
-    result = 1
+    result = 0
 
-    for i in range (1, n):
-        result = result+math.sqrt(n+i)
+    for i in range (n+1):
+        result = result + (n+i)**2
     print(result)
 
 
-for_11()
+#=================================================================================
 
+# For12 ◦ . Дано целое число N (> 0). Найти произведение
+# 1.1 · 1.2 · 1.3 · . . .(N сомножителей).
+
+def for_12():
+    n = int(input("Input n: ")) #отримати вхідні дані
+
+    product = 1#розрахунки
+    x = 1.1
+    for i in range (n):
+        product *=x
+        x +=0.1
+
+    print(product) #виведення результатів
+
+
+#=================================================================================
+
+# For13 ◦ . Дано целое число N (> 0). Найти значение выражения
+# 1.1 − 1.2 + 1.3 − . . .
+# (N слагаемых, знаки чередуются). Условный оператор не использовать.
+
+def for_13():
+    n = int(input("Input n: ")) #отримати вхідні дані
+
+    sum = 0#розрахунки
+    x = 1.1
+    sign = 1
+    for i in range (n):
+        sum +=x*sign
+        sign = -sign #так здобуваємо чергування + -
+        x +=0.1
+
+    print(sum) #виведення результатів
+
+for_13()
