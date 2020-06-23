@@ -432,16 +432,13 @@ def for_22():
     x = float(input("Input x: "))  # отримати вхідні дані f
     n = int(input("Input n: "))  # отримати вхідні дані n
 
-    summ = 0
-    fact = 1
-    x_val = 1
+    sum = 0
+    a = 1
 
-
-    for i in range(1, n + 1):
-        n_fact = i*n
-        summ = (x_val +(x**x))/(2/fact)
-    print(n_fact)
-    print(summ)
+    for i in range(1, n+1):
+        a = a * x/i
+        sum += a
+    print(sum)
 
 for_22()
 
