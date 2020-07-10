@@ -34,6 +34,7 @@ age = 22
 print_info(john.name)
 print_info(Person.john)
 
+#https://itvdn.com/ru/video/python-essential 48 minutes
 
 
 
