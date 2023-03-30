@@ -80,12 +80,6 @@ with open('average_temperature.txt', 'w') as t_average_file:
 with open('temperature_deviation.txt', 'w') as t_deviation_file:
     for t in temperature_deviation:
         t_deviation_file("%.2f\n" % t)
-=======
-'''
-#-----------------------------------------------------------------
-# Запишем результати в файл
 
-with open (avg_temperature.txt, 'w') as write_doc:
-    a
 
->>>>>>> Stashed changes
+

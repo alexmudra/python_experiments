@@ -369,3 +369,28 @@ for i in range(n - 2):
 print(fibs)
 #[1, 1, 2, 3, 5, 8, 13, 21, 34, 55]
 
+#////////////////////////////////////////
+# Створіть пустий список і додайте до нього кілька елементів. Потім виведіть цей список на екран.
+
+lst = []
+lst.append(1)
+lst.append("f")
+lst.append(2)
+lst.append("hello")
+print(lst)
+
+
+print(">->"*20)
+
+# Створіть список, що містить числа від 1 до 10. Потім виведіть на екран елементи списку з індексами, починаючи з нуля.
+lst = []
+for i in range (1, 11):
+    lst.append(i)
+for index, number in enumerate(lst):
+    print("[{}]{}".format(index, number), "Indexes and list values")
+
+
+
+
+
+
