@@ -292,3 +292,15 @@ for i in a:
 #
 # for c in s:
 #     print(c)
+
+
+#Створіть програму, що виводить на екран всі парні числа від 1 до 100.
+#вар 1
+lst = []
+for num in range(2,101,2):
+    lst.append(num)
+    print(lst)
+
+#вар 2
+for numb in range(2, 101, 2):
+    print(numb)
