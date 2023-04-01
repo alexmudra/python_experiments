@@ -406,11 +406,30 @@ ls_with_diff_types = [1, True, 0.22, "nice"]
 for element in ls_with_diff_types:
     print(element, isinstance(element, type(element)))
 
-
-
-#
 # Створіть список, що містить числа від 1 до 5. Потім видаліть з цього списку кожен другий елемент та виведіть оновлений список на екран.
-#
-# Надіюся, ці завдання допоможуть у розумінні списків!
+ls = []
+for i in range(1, 6):
+    ls.append(i)
+    # print(ls)
 
+newq_list = []
+for i in range(len(ls)):
+    if i % 2 == 0:
+        newq_list.append(ls[i])
+# print(newq_list) #[1, 3, 5]
 
+#вар2  із викосританням слайсів
+ls = []
+for i in range(1, 6):
+    ls.append(i)
+del ls[::2]
+print(ls) #[2, 4]
+
+#вар 3 із методом pop
+lsі = []
+for i in range(1, 6):
+    lsі.append(i)
+for i in range(len(lsі)):
+    if i % 2 == 0:
+        lsі.pop(i)
+print(lsі) #[2, 4]
