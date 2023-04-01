@@ -395,9 +395,19 @@ lst_fruits = ["абрикос", "банан", "вишня"]
 for i in lst_fruits:
     print(i, sep='\n')
 
-
-#
 # Створіть список, що містить різні типи даних, такі як числа, рядки та булеві значення. Потім виведіть на екран кожен елемент цього списку разом з його типом даних.
+#Варіант 1
+ls_with_diff_types = [1, True, 0.22, "nice",]
+for i in ls_with_diff_types:
+    print(i, type(i))
+
+#Варіант 2
+ls_with_diff_types = [1, True, 0.22, "nice"]
+for element in ls_with_diff_types:
+    print(element, isinstance(element, type(element)))
+
+
+
 #
 # Створіть список, що містить числа від 1 до 5. Потім видаліть з цього списку кожен другий елемент та виведіть оновлений список на екран.
 #
