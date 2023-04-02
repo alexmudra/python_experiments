@@ -89,3 +89,30 @@ for i in substrings:
         break
 else:
     print("Substring not found")
+
+
+# Підрахувати кількість парних та непарних чисел у заданому списку за допомогою циклу for
+spusok  = [i for i in range(0, 35)]
+ev_numb = 0
+not_ev_numb = 0
+for x in spusok:
+    if x % 2 == 0:
+        ev_numb = ev_numb+1
+    else:
+        not_ev_numb = not_ev_numb + 1
+
+print(ev_numb)
+print(not_ev_numb)
+
+
+# Вивести на екран всі позитивні елементи заданого списку цілих чисел за допомогою циклу for.
+#вар 1
+op = [i for i in range(-10, 35)]
+
+for x in op:
+    if isinstance(x, (int)) and x >= 0:
+        print("Pos number", x)
+
+#вар 2
+op = [i for i in range(-10, 35) if i >= 0] #в генераторі списків задав умову на позитивні числа
+print("Positive numbers:", op)
